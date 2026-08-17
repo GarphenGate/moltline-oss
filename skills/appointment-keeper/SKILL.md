@@ -1,5 +1,5 @@
 ---
-name: renewal-radar
+name: appointment-keeper
 description: One list of everything expiring in the next 90 days, sorted by how soon it bites. Use quarterly or whenever expiry anxiety strikes.
 version: 1.0.0
 ---

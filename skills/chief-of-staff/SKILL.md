@@ -1,5 +1,5 @@
 ---
-name: standup-summarizer
+name: chief-of-staff
 description: "Turn rough notes into a crisp yesterday/today/blockers update; use before a standup, an investor ping, or any moment someone asks what you have been doing."
 version: 1.0.0
 ---

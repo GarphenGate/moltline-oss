@@ -1,5 +1,5 @@
 ---
-name: weekly-planner
+name: homeschool-planner
 description: The homeschool week on one flexible page, per child. Use every weekend to set the week, or mid-week to re-plan after life happens.
 version: 1.0.0
 ---

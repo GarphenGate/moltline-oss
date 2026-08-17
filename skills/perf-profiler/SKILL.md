@@ -1,5 +1,5 @@
 ---
-name: benchmark-template
+name: perf-profiler
 description: A fair benchmark setup in five steps, ready to fill in and run. Use when the user wants to measure something quickly without designing a methodology from scratch.
 version: 1.0.0
 ---

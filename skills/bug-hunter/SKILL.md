@@ -1,5 +1,5 @@
 ---
-name: bug-report-formatter
+name: bug-hunter
 description: Turn a vague 'it's broken' into a report a maintainer can act on. Use whenever a bug needs to be filed, handed off, or posted to an issue tracker.
 version: 1.0.0
 ---

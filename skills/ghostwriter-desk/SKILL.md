@@ -1,5 +1,5 @@
 ---
-name: voice-sampler
+name: ghostwriter-desk
 description: Paste three samples of someone's writing and get a starter voice profile back; use to see voice modeling work before onboarding a real client.
 version: 1.0.0
 ---

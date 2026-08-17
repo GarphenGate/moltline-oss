@@ -1,5 +1,5 @@
 ---
-name: occasion-calendar
+name: gift-genius
 description: Build the master list of birthdays, anniversaries, and dates the user must not miss. Use once to set up, then whenever a new person or date enters the picture.
 version: 1.0.0
 ---

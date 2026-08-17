@@ -1,5 +1,5 @@
 ---
-name: inbox-zero-digest
+name: everyday-pa
 description: A morning readout of the three emails that actually need the user today. Use at the start of the day or whenever the user asks what in their inbox matters.
 version: 1.0.0
 ---

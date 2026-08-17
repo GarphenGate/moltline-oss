@@ -1,5 +1,5 @@
 ---
-name: doc-checklist
+name: accounting-practice-pal
 description: Generate a starter document checklist for a new client by situation, in plain English. Use at first contact, before the engagement details are even settled.
 version: 1.0.0
 ---

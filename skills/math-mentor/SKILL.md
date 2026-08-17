@@ -1,5 +1,5 @@
 ---
-name: problem-of-the-day
+name: math-mentor
 description: Serve one daily math problem at the student's level with a three-rung hint ladder. Use each day the student checks in, or whenever they ask for today's problem.
 version: 1.0.0
 ---

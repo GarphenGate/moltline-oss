@@ -1,5 +1,5 @@
 ---
-name: inbox-digest
+name: inbox-commander
 description: Produce a morning summary of what in the inbox actually needs you, in three lines; use daily before opening email, so email does not open you.
 version: 1.0.0
 ---

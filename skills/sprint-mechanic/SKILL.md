@@ -1,5 +1,5 @@
 ---
-name: ticket-template
+name: sprint-mechanic
 description: The ticket format that prevents mid-sprint surprises, ready to adopt today. Use when the user wants a standard ticket structure or asks why their tickets keep going sideways.
 version: 1.0.0
 ---

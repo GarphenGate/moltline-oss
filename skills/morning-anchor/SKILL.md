@@ -1,5 +1,5 @@
 ---
-name: routine-card
+name: morning-anchor
 description: Put the user's morning routine on one card in two sizes and iterate it weekly. Use when the user wants their routine written down, simplified, or reviewed after a week of use.
 version: 1.0.0
 ---

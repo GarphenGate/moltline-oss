@@ -1,5 +1,5 @@
 ---
-name: postmortem-template
+name: error-budget-keeper
 description: The five sections every postmortem needs, sized for small teams. Use when the user wants to run their first postmortem or standardize how incidents get written up.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: outline-template
+name: blog-machine
 description: Produce the post skeleton that beats the blank page for any topic in two minutes; use when starting from zero, before a client call, or to unstick a post you cannot begin.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: summary-sheet
+name: lecture-digestor
 description: Paste raw lecture notes and get the one-page version with gaps marked. Use after any lecture for a fast, honest compression of what you captured.
 version: 1.0.0
 ---

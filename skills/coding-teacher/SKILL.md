@@ -1,5 +1,5 @@
 ---
-name: exercise-a-day
+name: coding-teacher
 description: Serve one small daily coding exercise at the learner's level with test cases and laddered hints. Use each day the learner checks in, or whenever they ask for today's exercise.
 version: 1.0.0
 ---

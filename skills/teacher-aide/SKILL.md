@@ -1,5 +1,5 @@
 ---
-name: rubric-template
+name: teacher-aide
 description: A four-level rubric skeleton adaptable to any assignment in minutes. Use when you need consistent grading language fast, before building a full custom rubric.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: question-generator
+name: reading-comprehension-coach
 description: Turn any pasted passage into comprehension questions with answer locations. Use to self-quiz after a reading or to check that an assigned text was actually understood.
 version: 1.0.0
 ---

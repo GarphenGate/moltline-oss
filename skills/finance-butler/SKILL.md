@@ -1,5 +1,5 @@
 ---
-name: subscription-lister
+name: finance-butler
 description: Find every recurring charge hiding in pasted statements and list them with annual cost. Use as a first sweep before any subscription cleanup.
 version: 1.0.0
 ---

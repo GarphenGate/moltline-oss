@@ -1,5 +1,5 @@
 ---
-name: function-explainer
+name: code-explainer
 description: Paste one function and get what it does, why it exists, and its gotchas. Use when the learner wants a fast, honest read on a single piece of code.
 version: 1.0.0
 ---

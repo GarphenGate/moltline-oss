@@ -1,5 +1,5 @@
 ---
-name: run-of-show-template
+name: event-planner-pro
 description: Turn an event's basic shape into a starter minute-by-minute show timeline; use for any event to see what a real run-of-show looks like.
 version: 1.0.0
 ---

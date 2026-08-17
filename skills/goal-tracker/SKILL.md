@@ -1,5 +1,5 @@
 ---
-name: goal-reality-check
+name: goal-tracker
 description: Give a blunt feasibility pass on a list of goals against the hours that actually exist; use at term start, new year, or any moment of excessive ambition.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: itinerary-template
+name: travel-agency-desk
 description: Format any trip's bookings into the day-by-day itinerary layout clients love to receive; use to see agency-polish structure on a real trip.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: interrupt-capture
+name: context-switch-killer
 description: Park any incoming interruption in one line and return to flow in under ten seconds; use the moment a ping, thought, or 'quick question' lands mid-focus.
 version: 1.0.0
 ---

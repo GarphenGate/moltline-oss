@@ -1,5 +1,5 @@
 ---
-name: rsvp-drafter
+name: social-secretary
 description: Draft the graceful yes, no, or maybe to any invitation, in the user's own voice. Use the moment an invitation needs answering and the right words aren't there.
 version: 1.0.0
 ---

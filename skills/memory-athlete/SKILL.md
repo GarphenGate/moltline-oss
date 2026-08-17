@@ -1,5 +1,5 @@
 ---
-name: mnemonic-maker
+name: memory-athlete
 description: Paste a list and get three different mnemonics for it, ready to test. Use for any list that must be remembered by a date, from anatomy to a speech's points.
 version: 1.0.0
 ---

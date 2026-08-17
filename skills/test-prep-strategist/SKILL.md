@@ -1,5 +1,5 @@
 ---
-name: pacing-tracker
+name: test-prep-strategist
 description: Find where section time actually goes with a simple per-block time map and one finding. Use after any timed practice section when time ran out or finished suspiciously early.
 version: 1.0.0
 ---

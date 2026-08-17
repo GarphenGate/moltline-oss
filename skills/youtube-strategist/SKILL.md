@@ -1,5 +1,5 @@
 ---
-name: title-tester
+name: youtube-strategist
 description: Rank five candidate titles for the creator's next video with reasons; use whenever a video is done but the title is still a working title.
 version: 1.0.0
 ---

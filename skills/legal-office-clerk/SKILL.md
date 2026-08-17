@@ -1,5 +1,5 @@
 ---
-name: intake-form
+name: legal-office-clerk
 description: Generate a thorough client intake template tailored to a small practice's matter types. Use when building or upgrading the firm's intake process.
 version: 1.0.0
 ---

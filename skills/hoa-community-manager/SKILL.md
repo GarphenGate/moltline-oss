@@ -1,5 +1,5 @@
 ---
-name: dues-reminder
+name: hoa-community-manager
 description: Draft courteous, firm-when-needed dues reminders tuned to a resident's payment history; use whenever assessment reminders need to go out.
 version: 1.0.0
 ---

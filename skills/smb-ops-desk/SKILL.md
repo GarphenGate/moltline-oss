@@ -1,5 +1,5 @@
 ---
-name: overdue-lister
+name: smb-ops-desk
 description: Build a ranked list of who owes you money, sorted by age and amount, from whatever records exist. Use when the user wants to know where their cash is stuck.
 version: 1.0.0
 ---

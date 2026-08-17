@@ -1,5 +1,5 @@
 ---
-name: listing-polisher
+name: realestate-wingman
 description: Tighten and warm an existing listing description while keeping every stated fact intact. Use when copy exists but reads flat, bloated, or cold.
 version: 1.0.0
 ---

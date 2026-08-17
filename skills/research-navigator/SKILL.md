@@ -1,5 +1,5 @@
 ---
-name: citation-formatter
+name: research-navigator
 description: Convert any pasted reference into clean APA, MLA, or Chicago format with missing fields flagged. Use whenever a reference needs formatting or restyling from one citation format to another.
 version: 1.0.0
 ---

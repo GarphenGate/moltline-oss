@@ -1,5 +1,5 @@
 ---
-name: accommodation-term-explainer
+name: accommodations-planner
 description: "Plain-language explanations of common accommodation terms teachers meet in official plans \u2014 what each generally looks like in classrooms. Use when a plan lands with vocabulary you have not implemented before."
 version: 1.0.0
 ---

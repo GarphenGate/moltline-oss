@@ -1,5 +1,5 @@
 ---
-name: post-repurposer
+name: social-strategist
 description: Reshape one idea natively for three platforms with distinct hooks and formats; use whenever one good idea deserves more than one post, or a strong post on one platform should travel.
 version: 1.0.0
 ---

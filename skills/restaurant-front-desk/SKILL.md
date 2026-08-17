@@ -1,5 +1,5 @@
 ---
-name: review-reply-drafter
+name: restaurant-front-desk
 description: Paste any single restaurant review and get back the public reply that helps. Use for the review sitting unanswered right now.
 version: 1.0.0
 ---

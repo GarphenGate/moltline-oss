@@ -1,5 +1,5 @@
 ---
-name: hint-ladder
+name: kids-homework-helper
 description: Three hints for any homework problem, from nudge to almost-there, never the answer. Use when a child is stuck and a parent wants to help without just telling.
 version: 1.0.0
 ---

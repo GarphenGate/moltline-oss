@@ -1,5 +1,5 @@
 ---
-name: voice-quiz
+name: brand-voice-keeper
 description: Reveal a brand's actual voice through five forced-choice questions with instant analysis; use at the very start of voice work, or to get a vague client saying concrete things about how they sound.
 version: 1.0.0
 ---

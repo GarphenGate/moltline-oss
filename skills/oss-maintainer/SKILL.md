@@ -1,5 +1,5 @@
 ---
-name: issue-templates
+name: oss-maintainer
 description: Bug and feature templates that produce reports maintainers can act on. Use when the user's issue queue is full of unusable reports or they are setting up a new repository.
 version: 1.0.0
 ---

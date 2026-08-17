@@ -1,5 +1,5 @@
 ---
-name: index-advisor
+name: database-doctor
 description: Paste a slow query and schema, get ranked index candidates with reasoning and costs. Use when a specific query is slow and you suspect an index would help.
 version: 1.0.0
 ---

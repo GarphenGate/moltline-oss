@@ -1,5 +1,5 @@
 ---
-name: brief-template
+name: visual-brief-writer
 description: Generate the one-page design brief template designers thank you for, pre-filled from a short project description; use at any project kickoff.
 version: 1.0.0
 ---

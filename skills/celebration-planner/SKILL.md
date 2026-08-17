@@ -1,5 +1,5 @@
 ---
-name: party-checklist
+name: celebration-planner
 description: Everything to lock in for a celebration, grouped by weeks-out with lead times built in. Use when the user asks what they need to do for an upcoming party or wants a party checklist.
 version: 1.0.0
 ---

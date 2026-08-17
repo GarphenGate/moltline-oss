@@ -1,5 +1,5 @@
 ---
-name: theme-generator
+name: zine-publisher
 description: Generate ten zine themes with a first-page idea for each; use when someone wants to make a zine and doesn't know about what.
 version: 1.0.0
 ---

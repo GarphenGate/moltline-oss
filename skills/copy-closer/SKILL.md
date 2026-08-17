@@ -1,5 +1,5 @@
 ---
-name: cta-generator
+name: copy-closer
 description: Generate ten CTAs matched to a page's actual intent instead of defaulting to 'Learn More'; use whenever any button, link, or ask needs words and the cursor is blinking.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: lesson-plan-outliner
+name: curriculum-architect-hs
 description: "Outline a single lesson in backward-design order \u2014 objective, evidence, arc \u2014 in about five minutes. Use for tomorrow's lesson or to feel out the method before planning a full unit."
 version: 1.0.0
 ---

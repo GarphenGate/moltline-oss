@@ -1,5 +1,5 @@
 ---
-name: gap-quiz
+name: career-upskiller
 description: Ten questions that reveal your real gap for a target role. Use before spending money on any course, or when you suspect the gap is not what you think.
 version: 1.0.0
 ---

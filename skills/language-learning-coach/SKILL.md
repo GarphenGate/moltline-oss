@@ -1,5 +1,5 @@
 ---
-name: daily-practice-menu
+name: language-learning-coach
 description: "Get a fresh 15-minute practice menu for your language and level, in under a minute. Use daily, especially on days when motivation is the scarce resource."
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: warmup-generator
+name: virtual-classroom-producer
 description: "Generate age-appropriate icebreakers and warm-ups for online sessions in seconds, matched to class size and platform. Use in the ten minutes before any live session that needs to start warm."
 version: 1.0.0
 ---

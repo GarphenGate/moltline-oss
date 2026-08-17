@@ -1,5 +1,5 @@
 ---
-name: discovery-question-generator
+name: sales-call-coach
 description: "Generate sharp, non-generic discovery questions for a specific prospect and offer. Use before any first call, or when your discovery keeps producing polite answers and no information."
 version: 1.0.0
 ---

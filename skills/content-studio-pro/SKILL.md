@@ -1,5 +1,5 @@
 ---
-name: hook-generator
+name: content-studio-pro
 description: Generate ten scroll-stopping openings for any topic, spread across distinct hook mechanics; use before drafting any post, script, or headline when the opening line is the blocker.
 version: 1.0.0
 ---

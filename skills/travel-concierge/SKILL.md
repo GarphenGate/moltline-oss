@@ -1,5 +1,5 @@
 ---
-name: packing-list
+name: travel-concierge
 description: Generate a trip-specific packing list from destination, duration, and planned activities. Use once a trip is booked or whenever the user says they need to pack.
 version: 1.0.0
 ---

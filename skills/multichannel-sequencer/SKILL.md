@@ -1,5 +1,5 @@
 ---
-name: starter-sequence
+name: multichannel-sequencer
 description: "Generate a ready-to-adapt 3-touch starter sequence \u2014 email, LinkedIn, email \u2014 for one ICP in minutes. Use to get a first coordinated motion running today."
 version: 1.0.0
 ---

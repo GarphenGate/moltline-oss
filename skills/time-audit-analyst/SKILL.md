@@ -1,5 +1,5 @@
 ---
-name: time-log-template
+name: time-audit-analyst
 description: Set up the lightest time-tracking format that still supports leak-finding and utilization math; use when starting tracking or after abandoning a heavier system.
 version: 1.0.0
 ---

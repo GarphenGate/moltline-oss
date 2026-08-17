@@ -1,5 +1,5 @@
 ---
-name: closet-audit
+name: wardrobe-valet
 description: Run the 30-minute closet inventory that maps what's owned, worn, and orphaned. Use when the user wants to start organizing their wardrobe or says they have nothing to wear.
 version: 1.0.0
 ---

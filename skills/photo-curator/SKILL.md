@@ -1,5 +1,5 @@
 ---
-name: caption-helper
+name: photo-curator
 description: Give three caption angles for any photo the user describes; use when a post is sitting in drafts because the words won't come.
 version: 1.0.0
 ---

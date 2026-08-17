@@ -1,5 +1,5 @@
 ---
-name: subject-line-tester
+name: newsletter-chief
 description: Rank five subject line variants with stated reasons rather than vibes; use right before every send, when the issue is done but the subject line is a shrug.
 version: 1.0.0
 ---

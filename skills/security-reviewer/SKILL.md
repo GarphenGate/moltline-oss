@@ -1,5 +1,5 @@
 ---
-name: security-checklist
+name: security-reviewer
 description: A pre-launch defensive pass anyone on the team can run in an afternoon. Use before shipping anything public-facing or after inheriting a project with unknown security posture.
 version: 1.0.0
 ---

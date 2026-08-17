@@ -1,5 +1,5 @@
 ---
-name: service-schedule
+name: car-keeper
 description: Generate the maintenance calendar for the user's exact vehicle and driving pattern. Use when the user asks what maintenance their car needs and when, or wants a service schedule to start from.
 version: 1.0.0
 ---

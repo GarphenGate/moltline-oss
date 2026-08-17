@@ -1,5 +1,5 @@
 ---
-name: gitignore-builder
+name: git-wizard
 description: Build a correct .gitignore for your exact stack, and clean up files already tracked by mistake. Use when starting a repo or when build artifacts keep showing up in diffs.
 version: 1.0.0
 ---

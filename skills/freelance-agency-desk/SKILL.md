@@ -1,5 +1,5 @@
 ---
-name: proposal-outline
+name: freelance-agency-desk
 description: Generate the problem-first proposal skeleton for any project from a short brief; use before writing any proposal from scratch.
 version: 1.0.0
 ---

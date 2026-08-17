@@ -1,5 +1,5 @@
 ---
-name: deploy-checklist
+name: devops-sentinel
 description: The ten checks that catch most bad deploys before they leave the driveway. Use as a fast gate before any production deploy when there's no custom checklist yet.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: habit-scorecard
+name: habit-forge
 description: Build a one-glance weekly habit scorecard sized to what the user will actually fill in; use when starting tracking or when a tracker was abandoned.
 version: 1.0.0
 ---

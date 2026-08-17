@@ -1,5 +1,5 @@
 ---
-name: shownotes-template
+name: podcast-producer
 description: Generate the episode page format listeners actually use, pre-filled from your episode details; use when setting up a show's notes format or upgrading pages that are just a paragraph and a link.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: prompt-a-day
+name: poetry-workshop
 description: Deliver a daily writing prompt with one craft focus attached; use every morning or whenever the page is blank, to build a writing practice fifteen minutes at a time.
 version: 1.0.0
 ---

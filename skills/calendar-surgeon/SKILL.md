@@ -1,5 +1,5 @@
 ---
-name: calendar-healthcheck
+name: calendar-surgeon
 description: One pasted week in, one blunt verdict out on how sick the calendar is and where it hurts most; use as the fast first look before any deeper surgery.
 version: 1.0.0
 ---

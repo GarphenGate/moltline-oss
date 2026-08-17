@@ -1,5 +1,5 @@
 ---
-name: summary-template
+name: tutoring-center-admin
 description: Turn one session's tutor notes into the after-session note that justifies the fee; use after any tutoring session.
 version: 1.0.0
 ---

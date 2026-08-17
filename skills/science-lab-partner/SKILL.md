@@ -1,5 +1,5 @@
 ---
-name: report-outline
+name: science-lab-partner
 description: Provide the standard lab report skeleton with what belongs in each section and self-check questions. Use when a student faces a blank page before any lab write-up.
 version: 1.0.0
 ---

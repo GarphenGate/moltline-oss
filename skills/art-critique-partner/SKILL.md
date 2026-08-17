@@ -1,5 +1,5 @@
 ---
-name: critique-checklist
+name: art-critique-partner
 description: Guide a self-critique of any piece through seven questions; use before sharing work or whenever no critique partner is available.
 version: 1.0.0
 ---

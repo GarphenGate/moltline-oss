@@ -1,5 +1,5 @@
 ---
-name: hook-bank
+name: script-doctor
 description: Adapt twenty proven hook patterns to your specific topic with ready-to-say lines; use when planning content for the week or staring at a topic with no opening in mind.
 version: 1.0.0
 ---

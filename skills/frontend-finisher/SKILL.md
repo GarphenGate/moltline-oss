@@ -1,5 +1,5 @@
 ---
-name: a11y-quickcheck
+name: frontend-finisher
 description: Check a UI against the eight accessibility issues most products ship with, in fifteen minutes. Use on any page before it goes public, or as a first look at an inherited frontend.
 version: 1.0.0
 ---

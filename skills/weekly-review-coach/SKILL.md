@@ -1,5 +1,5 @@
 ---
-name: week-in-review
+name: weekly-review-coach
 description: Close the week in five minutes with three questions and one adjustment for next week; use any Friday, especially the ones too busy for a full review.
 version: 1.0.0
 ---

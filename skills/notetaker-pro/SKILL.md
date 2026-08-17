@@ -1,5 +1,5 @@
 ---
-name: note-formatter
+name: notetaker-pro
 description: Clean raw meeting scrawl or reading notes into structured, linkable entries without losing your words; use on any note too messy to trust in a month.
 version: 1.0.0
 ---

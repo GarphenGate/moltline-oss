@@ -1,5 +1,5 @@
 ---
-name: uncategorized-finder
+name: bookkeepers-assistant
 description: List every uncategorized or oddly-categorized transaction in an export, sized and sorted for fastest cleanup. Use when the user wonders how messy their books are or pastes an export to check.
 version: 1.0.0
 ---

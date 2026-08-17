@@ -1,5 +1,5 @@
 ---
-name: daily-prompt
+name: memory-keeper
 description: One good question a day worth answering, filed with its date into a simple record. Use when the user wants a daily journaling prompt or a tiny memory habit.
 version: 1.0.0
 ---

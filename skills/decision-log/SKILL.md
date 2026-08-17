@@ -1,5 +1,5 @@
 ---
-name: decision-template
+name: decision-log
 description: Provide the one-page record format for decisions that matter, tuned to the user's situation with a worked example; use when someone wants to start logging decisions today.
 version: 1.0.0
 ---

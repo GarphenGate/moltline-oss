@@ -1,5 +1,5 @@
 ---
-name: declutter-checklist
+name: digital-declutter
 description: The weekend digital cleanup as a step-by-step checklist with safe stopping points. Use when the mess has reached the point of action, one bounded session at a time.
 version: 1.0.0
 ---

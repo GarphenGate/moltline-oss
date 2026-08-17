@@ -1,5 +1,5 @@
 ---
-name: loi-outliner
+name: grant-writing-studio
 description: Turn one mission paragraph plus a funder's guidelines into a letter-of-inquiry skeleton tailored to that funder. Use when the user wants to approach a funder and needs the LOI started today.
 version: 1.0.0
 ---

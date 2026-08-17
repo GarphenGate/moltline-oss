@@ -1,5 +1,5 @@
 ---
-name: study-slot-finder
+name: pro-exams-study-desk
 description: Find the realistic study hours hiding in a working week and rate each slot's quality for deep or light study. Use when the user says they have no time to study or wants to know what their schedule can support.
 version: 1.0.0
 ---

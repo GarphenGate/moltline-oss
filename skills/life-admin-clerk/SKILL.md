@@ -1,5 +1,5 @@
 ---
-name: renewals-lister
+name: life-admin-clerk
 description: Surface every expiry date the household is currently gambling on, in one sitting. Use when the user wants to know what's expiring or has ever been burned by a lapsed document.
 version: 1.0.0
 ---

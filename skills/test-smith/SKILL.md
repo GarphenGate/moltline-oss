@@ -1,5 +1,5 @@
 ---
-name: test-namer
+name: test-smith
 description: Rename tests so failures explain themselves without opening the file. Use when a suite's failure output reads like a phone book, or before sharing a suite with collaborators.
 version: 1.0.0
 ---

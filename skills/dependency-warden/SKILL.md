@@ -1,5 +1,5 @@
 ---
-name: upgrade-checklist
+name: dependency-warden
 description: The safe path through any major version bump, as a reusable checklist. Use when the user is about to take a major upgrade and wants the steps that prevent the classic disasters.
 version: 1.0.0
 ---

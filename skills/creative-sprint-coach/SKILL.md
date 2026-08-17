@@ -1,5 +1,5 @@
 ---
-name: challenge-card
+name: creative-sprint-coach
 description: Deliver a ready-to-start 30-day challenge for the maker's medium; use when someone wants to start a sprint today without designing one.
 version: 1.0.0
 ---

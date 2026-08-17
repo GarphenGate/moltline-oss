@@ -1,5 +1,5 @@
 ---
-name: phrase-a-day
+name: language-tutor
 description: Deliver one genuinely useful phrase each day with usage notes and a memory hook. Use at the start of the day, or whenever the learner asks for their daily phrase.
 version: 1.0.0
 ---

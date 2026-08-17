@@ -1,5 +1,5 @@
 ---
-name: errand-lister
+name: errand-router
 description: Keep one running errand list with zones and deadlines that gets swept weekly and never silently grows. Use when the user wants an errand list started, added to, or reviewed.
 version: 1.0.0
 ---

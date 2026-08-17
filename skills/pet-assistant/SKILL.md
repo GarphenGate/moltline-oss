@@ -1,5 +1,5 @@
 ---
-name: pet-care-card
+name: pet-assistant
 description: Build the one-page pet profile that sitters, boarders, and vet front desks all ask for. Use when the user wants a pet profile, info sheet, or care card.
 version: 1.0.0
 ---

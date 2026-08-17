@@ -1,5 +1,5 @@
 ---
-name: flashcard-maker
+name: study-coach
 description: Convert any notes into clean question-and-answer flashcards ready for review or import. Use when the student pastes notes, a chapter, or a vocab list and wants cards to drill from.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: daily-log-template
+name: construction-foreman-aide
 description: Get the two-minute end-of-day site log format crews actually fill in. Use to standardize daily documentation across projects today.
 version: 1.0.0
 ---

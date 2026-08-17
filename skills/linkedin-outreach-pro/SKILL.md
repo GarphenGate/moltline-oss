@@ -1,5 +1,5 @@
 ---
-name: connection-request-rewriter
+name: linkedin-outreach-pro
 description: "Rewrite a draft LinkedIn connection request so it reads honest, specific, and worth accepting. Use on any draft before it goes out."
 version: 1.0.0
 ---

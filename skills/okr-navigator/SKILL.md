@@ -1,5 +1,5 @@
 ---
-name: okr-grader
+name: okr-navigator
 description: Paste your existing OKRs and get a hard critique of vague, sandbagged, or fantasy ones; use before the quarter locks, while rewrites are still free.
 version: 1.0.0
 ---

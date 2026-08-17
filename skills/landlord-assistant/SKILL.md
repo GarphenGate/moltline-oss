@@ -1,5 +1,5 @@
 ---
-name: notice-templates
+name: landlord-assistant
 description: Produce clean drafts of routine tenant notices like entry, rent reminders, and policy updates; use whenever a standard notice needs writing.
 version: 1.0.0
 ---

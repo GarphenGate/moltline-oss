@@ -1,5 +1,5 @@
 ---
-name: milestone-map
+name: thesis-advisor
 description: Your thesis timeline back-planned from the deadline on one page. Use the day the deadline becomes real, or whenever the current plan stops being believable.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: grocery-organizer
+name: household-manager
 description: Turn meal plans and scattered scraps into one clean, deduplicated grocery list. Use before a grocery run or when notes and requests have piled up all week.
 version: 1.0.0
 ---

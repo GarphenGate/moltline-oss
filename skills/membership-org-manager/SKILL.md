@@ -1,5 +1,5 @@
 ---
-name: welcome-sequence
+name: membership-org-manager
 description: Draft a new-member welcome message series that starts engagement right in the first two weeks; use when onboarding new members or fixing a weak welcome.
 version: 1.0.0
 ---

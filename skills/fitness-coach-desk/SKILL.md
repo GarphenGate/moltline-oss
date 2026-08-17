@@ -1,5 +1,5 @@
 ---
-name: checkin-script
+name: fitness-coach-desk
 description: Get the weekly client check-in script that takes five minutes and actually gets replies. Use to start a check-in habit this week, even with zero systems.
 version: 1.0.0
 ---

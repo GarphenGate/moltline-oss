@@ -1,5 +1,5 @@
 ---
-name: description-writer
+name: ecommerce-operator
 description: Turn a product photo description and bullet facts into one publishable product description. Use for a quick single-product page without the full catalog treatment.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: subject-line-risk-checker
+name: deliverability-doctor
 description: "Check a subject line for spam-risk patterns and get two clean rewrites with the reasoning explained. Use before any send, in about thirty seconds."
 version: 1.0.0
 ---

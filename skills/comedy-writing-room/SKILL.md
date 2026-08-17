@@ -1,5 +1,5 @@
 ---
-name: premise-miner
+name: comedy-writing-room
 description: Mine the comedian's ordinary week for ten workable premises; use when the notebook is empty and everything feels done already.
 version: 1.0.0
 ---

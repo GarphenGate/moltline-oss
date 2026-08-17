@@ -1,5 +1,5 @@
 ---
-name: rough-period-reset
+name: classroom-commander
 description: "Get a quick, dignified playbook to reset a class period that's going sideways \u2014 right now or for tomorrow. Use in the planning minutes before or after the rough one."
 version: 1.0.0
 ---

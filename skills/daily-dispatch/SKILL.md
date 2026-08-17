@@ -1,5 +1,5 @@
 ---
-name: top3-picker
+name: daily-dispatch
 description: Force-rank today's overgrown list down to three with a one-line reason each; use any morning the to-do list is longer than the day.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: onboarding-notes
+name: code-archaeologist
 description: A structured note-taking template for your first week in a new codebase. Use when the user starts on unfamiliar code and wants their learning captured instead of evaporating.
 version: 1.0.0
 ---

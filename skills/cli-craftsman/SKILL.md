@@ -1,5 +1,5 @@
 ---
-name: helptext-reviewer
+name: cli-craftsman
 description: Paste your --help output and get a concrete rewrite with reasons. Use when the user suspects their help text confuses people or wants a fast second opinion on it.
 version: 1.0.0
 ---

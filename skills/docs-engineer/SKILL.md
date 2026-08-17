@@ -1,5 +1,5 @@
 ---
-name: readme-grader
+name: docs-engineer
 description: Paste a README and get the three fixes that most improve a stranger's first five minutes. Use before publishing a repo or when onboarding feedback says setup is confusing.
 version: 1.0.0
 ---

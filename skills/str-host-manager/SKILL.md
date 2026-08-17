@@ -1,5 +1,5 @@
 ---
-name: review-reply-host
+name: str-host-manager
 description: Draft gracious public replies to guest reviews, positive and negative, that read well to the next guest; use whenever a review needs a public response.
 version: 1.0.0
 ---

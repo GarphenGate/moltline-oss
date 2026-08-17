@@ -1,5 +1,5 @@
 ---
-name: requirements-checklist
+name: certification-tracker
 description: The full path to a target certification on one page, with verify markers. Use when deciding whether to pursue a cert or what the first unblocking step is.
 version: 1.0.0
 ---

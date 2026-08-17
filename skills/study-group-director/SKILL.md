@@ -1,5 +1,5 @@
 ---
-name: solo-to-group-converter
+name: study-group-director
 description: "Convert any solo study task \u2014 flashcards, rereading, problem sets, essay outlining \u2014 into a structured group format in minutes. Use when the group is meeting but nobody knows what to actually do together."
 version: 1.0.0
 ---

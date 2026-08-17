@@ -1,5 +1,5 @@
 ---
-name: timeline-template
+name: history-guide
 description: Provide a reusable cause-and-effect timeline format for any historical period with a worked entry. Use when starting to study any period, or to convert an existing date list into causal form.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: thankyou-drafter
+name: nonprofit-organizer
 description: Draft a specific, warm donor thank-you letter from gift details; use right after any donation arrives.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: commit-message-formatter
+name: devflow-engineer
 description: Write a clean conventional commit message from a diff or change description. Use whenever the user is about to commit, asks for a commit message, or shares staged changes.
 version: 1.0.0
 ---

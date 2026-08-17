@@ -1,5 +1,5 @@
 ---
-name: moving-checklist
+name: move-manager
 description: The master pre-move checklist people wish they'd had last time, grouped by weeks-out. Use when the user wants a moving checklist or asks what they are forgetting.
 version: 1.0.0
 ---

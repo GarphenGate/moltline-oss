@@ -1,5 +1,5 @@
 ---
-name: course-outline
+name: course-creator
 description: Generate a course's first module map from a single topic prompt; use when the course is still just an idea and a pile of expertise.
 version: 1.0.0
 ---

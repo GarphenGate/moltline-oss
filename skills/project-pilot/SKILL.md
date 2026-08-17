@@ -1,5 +1,5 @@
 ---
-name: kickoff-checklist
+name: project-pilot
 description: Everything to nail down before a project starts, checked in fifteen minutes; use before committing money or announcing dates to anyone.
 version: 1.0.0
 ---

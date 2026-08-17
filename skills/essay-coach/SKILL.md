@@ -1,5 +1,5 @@
 ---
-name: thesis-checker
+name: essay-coach
 description: Test a pasted thesis against the three tests of a workable essay claim in one pass. Use when a student wants a fast verdict on whether their thesis can carry an essay.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: polite-nudge
+name: followup-machine
 description: "Draft a single follow-up nudge that adds value instead of just bumping the thread. Use whenever a reply is overdue and 'just checking in' is on the tip of your fingers."
 version: 1.0.0
 ---

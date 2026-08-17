@@ -1,5 +1,5 @@
 ---
-name: followup-drafter
+name: insurance-agency-aide
 description: Draft a complete quote follow-up sequence in your agency's voice from one quote's details; use right after any quote goes out.
 version: 1.0.0
 ---

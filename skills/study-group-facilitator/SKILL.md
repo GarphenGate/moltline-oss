@@ -1,5 +1,5 @@
 ---
-name: agenda-template
+name: study-group-facilitator
 description: A fill-in study session plan that prevents social hour. Use when a group wants structure fast without a full facilitation setup.
 version: 1.0.0
 ---

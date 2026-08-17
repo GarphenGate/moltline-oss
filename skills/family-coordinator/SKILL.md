@@ -1,5 +1,5 @@
 ---
-name: family-week-digest
+name: family-coordinator
 description: The fridge-door summary of the family's week ahead, built in five minutes on Sunday. Use every Sunday evening as the one habit that catches the chaos early.
 version: 1.0.0
 ---

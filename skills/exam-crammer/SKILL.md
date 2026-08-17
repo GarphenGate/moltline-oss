@@ -1,5 +1,5 @@
 ---
-name: study-plan
+name: exam-crammer
 description: Produce a two-week exam study plan from a syllabus and an exam date in one pass. Use when an exam is about two weeks out and the student has no plan, only a syllabus and rising dread.
 version: 1.0.0
 ---

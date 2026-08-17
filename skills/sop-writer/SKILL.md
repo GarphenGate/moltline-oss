@@ -1,5 +1,5 @@
 ---
-name: sop-outline
+name: sop-writer
 description: Generate a fill-in skeleton for documenting any recurring task, pre-seeded from a two-minute description; use to start documenting today without the full interview.
 version: 1.0.0
 ---

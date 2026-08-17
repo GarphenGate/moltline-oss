@@ -1,5 +1,5 @@
 ---
-name: premise-generator
+name: story-smith
 description: Generate ten story premises with built-in conflict from your interests; use when starting fresh, between projects, or when every idea feels either empty or already taken.
 version: 1.0.0
 ---

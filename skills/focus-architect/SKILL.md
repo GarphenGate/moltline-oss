@@ -1,5 +1,5 @@
 ---
-name: focus-sprint
+name: focus-architect
 description: A guided 50-minute single-task sprint with a hard scope line and a clean exit; use when you need one thing finished and your attention keeps sliding off it.
 version: 1.0.0
 ---

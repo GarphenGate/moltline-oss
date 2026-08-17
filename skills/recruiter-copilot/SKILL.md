@@ -1,5 +1,5 @@
 ---
-name: outreach-template
+name: recruiter-copilot
 description: Draft one personalized candidate outreach message that doesn't read like spam; use before sending any sourcing message.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: aftercare-cards
+name: salon-studio-manager
 description: Generate ready-to-fill aftercare card templates for your top five services in one pass. Use to standardize aftercare today, before drafting per-client messages.
 version: 1.0.0
 ---

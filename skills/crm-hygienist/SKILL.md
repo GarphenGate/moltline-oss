@@ -1,5 +1,5 @@
 ---
-name: stale-deal-lister
+name: crm-hygienist
 description: List every open deal with no activity in 14 or more days, ranked by value with days-silent attached; use as the Monday-morning two-minute pipeline truth serum.
 version: 1.0.0
 ---

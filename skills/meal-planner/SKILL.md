@@ -1,5 +1,5 @@
 ---
-name: dinner-decider
+name: meal-planner
 description: Three tonight-ideas built from what's already in the kitchen, decided in two minutes. Use at 5pm on any day the plan didn't survive.
 version: 1.0.0
 ---

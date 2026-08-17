@@ -1,5 +1,5 @@
 ---
-name: smell-checklist
+name: refactor-surgeon
 description: A 10-point pass that grades any file's structural health in minutes. Use when reviewing unfamiliar code, prioritizing cleanup, or sanity-checking your own module before review.
 version: 1.0.0
 ---

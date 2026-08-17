@@ -1,5 +1,5 @@
 ---
-name: signage-copy
+name: farm-market-vendor
 description: Write three honest, stopping-power signs for your stand from what you're selling this week; use before any market day.
 version: 1.0.0
 ---

@@ -1,5 +1,5 @@
 ---
-name: tbr-organizer
+name: reading-butler
 description: Sort a to-be-read pile into next, someday, and admit-it-never with honest criteria. Use when the user mentions an out-of-control book pile or wants their reading list sorted.
 version: 1.0.0
 ---

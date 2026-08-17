@@ -1,5 +1,5 @@
 ---
-name: status-templates
+name: auto-shop-service-desk
 description: Generate the five repair-status message templates every shop needs, in your shop's voice; use to set up proactive customer updates.
 version: 1.0.0
 ---

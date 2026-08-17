@@ -1,5 +1,5 @@
 ---
-name: tonights-homework-rescue
+name: parent-homework-coach
 description: "A 10-minute rescue plan for a homework battle already in progress: reset the room, restart the work, save the night. Use mid-meltdown, when nothing is getting done and everyone is fried."
 version: 1.0.0
 ---

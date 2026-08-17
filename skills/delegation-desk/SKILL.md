@@ -1,5 +1,5 @@
 ---
-name: delegate-or-do
+name: delegation-desk
 description: A 60-second verdict on whether a task is worth delegating or faster to just do; use whenever you catch yourself doing something someone else could.
 version: 1.0.0
 ---

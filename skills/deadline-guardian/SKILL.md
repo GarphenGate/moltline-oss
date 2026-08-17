@@ -1,5 +1,5 @@
 ---
-name: deadline-lister
+name: deadline-guardian
 description: One list of everything due in the next 14 days, sorted by risk rather than by date; use Monday morning or any time the week feels ominous.
 version: 1.0.0
 ---

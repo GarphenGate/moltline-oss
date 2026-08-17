@@ -1,5 +1,5 @@
 ---
-name: faq-template
+name: clinic-office-helper
 description: Generate the office FAQ page skeleton covering what patients actually ask clinics. Use when building or overhauling the practice's FAQ or welcome packet.
 version: 1.0.0
 ---

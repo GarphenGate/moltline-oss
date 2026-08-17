@@ -1,5 +1,5 @@
 ---
-name: rubber-duck-lite
+name: pair-programmer
 description: Explain your problem once and get back the single question most likely to unblock you. Use when the user is stuck and wants a fast nudge rather than a full session.
 version: 1.0.0
 ---

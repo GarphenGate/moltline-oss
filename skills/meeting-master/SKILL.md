@@ -1,5 +1,5 @@
 ---
-name: meeting-cost-counter
+name: meeting-master
 description: Estimate what a recurring meeting really costs in attendee-hours and money, and judge whether it earns it; use before accepting or renewing any recurring invite.
 version: 1.0.0
 ---

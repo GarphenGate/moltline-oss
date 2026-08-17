@@ -1,5 +1,5 @@
 ---
-name: api-review-checklist
+name: api-architect
 description: Run 12 questions against any endpoint before it ships to catch the mistakes that become permanent. Use as the final gate before merging any API change.
 version: 1.0.0
 ---

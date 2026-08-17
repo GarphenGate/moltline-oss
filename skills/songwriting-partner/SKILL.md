@@ -1,5 +1,5 @@
 ---
-name: title-generator
+name: songwriting-partner
 description: Produce twenty titles that suggest a song rather than label a topic; use at the start of a write or when a finished song still has a placeholder name.
 version: 1.0.0
 ---

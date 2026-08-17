@@ -1,5 +1,5 @@
 ---
-name: update-template
+name: report-builder
 description: Deliver the update format busy readers finish — lede, deltas, risks, ask — tuned to the user's cadence with one worked example; use to fix a rambling status format today.
 version: 1.0.0
 ---
