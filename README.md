@@ -8,12 +8,28 @@ it into Claude Code, Cursor, Codex CLI, Gemini CLI, or any SKILL.md-compatible
 agent and it works immediately. No dependencies, no signup, no API keys. Built,
 versioned, and QA-tested by [Moltline Studio](https://moltlinestudio.com).
 
-## Use a skill
+## Install a skill
+
+Clone the repo, then copy any skill folder into your agent's skills directory.
+
+**Cursor** — project-level (`.cursor/skills/` or `.agents/skills/`) or user-level
+(`~/.cursor/skills/`):
 
 ```bash
-# Copy any skill folder into your agent's skills directory. Example (Claude Code):
+git clone https://github.com/GarphenGate/moltline-oss.git
+cp -r moltline-oss/skills/api-architect .cursor/skills/   # one skill, this project
+cp -r moltline-oss/skills/* ~/.cursor/skills/             # all 138, every project
+```
+
+**Claude Code / Claude Desktop:**
+
+```bash
 cp -r skills/api-architect ~/.claude/skills/
 ```
+
+**Codex CLI, Gemini CLI, or any SKILL.md-compatible agent** — copy the folder
+into that agent's skills directory; `.agents/skills/` is the emerging
+cross-tool convention.
 
 Then invoke it by name in your agent. Each `SKILL.md` declares its own `name`
 and `description` in YAML frontmatter, so compatible agents pick it up
@@ -176,8 +192,8 @@ free forever — the gateway is not a crippled demo.
 
 - **Live MCP servers (free tiers, no signup):** `https://mcp.moltlinestudio.com/`
   — 14 endpoints (code review, agent governance, date math, CSV analytics,
-  humanizer, merchant math, SKILL.md lint, and more), MCPize-Verified **B+**
-  security and protocol grade.
+  humanizer, merchant math, SKILL.md lint, and more), MCPize Verified **A**
+  on the direct endpoints.
 - **Full persona bundles** (persona + focused skills each): on
   [Agensi](https://www.agensi.io) and ClawMart — search "GarphenGate" / "Moltline".
 - **All-Access license** ($19/mo, unlocks premium tools on every server, crypto
