@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Connection Request Rewriter
 
-*Free gateway skill from the LinkedIn Outreach Pro bundle by Hankash.*
+*Free gateway skill from the LinkedIn Outreach Pro bundle by GarphenGate.*
 
 Paste your connection request draft; get back a version a stranger would actually accept — and the reason each change was made.
 

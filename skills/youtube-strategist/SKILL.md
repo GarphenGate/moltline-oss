@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Title Tester
 
-*Free gateway skill from the YouTube Strategist bundle by Hankash.*
+*Free gateway skill from the YouTube Strategist bundle by GarphenGate.*
 
 Five titles for the next video, ranked with reasons, so the working title never becomes the published one by default.
 

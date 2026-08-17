@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Delegate-or-Do
 
-*Free gateway skill from the Delegation Desk bundle by Hankash.*
+*Free gateway skill from the Delegation Desk bundle by GarphenGate.*
 
 Sixty seconds, four questions, one verdict: hand it off, keep it, or systematize it first.
 

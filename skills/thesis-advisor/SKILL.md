@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Milestone Map
 
-*Free gateway skill from the Thesis Advisor bundle by Hankash.*
+*Free gateway skill from the Thesis Advisor bundle by GarphenGate.*
 
 One page, back-planned from the date that binds, so the distance between today and done is visible.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Calendar Health Check
 
-*Free gateway skill from the Calendar Surgeon bundle by Hankash.*
+*Free gateway skill from the Calendar Surgeon bundle by GarphenGate.*
 
 The two-minute triage: paste a week, get a diagnosis and the single most urgent intervention.
 

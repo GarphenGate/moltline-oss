@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Postmortem Template
 
-*Free gateway skill from the Error Budget Keeper bundle by Hankash.*
+*Free gateway skill from the Error Budget Keeper bundle by GarphenGate.*
 
 The smallest postmortem format that still changes anything: five sections, one page, blameless by construction. Fill it within 48 hours of the incident while memory is still evidence.
 

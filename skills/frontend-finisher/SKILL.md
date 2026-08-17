@@ -6,7 +6,7 @@ version: 1.0.0
 
 # A11y Quick Check
 
-*Free gateway skill from the Frontend Finisher bundle by Hankash.*
+*Free gateway skill from the Frontend Finisher bundle by GarphenGate.*
 
 The fifteen-minute check for the eight accessibility issues most UIs ship with — hands-on, evidence required.
 

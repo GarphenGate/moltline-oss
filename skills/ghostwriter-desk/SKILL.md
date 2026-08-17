@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Voice Sampler
 
-*Free gateway skill from the Ghostwriter Desk bundle by Hankash.*
+*Free gateway skill from the Ghostwriter Desk bundle by GarphenGate.*
 
 Three pasted samples in, a starter voice profile out: the fast version of the desk's onboarding, honest about what three samples can't show.
 

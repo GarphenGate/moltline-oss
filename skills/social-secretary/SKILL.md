@@ -6,7 +6,7 @@ version: 1.0.0
 
 # RSVP Drafter
 
-*Free gateway skill from the Social Secretary bundle by Hankash.*
+*Free gateway skill from the Social Secretary bundle by GarphenGate.*
 
 Paste the invitation, say yes, no, or maybe; get back the reply you'd write with twenty unhurried minutes.
 

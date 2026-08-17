@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Renewals Lister
 
-*Free gateway skill from the Life Admin Clerk bundle by Hankash.*
+*Free gateway skill from the Life Admin Clerk bundle by GarphenGate.*
 
 One guided sweep, one list: every expiry you're currently trusting to luck, sorted by how soon it bites.
 

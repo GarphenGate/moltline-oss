@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Kickoff Checklist
 
-*Free gateway skill from the Project Pilot bundle by Hankash.*
+*Free gateway skill from the Project Pilot bundle by GarphenGate.*
 
 The fifteen-minute check that catches the misunderstanding while it still costs nothing.
 

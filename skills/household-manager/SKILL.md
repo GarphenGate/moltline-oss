@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Grocery Organizer
 
-*Free gateway skill from the Household Manager bundle by Hankash.*
+*Free gateway skill from the Household Manager bundle by GarphenGate.*
 
 Take the week's meal plan, the notes on the fridge, and three people's texts, and hand back one list that survives the store.
 

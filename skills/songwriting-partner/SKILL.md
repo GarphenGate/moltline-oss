@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Title Generator
 
-*Free gateway skill from the Songwriting Partner bundle by Hankash.*
+*Free gateway skill from the Songwriting Partner bundle by GarphenGate.*
 
 Twenty titles that suggest a song, not a label: each one implies a story, a speaker, or a tension.
 

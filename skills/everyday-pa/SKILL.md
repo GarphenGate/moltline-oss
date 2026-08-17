@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Inbox-Zero Digest
 
-*Free gateway skill from the Everyday PA bundle by Hankash.*
+*Free gateway skill from the Everyday PA bundle by GarphenGate.*
 
 One short morning readout: the three emails that actually need you, and explicit permission to ignore the rest.
 

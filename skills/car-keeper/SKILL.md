@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Service Schedule
 
-*Free gateway skill from the Car Keeper bundle by Hankash.*
+*Free gateway skill from the Car Keeper bundle by GarphenGate.*
 
 The maintenance calendar for your exact car, built in one pass from three questions.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Solo-to-Group Study Converter
 
-*Free gateway skill from the Study Group Director bundle by Hankash.*
+*Free gateway skill from the Study Group Director bundle by GarphenGate.*
 
 The group is meeting in an hour and the plan is 'study.' Paste what you'd do alone; get the group version — with structure, roles, and a reason everyone talks.
 

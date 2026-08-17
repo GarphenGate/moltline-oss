@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Deploy Checklist
 
-*Free gateway skill from the DevOps Sentinel bundle by Hankash.*
+*Free gateway skill from the DevOps Sentinel bundle by GarphenGate.*
 
 The fixed ten-point gate that catches most bad deploys, runnable in five minutes with no setup.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Errand Lister
 
-*Free gateway skill from the Errand Router bundle by Hankash.*
+*Free gateway skill from the Errand Router bundle by GarphenGate.*
 
 One list, tagged and swept weekly, that empties instead of accumulating.
 

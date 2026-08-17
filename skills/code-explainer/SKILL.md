@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Function Explainer
 
-*Free gateway skill from the Code Explainer bundle by Hankash.*
+*Free gateway skill from the Code Explainer bundle by GarphenGate.*
 
 One function in, one structured explanation out: the what, the why, and the sharp edges, at reading-in-a-hurry length.
 

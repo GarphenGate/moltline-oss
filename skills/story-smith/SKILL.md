@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Premise Generator
 
-*Free gateway skill from the Story Smith bundle by Hankash.*
+*Free gateway skill from the Story Smith bundle by GarphenGate.*
 
 Ten premises built from the author's actual interests, each with the conflict already load-bearing — a want, an opposition, and a cost in one sentence, so the good ones are testable on sight.
 

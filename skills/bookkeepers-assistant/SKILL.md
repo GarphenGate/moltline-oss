@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Uncategorized Finder
 
-*Free gateway skill from the Bookkeeper's Assistant bundle by Hankash.*
+*Free gateway skill from the Bookkeeper's Assistant bundle by GarphenGate.*
 
 Before you can clean the books, you need to see the mess. Paste an export; get back every uncategorized and oddly-categorized transaction, sized, sorted, and ready to work.
 

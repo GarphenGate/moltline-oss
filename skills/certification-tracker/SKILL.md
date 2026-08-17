@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Requirements Checklist
 
-*Free gateway skill from the Certification Tracker bundle by Hankash.*
+*Free gateway skill from the Certification Tracker bundle by GarphenGate.*
 
 One page that answers: what does this cert actually take, and what should I do first?
 

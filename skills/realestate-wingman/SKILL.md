@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Listing Polisher
 
-*Free gateway skill from the Real Estate Wingman bundle by Hankash.*
+*Free gateway skill from the Real Estate Wingman bundle by GarphenGate.*
 
 Paste a listing, get it back tighter and warmer, with every fact preserved and every empty phrase gone.
 

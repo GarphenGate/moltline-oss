@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Note Formatter
 
-*Free gateway skill from the Notetaker Pro bundle by Hankash.*
+*Free gateway skill from the Notetaker Pro bundle by GarphenGate.*
 
 From scrawl to a note future-you can find, trust, and link, without the formatter putting words in your mouth.
 

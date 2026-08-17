@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Daily Log Template
 
-*Free gateway skill from the Construction Foreman Aide bundle by Hankash.*
+*Free gateway skill from the Construction Foreman Aide bundle by GarphenGate.*
 
 The log format that survives contact with 4:30 pm: five prompts, two minutes, and a record that means something in a year.
 

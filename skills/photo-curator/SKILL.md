@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Caption Helper
 
-*Free gateway skill from the Photo Curator bundle by Hankash.*
+*Free gateway skill from the Photo Curator bundle by GarphenGate.*
 
 Describe the photo, get three genuinely different caption angles, and stop staring at the drafts folder.
 

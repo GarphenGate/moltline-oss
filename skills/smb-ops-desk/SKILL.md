@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Overdue Lister
 
-*Free gateway skill from the SMB Ops Desk bundle by Hankash.*
+*Free gateway skill from the SMB Ops Desk bundle by GarphenGate.*
 
 One list that answers the question every owner asks on a bad cash day: who owes me money, and who first.
 

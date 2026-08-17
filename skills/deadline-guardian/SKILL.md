@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Deadline Lister
 
-*Free gateway skill from the Deadline Guardian bundle by Hankash.*
+*Free gateway skill from the Deadline Guardian bundle by GarphenGate.*
 
 Fourteen days of obligations on one screen, sorted by which ones can actually hurt you.
 

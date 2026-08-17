@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Ticket Template
 
-*Free gateway skill from the Sprint Mechanic bundle by Hankash.*
+*Free gateway skill from the Sprint Mechanic bundle by GarphenGate.*
 
 Most mid-sprint surprises were visible in the ticket, or would have been if the ticket had a place to hold them. This is that ticket, with instructions for adopting it.
 

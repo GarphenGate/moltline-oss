@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Accommodation Term Explainer
 
-*Free gateway skill from the Learning Accommodations Planner bundle by Hankash.*
+*Free gateway skill from the Learning Accommodations Planner bundle by GarphenGate.*
 
 A plain-language glossary companion for the day an official plan lands on your desk full of terms like 'preferential seating' and 'reduced-distraction environment' — what each generally means in classroom practice, with your case manager as the authority on what it means for this student.
 

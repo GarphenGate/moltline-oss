@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Outreach Template
 
-*Free gateway skill from the Recruiter Copilot bundle by Hankash.*
+*Free gateway skill from the Recruiter Copilot bundle by GarphenGate.*
 
 The candidate message that gets replies proves a human did the reading. This skill drafts that message from one real specific.
 

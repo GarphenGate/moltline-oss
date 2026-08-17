@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Suite Namer
 
-*Free gateway skill from the Suite Smith bundle by Hankash.*
+*Free gateway skill from the Suite Smith bundle by GarphenGate.*
 
 Name tests so a failure message alone tells you what broke, under what condition, and why it matters.
 

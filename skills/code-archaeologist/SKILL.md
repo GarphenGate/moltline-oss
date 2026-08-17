@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Onboarding Notes
 
-*Free gateway skill from the Code Archaeologist bundle by Hankash.*
+*Free gateway skill from the Code Archaeologist bundle by GarphenGate.*
 
 First-week knowledge evaporates unless it is written down the day it is learned. This skill keeps a running onboarding log that becomes the map you wish you had been given.
 

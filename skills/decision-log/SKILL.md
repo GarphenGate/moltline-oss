@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Decision Template
 
-*Free gateway skill from the Decision Log bundle by Hankash.*
+*Free gateway skill from the Decision Log bundle by GarphenGate.*
 
 The record format that makes re-litigation optional — filled in once as a demonstration.
 

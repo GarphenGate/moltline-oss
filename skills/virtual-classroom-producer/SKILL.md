@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Icebreaker & Warm-Up Generator
 
-*Free gateway skill from the Virtual Classroom Producer bundle by Hankash.*
+*Free gateway skill from the Virtual Classroom Producer bundle by GarphenGate.*
 
 The first four minutes decide the next forty. This generator hands you a warm-up matched to age, size, and platform — before the waiting room opens.
 

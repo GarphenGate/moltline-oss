@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Gap Quiz
 
-*Free gateway skill from the Career Upskiller bundle by Hankash.*
+*Free gateway skill from the Career Upskiller bundle by GarphenGate.*
 
 Ten questions, one verdict: which kind of gap actually stands between you and the role.
 

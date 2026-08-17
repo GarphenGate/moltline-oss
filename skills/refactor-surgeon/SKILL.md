@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Smell Checklist
 
-*Free gateway skill from the Refactor Surgeon bundle by Hankash.*
+*Free gateway skill from the Refactor Surgeon bundle by GarphenGate.*
 
 Grade any file's structural health with a fixed 10-point pass — fast, repeatable, and honest about what matters.
 

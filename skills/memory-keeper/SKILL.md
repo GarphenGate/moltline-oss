@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Daily Prompt
 
-*Free gateway skill from the Memory Keeper bundle by Hankash.*
+*Free gateway skill from the Memory Keeper bundle by GarphenGate.*
 
 One question a day. Answer in two words or two paragraphs. Filed. That's the entire product, and it compounds.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Top-3 Picker
 
-*Free gateway skill from the Daily Dispatch bundle by Hankash.*
+*Free gateway skill from the Daily Dispatch bundle by GarphenGate.*
 
 Twelve items, one day. This picks the three that count and says out loud what happens to the other nine.
 

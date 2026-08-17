@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Gitignore Builder
 
-*Free gateway skill from the Git Wizard bundle by Hankash.*
+*Free gateway skill from the Git Wizard bundle by GarphenGate.*
 
 Build the .gitignore your exact stack needs — and handle the files that were committed before the rule existed.
 

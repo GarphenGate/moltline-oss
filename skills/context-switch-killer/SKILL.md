@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Interrupt Capture
 
-*Free gateway skill from the Context-Switch Killer bundle by Hankash.*
+*Free gateway skill from the Context-Switch Killer bundle by GarphenGate.*
 
 The interrupt arrives either way. This decides in ten seconds whether it gets your next two hours.
 

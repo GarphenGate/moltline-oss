@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Hook Bank
 
-*Free gateway skill from the Script Doctor bundle by Hankash.*
+*Free gateway skill from the Script Doctor bundle by GarphenGate.*
 
 Twenty hook patterns that keep working, each adapted into an actual sayable line for the user's topic — a bank to draw from, not a lecture about hooks.
 

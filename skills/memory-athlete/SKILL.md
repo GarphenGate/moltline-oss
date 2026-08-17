@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Mnemonic Maker
 
-*Free gateway skill from the Memory Athlete bundle by Hankash.*
+*Free gateway skill from the Memory Athlete bundle by GarphenGate.*
 
 Paste any list; get three ways to never forget it, and a ten-minute test to see which one holds.
 

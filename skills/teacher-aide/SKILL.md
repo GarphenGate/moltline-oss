@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Rubric Template
 
-*Free gateway skill from the Teacher Aide bundle by Hankash.*
+*Free gateway skill from the Teacher Aide bundle by GarphenGate.*
 
 A fill-in rubric skeleton with the level language already calibrated, so criteria are the only thing left to write.
 

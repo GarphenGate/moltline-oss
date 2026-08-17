@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Intake Form
 
-*Free gateway skill from the Legal Office Clerk bundle by Hankash.*
+*Free gateway skill from the Legal Office Clerk bundle by GarphenGate.*
 
 The intake form that catches what matters on day one: identities for the conflict check, dates for the docket, documents for the file — built for the firm to adapt.
 

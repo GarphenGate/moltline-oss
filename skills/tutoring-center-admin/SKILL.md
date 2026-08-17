@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Summary Template
 
-*Free gateway skill from the Tutoring Center Admin bundle by Hankash.*
+*Free gateway skill from the Tutoring Center Admin bundle by GarphenGate.*
 
 The after-session note parents forward to each other: what we covered, what moved, what's next — evidenced, warm, ninety seconds to read.
 

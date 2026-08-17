@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Commit Message Formatter
 
-*Free gateway skill from the DevFlow Engineer bundle by Hankash.*
+*Free gateway skill from the DevFlow Engineer bundle by GarphenGate.*
 
 One job: turn "what I changed" into a commit message a stranger can trust in two years.
 

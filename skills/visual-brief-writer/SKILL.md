@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Brief Template
 
-*Free gateway skill from the Visual Brief Writer bundle by Hankash.*
+*Free gateway skill from the Visual Brief Writer bundle by GarphenGate.*
 
 The one-page brief skeleton, pre-filled with whatever the user already knows and honest about what they don't.
 

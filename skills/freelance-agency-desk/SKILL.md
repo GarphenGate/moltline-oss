@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Proposal Outline
 
-*Free gateway skill from the Freelance Agency Desk bundle by Hankash.*
+*Free gateway skill from the Freelance Agency Desk bundle by GarphenGate.*
 
 The proposal skeleton that wins: the client's problem first, phased approach, priced edges, one tight credentials section. This skill builds it from a short brief.
 

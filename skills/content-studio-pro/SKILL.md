@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Hook Generator
 
-*Free gateway skill from the Content Studio Pro bundle by Hankash.*
+*Free gateway skill from the Content Studio Pro bundle by GarphenGate.*
 
 Ten real openings for one topic, each built on a different mechanic, so the user picks by fit instead of settling for the first line that came out.
 

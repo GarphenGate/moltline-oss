@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Upgrade Checklist
 
-*Free gateway skill from the Dependency Warden bundle by Hankash.*
+*Free gateway skill from the Dependency Warden bundle by GarphenGate.*
 
 Every painful major bump skipped one of the same eight steps. This is the checklist that keeps them unskipped, reusable for any dependency in any stack.
 

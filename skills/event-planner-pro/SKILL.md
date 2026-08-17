@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Run-of-Show Template
 
-*Free gateway skill from the Event Planner Pro bundle by Hankash.*
+*Free gateway skill from the Event Planner Pro bundle by GarphenGate.*
 
 The show-day timeline that prevents chaos: every minute owned, every handoff cued. This skill builds the starter version from your event's basic shape.
 

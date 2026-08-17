@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Theme Generator
 
-*Free gateway skill from the Zine Publisher bundle by Hankash.*
+*Free gateway skill from the Zine Publisher bundle by GarphenGate.*
 
 Ten themes with enough tension to fill pages, each with a first-page idea so starting is one decision away.
 

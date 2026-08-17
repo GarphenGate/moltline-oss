@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Follow-up Drafter
 
-*Free gateway skill from the Insurance Agency Aide bundle by Hankash.*
+*Free gateway skill from the Insurance Agency Aide bundle by GarphenGate.*
 
 One open quote in, four polite touches out — day 3, 8, 15, and 30 — in your agency's voice, each with one clear ask.
 

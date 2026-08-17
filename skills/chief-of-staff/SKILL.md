@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Standup Summarizer
 
-*Free gateway skill from the Chief of Staff bundle by Hankash.*
+*Free gateway skill from the Chief of Staff bundle by GarphenGate.*
 
 From messy notes to a standup update that sounds like someone in control, in under a minute.
 

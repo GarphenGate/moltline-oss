@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Prompt-a-Day
 
-*Free gateway skill from the Poetry Workshop bundle by Hankash.*
+*Free gateway skill from the Poetry Workshop bundle by GarphenGate.*
 
 One prompt a day, each carrying a single craft focus — so daily practice quietly becomes a craft education instead of a pile of unconnected freewrites.
 

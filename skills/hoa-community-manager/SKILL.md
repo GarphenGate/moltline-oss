@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Dues Reminder
 
-*Free gateway skill from the HOA Community Manager bundle by Hankash.*
+*Free gateway skill from the HOA Community Manager bundle by GarphenGate.*
 
 A dues reminder that is neutral and courteous collects better than one that accuses. This skill drafts the assessment reminder tuned to where the account stands, without ruling on penalties or interpreting the collection policy.
 

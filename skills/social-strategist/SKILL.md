@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Post Repurposer
 
-*Free gateway skill from the Social Strategist bundle by Hankash.*
+*Free gateway skill from the Social Strategist bundle by GarphenGate.*
 
 One idea in, three platform-native posts out — each with its own hook, its own format, and no copy-paste smell.
 

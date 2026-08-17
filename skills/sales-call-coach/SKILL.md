@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Discovery Question Generator
 
-*Free gateway skill from the Sales Call Coach bundle by Hankash.*
+*Free gateway skill from the Sales Call Coach bundle by GarphenGate.*
 
 Discovery questions built for one specific prospect — the kind that produce information, not the polite nothing that 'what keeps you up at night?' earns.
 

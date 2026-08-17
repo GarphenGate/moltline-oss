@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Report Outline
 
-*Free gateway skill from the Science Lab Partner bundle by Hankash.*
+*Free gateway skill from the Science Lab Partner bundle by GarphenGate.*
 
 The lab report skeleton on demand: every standard section, what belongs in it, what always sneaks into the wrong one, and the self-check questions that catch it, ready before the blank page wins.
 

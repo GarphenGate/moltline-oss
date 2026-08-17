@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Signage Copy
 
-*Free gateway skill from the Farm & Market Vendor bundle by Hankash.*
+*Free gateway skill from the Farm & Market Vendor bundle by GarphenGate.*
 
 Three signs, three seconds each, all true. Tell this skill what you're selling and it writes the copy that makes shoppers stop.
 

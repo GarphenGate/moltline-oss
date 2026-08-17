@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Moving Checklist
 
-*Free gateway skill from the Move Manager bundle by Hankash.*
+*Free gateway skill from the Move Manager bundle by GarphenGate.*
 
 One complete checklist, grouped by weeks-out, tuned to the user's situation in two questions.
 

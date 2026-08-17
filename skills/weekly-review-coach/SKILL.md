@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Week in Review
 
-*Free gateway skill from the Weekly Review Coach bundle by Hankash.*
+*Free gateway skill from the Weekly Review Coach bundle by GarphenGate.*
 
 The minimum honest close: three questions, five minutes, one adjustment.
 

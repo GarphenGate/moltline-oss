@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Polite Nudge
 
-*Free gateway skill from the Follow-Up Machine bundle by Hankash.*
+*Free gateway skill from the Follow-Up Machine bundle by GarphenGate.*
 
 One follow-up message, drafted right: something new in it, one clear ask, no guilt, no 'just bumping this'.
 

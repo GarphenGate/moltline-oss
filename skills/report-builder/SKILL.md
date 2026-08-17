@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Update Template
 
-*Free gateway skill from the Report Builder bundle by Hankash.*
+*Free gateway skill from the Report Builder bundle by GarphenGate.*
 
 The format that respects the reader's ninety seconds, handed over with a worked example.
 

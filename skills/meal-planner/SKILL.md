@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Dinner Decider
 
-*Free gateway skill from the Meal Planner bundle by Hankash.*
+*Free gateway skill from the Meal Planner bundle by GarphenGate.*
 
 It's 5pm, there's no plan, and takeout is circling. Name what's in the kitchen; get three real options.
 

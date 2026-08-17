@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Routine Card
 
-*Free gateway skill from the Morning Anchor bundle by Hankash.*
+*Free gateway skill from the Morning Anchor bundle by GarphenGate.*
 
 Your morning on one card: full version, bad-day version, one change a week. Small enough to actually run.
 

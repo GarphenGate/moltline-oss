@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Outline Template
 
-*Free gateway skill from the Blog Machine bundle by Hankash.*
+*Free gateway skill from the Blog Machine bundle by GarphenGate.*
 
 A filled-in skeleton for any post topic in one pass: reader, promise, sections with payoffs, and a first sentence, so the blank page never wins.
 

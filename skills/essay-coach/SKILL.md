@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Thesis Checker
 
-*Free gateway skill from the Essay Coach bundle by Hankash.*
+*Free gateway skill from the Essay Coach bundle by GarphenGate.*
 
 Paste a thesis, get a verdict: three tests, pass or fail with reasons, and one sharpening question, a two-minute check before hours of drafting.
 

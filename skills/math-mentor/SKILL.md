@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Problem of the Day
 
-*Free gateway skill from the Math Mentor bundle by Hankash.*
+*Free gateway skill from the Math Mentor bundle by GarphenGate.*
 
 One problem a day at the student's level, with hints available on a ladder and the full solution only after a real attempt, small enough to always fit, honest enough to always count.
 

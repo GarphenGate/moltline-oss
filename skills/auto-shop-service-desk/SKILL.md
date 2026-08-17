@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Status Templates
 
-*Free gateway skill from the Auto Shop Service Desk bundle by Hankash.*
+*Free gateway skill from the Auto Shop Service Desk bundle by GarphenGate.*
 
 The five messages that stop phone tag: checked in, estimate ready, parts delay, ready for pickup, and follow-up. This skill writes them in your shop's voice, ready to reuse.
 

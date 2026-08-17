@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Premise Miner
 
-*Free gateway skill from the Comedy Writing Room bundle by Hankash.*
+*Free gateway skill from the Comedy Writing Room bundle by GarphenGate.*
 
 The week that just happened is full of material. Mine it with questions, not prompts about airports.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Study Slot Finder
 
-*Free gateway skill from the Pro Exams Study Desk bundle by Hankash.*
+*Free gateway skill from the Pro Exams Study Desk bundle by GarphenGate.*
 
 *Most certification attempts die at 'I'll study when things calm down.' Find the hours that already exist, rate them honestly, and know what your week can actually support before you book anything.*
 

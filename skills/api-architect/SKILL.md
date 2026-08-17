@@ -6,7 +6,7 @@ version: 1.0.0
 
 # API Review Checklist
 
-*Free gateway skill from the API Architect bundle by Hankash.*
+*Free gateway skill from the API Architect bundle by GarphenGate.*
 
 Twelve questions that catch the API mistakes which become permanent the moment a consumer depends on them.
 

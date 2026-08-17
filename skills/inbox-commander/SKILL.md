@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Inbox Digest
 
-*Free gateway skill from the Inbox Commander bundle by Hankash.*
+*Free gateway skill from the Inbox Commander bundle by GarphenGate.*
 
 Answer one question before the inbox gets a chance to shout: what in there needs me?
 

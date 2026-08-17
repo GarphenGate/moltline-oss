@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Review Reply Drafter
 
-*Free gateway skill from the Restaurant Front Desk bundle by Hankash.*
+*Free gateway skill from the Restaurant Front Desk bundle by GarphenGate.*
 
 One review in, one gracious reply out — the fastest way to stop dreading the notifications tab.
 

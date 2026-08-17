@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Summary Sheet
 
-*Free gateway skill from the Lecture Digestor bundle by Hankash.*
+*Free gateway skill from the Lecture Digestor bundle by GarphenGate.*
 
 Paste what you scribbled; get one page back that says what the lecture argued and what your notes missed.
 

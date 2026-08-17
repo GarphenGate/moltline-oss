@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Tonight's Homework Rescue
 
-*Free gateway skill from the Parent Homework Coach bundle by Hankash.*
+*Free gateway skill from the Parent Homework Coach bundle by GarphenGate.*
 
 For the night that is already going sideways: a 10-minute reset the parent can run right now, phone in hand.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Course Outline
 
-*Free gateway skill from the Course Creator bundle by Hankash.*
+*Free gateway skill from the Course Creator bundle by GarphenGate.*
 
 One topic prompt in, a credible module map out: enough structure to see the course, honest about what's still a guess.
 

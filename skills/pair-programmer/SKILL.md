@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Rubber Duck Lite
 
-*Free gateway skill from the Pair Programmer bundle by Hankash.*
+*Free gateway skill from the Pair Programmer bundle by GarphenGate.*
 
 One paste, one question. The full Rubber Duck runs a session; this returns the single highest-leverage question and gets out of the way.
 

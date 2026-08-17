@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Timeline Template
 
-*Free gateway skill from the History Guide bundle by Hankash.*
+*Free gateway skill from the History Guide bundle by GarphenGate.*
 
 A reusable format that turns any period into a causal timeline: the entry template, the wiring rules, and one worked example on the student's own topic, so date lists stop passing for understanding.
 

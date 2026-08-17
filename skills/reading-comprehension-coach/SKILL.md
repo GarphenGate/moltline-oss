@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Question Generator
 
-*Free gateway skill from the Reading Comprehension Coach bundle by Hankash.*
+*Free gateway skill from the Reading Comprehension Coach bundle by GarphenGate.*
 
 Paste a passage, get questions that check understanding rather than memory of the first sentence.
 

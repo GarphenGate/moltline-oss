@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Check-in Script
 
-*Free gateway skill from the Fitness Coach Desk bundle by Hankash.*
+*Free gateway skill from the Fitness Coach Desk bundle by GarphenGate.*
 
 The weekly check-in that ships in five minutes: three questions, shame-free by construction, ready to personalize with one line per client.
 

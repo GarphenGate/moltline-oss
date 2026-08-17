@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Challenge Card
 
-*Free gateway skill from the Creative Sprint Coach bundle by Hankash.*
+*Free gateway skill from the Creative Sprint Coach bundle by GarphenGate.*
 
 A ready 30-day challenge for the maker's medium: one card, floor versions included, startable tonight.
 

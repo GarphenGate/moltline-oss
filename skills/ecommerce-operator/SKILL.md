@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Description Writer
 
-*Free gateway skill from the E-commerce Operator bundle by Hankash.*
+*Free gateway skill from the E-commerce Operator bundle by GarphenGate.*
 
 One product in, one honest, publishable description out — the fast version of a product page that still converts.
 

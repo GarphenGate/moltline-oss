@@ -6,7 +6,7 @@ version: 1.0.0
 
 # TBR Organizer
 
-*Free gateway skill from the Reading Butler bundle by Hankash.*
+*Free gateway skill from the Reading Butler bundle by GarphenGate.*
 
 The pile becomes three lists in fifteen minutes, and one of the lists is permission.
 

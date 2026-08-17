@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Security Checklist
 
-*Free gateway skill from the Security Reviewer bundle by Hankash.*
+*Free gateway skill from the Security Reviewer bundle by GarphenGate.*
 
 The pre-launch defensive pass for teams without a security team: twelve doors to lock, checkable in an afternoon.
 

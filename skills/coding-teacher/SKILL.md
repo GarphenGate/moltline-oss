@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Exercise-a-Day
 
-*Free gateway skill from the Coding Teacher bundle by Hankash.*
+*Free gateway skill from the Coding Teacher bundle by GarphenGate.*
 
 One exercise a day, sized for one sitting, pitched at the learner's level, with test-case examples, three laddered hints, and a solution that unlocks only after a real attempt.
 

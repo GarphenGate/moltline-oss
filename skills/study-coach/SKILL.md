@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Flashcard Maker
 
-*Free gateway skill from the Study Coach bundle by Hankash.*
+*Free gateway skill from the Study Coach bundle by GarphenGate.*
 
 Turn pasted notes into flashcards that test one thing each, phrased as questions the student must retrieve, not statements to reread.
 

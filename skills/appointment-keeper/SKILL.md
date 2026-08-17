@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Renewal Radar
 
-*Free gateway skill from the Appointment Keeper bundle by Hankash.*
+*Free gateway skill from the Appointment Keeper bundle by GarphenGate.*
 
 Ninety days of expirations on one page: documents, memberships, registrations, and anything else with a date that punishes forgetting.
 

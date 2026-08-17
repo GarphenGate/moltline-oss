@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Meeting Cost Counter
 
-*Free gateway skill from the Meeting Master bundle by Hankash.*
+*Free gateway skill from the Meeting Master bundle by GarphenGate.*
 
 Put a price tag on the recurring meeting and then ask the only question that matters: would you buy this outcome at this price?
 

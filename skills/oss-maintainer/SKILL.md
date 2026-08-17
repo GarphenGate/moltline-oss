@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Issue Templates
 
-*Free gateway skill from the OSS Maintainer bundle by Hankash.*
+*Free gateway skill from the OSS Maintainer bundle by GarphenGate.*
 
 Half of triage pain is self-inflicted by a blank issue box. These two templates make good reports the default and unusable ones visibly incomplete.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Subject Line Tester
 
-*Free gateway skill from the Newsletter Chief bundle by Hankash.*
+*Free gateway skill from the Newsletter Chief bundle by GarphenGate.*
 
 Five subject line variants for a finished issue, ranked with reasons a human can argue with, plus the preview text that completes each one.
 

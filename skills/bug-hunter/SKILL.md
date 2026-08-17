@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Bug Report Formatter
 
-*Free gateway skill from the Bug Hunter bundle by Hankash.*
+*Free gateway skill from the Bug Hunter bundle by GarphenGate.*
 
 Turn "it's broken" into a report a maintainer can act on without a follow-up question.
 

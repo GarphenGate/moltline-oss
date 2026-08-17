@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Packing List
 
-*Free gateway skill from the Travel Concierge bundle by Hankash.*
+*Free gateway skill from the Travel Concierge bundle by GarphenGate.*
 
 A packing list built from this trip, not from a generic template with 90 items you'll ignore.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Help Text Reviewer
 
-*Free gateway skill from the CLI Craftsman bundle by Hankash.*
+*Free gateway skill from the CLI Craftsman bundle by GarphenGate.*
 
 One paste, one review, one rewrite. The full Help Text Writer builds from scratch; this takes what exists and returns the improved version with every change justified.
 

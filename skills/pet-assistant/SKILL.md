@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Pet Care Card
 
-*Free gateway skill from the Pet Assistant bundle by Hankash.*
+*Free gateway skill from the Pet Assistant bundle by GarphenGate.*
 
 One page per pet: the facts everyone asks for, written once, updated in seconds.
 

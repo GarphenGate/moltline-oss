@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Stale Deal Lister
 
-*Free gateway skill from the CRM Hygienist bundle by Hankash.*
+*Free gateway skill from the CRM Hygienist bundle by GarphenGate.*
 
 One paste, one ranked list of the deals going quietly cold.
 

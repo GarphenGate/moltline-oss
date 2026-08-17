@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Time Log Template
 
-*Free gateway skill from the Time Audit Analyst bundle by Hankash.*
+*Free gateway skill from the Time Audit Analyst bundle by GarphenGate.*
 
 Five fields, thirty seconds an entry — the minimum that still lets the analysis work later.
 

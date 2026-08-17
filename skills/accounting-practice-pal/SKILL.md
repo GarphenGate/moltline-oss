@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Doc Checklist
 
-*Free gateway skill from the Accounting Practice Pal bundle by Hankash.*
+*Free gateway skill from the Accounting Practice Pal bundle by GarphenGate.*
 
 The day-one answer to 'what should I send you?' — a plain-English starter checklist by situation, ready for the firm to trim and approve.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Lesson Plan Outliner
 
-*Free gateway skill from the Curriculum Architect HS bundle by Hankash.*
+*Free gateway skill from the Curriculum Architect HS bundle by GarphenGate.*
 
 One lesson, outlined the backward-design way in five minutes: objective first, evidence second, minutes last — a small honest taste of how whole units get built.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Pacing Tracker
 
-*Free gateway skill from the Exam Prep Strategist bundle by Hankash.*
+*Free gateway skill from the Exam Prep Strategist bundle by GarphenGate.*
 
 One timed section in, one time map out: where the minutes actually went, block by block, with the single biggest pacing finding named, the diagnostic that makes every timing complaint concrete.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Notice Templates
 
-*Free gateway skill from the Landlord Assistant bundle by Hankash.*
+*Free gateway skill from the Landlord Assistant bundle by GarphenGate.*
 
 The routine notices — entry, rent reminder, policy update, quiet hours — written properly: calm, factual, dated, one topic each.
 

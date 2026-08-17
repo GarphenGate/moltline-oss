@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Phrase-a-Day
 
-*Free gateway skill from the Language Tutor bundle by Hankash.*
+*Free gateway skill from the Language Tutor bundle by GarphenGate.*
 
 One phrase a day, chosen for real-life usefulness, delivered with pronunciation, register, a memory hook, and a challenge to actually use it.
 

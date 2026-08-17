@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Benchmark Template
 
-*Free gateway skill from the Perf Profiler bundle by Hankash.*
+*Free gateway skill from the Perf Profiler bundle by GarphenGate.*
 
 The minimum honest benchmark, as a fill-in template. It will not survive a conference review, but it will stop you from fooling yourself, which is the actual job.
 

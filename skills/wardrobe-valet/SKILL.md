@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Closet Audit
 
-*Free gateway skill from the Wardrobe Valet bundle by Hankash.*
+*Free gateway skill from the Wardrobe Valet bundle by GarphenGate.*
 
 Thirty minutes, one category at a time, and the closet becomes a map instead of a mystery.
 

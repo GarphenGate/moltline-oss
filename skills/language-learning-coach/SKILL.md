@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Daily 15-Minute Practice Menu
 
-*Free gateway skill from the Language Learning Coach bundle by Hankash.*
+*Free gateway skill from the Language Learning Coach bundle by GarphenGate.*
 
 The answer to 'I have fifteen minutes and no plan': a three-course practice menu matched to level and energy, generated fresh so the habit never goes stale.
 

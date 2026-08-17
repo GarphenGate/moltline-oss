@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Subject Line Risk Checker
 
-*Free gateway skill from the Email Deliverability Doctor bundle by Hankash.*
+*Free gateway skill from the Email Deliverability Doctor bundle by GarphenGate.*
 
 The thirty-second gut check: paste a subject line, learn what a filter and a human each see in it, and get two clean rewrites.
 

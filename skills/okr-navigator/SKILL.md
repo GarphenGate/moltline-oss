@@ -6,7 +6,7 @@ version: 1.0.0
 
 # OKR Grader
 
-*Free gateway skill from the OKR Navigator bundle by Hankash.*
+*Free gateway skill from the OKR Navigator bundle by GarphenGate.*
 
 Paste the OKRs you have. Get back the ones a tough friend would let you keep, and the rewrite for each one they wouldn't.
 

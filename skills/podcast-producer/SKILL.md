@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Show-notes Template
 
-*Free gateway skill from the Podcast Producer bundle by Hankash.*
+*Free gateway skill from the Podcast Producer bundle by GarphenGate.*
 
 The episode page structure that serves a real listener's three questions — should I listen, where's the part about X, what was that link — delivered as a template pre-filled with the user's episode.
 

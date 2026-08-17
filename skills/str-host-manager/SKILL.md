@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Review Reply Writer
 
-*Free gateway skill from the STR Host Manager bundle by Hankash.*
+*Free gateway skill from the STR Host Manager bundle by GarphenGate.*
 
 Your review reply is written for one guest and read by the next hundred. This skill drafts the gracious, specific public response — warm for praise, composed and non-defensive for criticism.
 

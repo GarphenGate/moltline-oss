@@ -6,7 +6,7 @@ version: 1.0.0
 
 # CTA Generator
 
-*Free gateway skill from the Copy Closer bundle by Hankash.*
+*Free gateway skill from the Copy Closer bundle by GarphenGate.*
 
 Ten call-to-action options matched to what the page actually asks and what the click actually delivers — because 'Learn More' is where conversions go to nap.
 

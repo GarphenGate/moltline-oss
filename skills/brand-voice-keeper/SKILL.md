@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Voice Quiz
 
-*Free gateway skill from the Brand Voice Keeper bundle by Hankash.*
+*Free gateway skill from the Brand Voice Keeper bundle by GarphenGate.*
 
 Five forced-choice questions that make a vague brand say something concrete, then a one-page readout of the voice they actually chose — the fastest honest start to voice work.
 

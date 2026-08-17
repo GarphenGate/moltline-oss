@@ -6,7 +6,7 @@ version: 1.0.0
 
 # SOP Outline
 
-*Free gateway skill from the SOP Writer bundle by Hankash.*
+*Free gateway skill from the SOP Writer bundle by GarphenGate.*
 
 The skeleton that makes starting easy — and shows where the real SOP will need meat.
 

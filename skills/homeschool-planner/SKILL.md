@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Weekly Planner
 
-*Free gateway skill from the Homeschool Planner bundle by Hankash.*
+*Free gateway skill from the Homeschool Planner bundle by GarphenGate.*
 
 One page per week that bends when Tuesday explodes and still gets the family to Friday.
 

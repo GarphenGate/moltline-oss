@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Study Plan
 
-*Free gateway skill from the Exam Crammer bundle by Hankash.*
+*Free gateway skill from the Exam Crammer bundle by GarphenGate.*
 
 One pass from syllabus plus exam date to a two-week plan: weighted topics, daily blocks, and a retrieval-only final stretch.
 

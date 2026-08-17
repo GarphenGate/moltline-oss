@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Rough Class Period Reset
 
-*Free gateway skill from the Classroom Commander bundle by Hankash.*
+*Free gateway skill from the Classroom Commander bundle by GarphenGate.*
 
 The five-minute playbook for the period that got away from you: reset today with dignity intact, and re-enter tomorrow with a plan instead of a grudge.
 

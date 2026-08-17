@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Citation Formatter
 
-*Free gateway skill from the Research Navigator bundle by Hankash.*
+*Free gateway skill from the Research Navigator bundle by GarphenGate.*
 
 Paste any reference in any state (a URL, a messy citation, half a memory of a paper) and get it back formatted in APA, MLA, or Chicago, with every missing or uncertain field flagged instead of faked.
 

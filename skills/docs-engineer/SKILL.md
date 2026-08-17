@@ -6,7 +6,7 @@ version: 1.0.0
 
 # README Grader
 
-*Free gateway skill from the Docs Engineer bundle by Hankash.*
+*Free gateway skill from the Docs Engineer bundle by GarphenGate.*
 
 Grade a README the way a stranger experiences it, then name the three fixes that matter most.
 

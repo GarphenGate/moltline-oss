@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Habit Scorecard
 
-*Free gateway skill from the Habit Forge bundle by Hankash.*
+*Free gateway skill from the Habit Forge bundle by GarphenGate.*
 
 The lightest tracking format that still produces usable weekly data.
 

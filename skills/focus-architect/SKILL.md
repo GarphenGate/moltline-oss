@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Focus Sprint
 
-*Free gateway skill from the Focus Architect bundle by Hankash.*
+*Free gateway skill from the Focus Architect bundle by GarphenGate.*
 
 One task, fifty minutes, a scope line you may not cross, and a parking lot for everything that tries to pull you away.
 

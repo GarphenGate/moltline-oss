@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Goal Reality Check
 
-*Free gateway skill from the Goal Tracker bundle by Hankash.*
+*Free gateway skill from the Goal Tracker bundle by GarphenGate.*
 
 Paste the goal list; get the arithmetic nobody ran before writing it.
 

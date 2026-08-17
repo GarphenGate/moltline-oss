@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Aftercare Cards
 
-*Free gateway skill from the Salon Studio Manager bundle by Hankash.*
+*Free gateway skill from the Salon Studio Manager bundle by GarphenGate.*
 
 Five services, five aftercare card skeletons, one pass — the structure ready for the practitioner's own instructions, printable or textable.
 

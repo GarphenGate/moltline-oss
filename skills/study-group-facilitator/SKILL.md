@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Agenda Template
 
-*Free gateway skill from the Study Group Facilitator bundle by Hankash.*
+*Free gateway skill from the Study Group Facilitator bundle by GarphenGate.*
 
 The 90-minute session skeleton that turns "let's review chapter 5" into a session with outputs.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Critique Checklist
 
-*Free gateway skill from the Art Critique Partner bundle by Hankash.*
+*Free gateway skill from the Art Critique Partner bundle by GarphenGate.*
 
 Seven questions that let any artist critique their own piece with borrowed distance.
 

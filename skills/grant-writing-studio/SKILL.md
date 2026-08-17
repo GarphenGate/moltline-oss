@@ -6,7 +6,7 @@ version: 1.0.0
 
 # LOI Outliner
 
-*Free gateway skill from the Grant Writing Studio bundle by Hankash.*
+*Free gateway skill from the Grant Writing Studio bundle by GarphenGate.*
 
 The LOI is the audition. Build a tailored skeleton from one mission paragraph and the funder's guidelines, so the org starts writing from structure instead of a blank page.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Welcome Sequence
 
-*Free gateway skill from the Membership Org Manager bundle by Hankash.*
+*Free gateway skill from the Membership Org Manager bundle by GarphenGate.*
 
 The first two weeks decide whether a new member becomes a regular or a quiet churn. This skill drafts the welcome series that makes them feel like they joined something, not a mailing list.
 

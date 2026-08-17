@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Starter Sequence
 
-*Free gateway skill from the Multi-Channel Sequencer bundle by Hankash.*
+*Free gateway skill from the Multi-Channel Sequencer bundle by GarphenGate.*
 
 A three-touch starter — email, LinkedIn note, follow-up email — that carries one story across two channels and takes an afternoon, not a quarter, to launch.
 

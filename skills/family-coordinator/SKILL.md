@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Family Week Digest
 
-*Free gateway skill from the Family Coordinator bundle by Hankash.*
+*Free gateway skill from the Family Coordinator bundle by GarphenGate.*
 
 Five minutes on Sunday, one fridge-door page, and Monday stops ambushing the family.
 

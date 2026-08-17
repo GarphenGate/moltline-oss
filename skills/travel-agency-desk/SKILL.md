@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Itinerary Template
 
-*Free gateway skill from the Travel Agency Desk bundle by Hankash.*
+*Free gateway skill from the Travel Agency Desk bundle by GarphenGate.*
 
 The format that makes clients feel handled: every day answers what happens, when, where, and who to call. This skill applies it to whatever trip details you paste.
 

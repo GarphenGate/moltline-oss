@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Party Checklist
 
-*Free gateway skill from the Celebration Planner bundle by Hankash.*
+*Free gateway skill from the Celebration Planner bundle by GarphenGate.*
 
 The complete lock-it-in checklist, grouped by weeks-out, tuned in two questions.
 

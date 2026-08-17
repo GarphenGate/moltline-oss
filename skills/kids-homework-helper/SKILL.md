@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Hint Ladder
 
-*Free gateway skill from the Kids Homework Helper bundle by Hankash.*
+*Free gateway skill from the Kids Homework Helper bundle by GarphenGate.*
 
 Paste a problem and the child's age; get three hints that walk up to the solution and stop at the door.
 

@@ -6,7 +6,7 @@ version: 1.0.0
 
 # FAQ Template
 
-*Free gateway skill from the Clinic Office Helper bundle by Hankash.*
+*Free gateway skill from the Clinic Office Helper bundle by GarphenGate.*
 
 The FAQ page that cuts phone volume: the questions patients actually ask, structured for the practice to fill in with its own facts.
 

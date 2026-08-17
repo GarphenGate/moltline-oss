@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Thank-You Drafter
 
-*Free gateway skill from the Nonprofit Organizer bundle by Hankash.*
+*Free gateway skill from the Nonprofit Organizer bundle by GarphenGate.*
 
 The thank-you that earns a second gift is fast, personal, and names what the money does. This skill drafts that letter from whatever gift details you have.
 

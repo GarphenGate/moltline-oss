@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Index Advisor
 
-*Free gateway skill from the Database Doctor bundle by Hankash.*
+*Free gateway skill from the Database Doctor bundle by GarphenGate.*
 
 Paste a slow query and its schema; get ranked index candidates with the reasoning shown and the costs stated.
 

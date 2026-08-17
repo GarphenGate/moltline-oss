@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Occasion Calendar
 
-*Free gateway skill from the Gift Genius bundle by Hankash.*
+*Free gateway skill from the Gift Genius bundle by GarphenGate.*
 
 The one-time sweep that turns 'I'm bad with dates' into a list that does the remembering.
 

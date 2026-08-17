@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Declutter Checklist
 
-*Free gateway skill from the Digital Declutter bundle by Hankash.*
+*Free gateway skill from the Digital Declutter bundle by GarphenGate.*
 
 The weekend cleanup, pre-decided: five bounded sessions, safe order, nothing deleted that isn't covered.
 

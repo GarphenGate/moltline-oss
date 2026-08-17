@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Subscription Lister
 
-*Free gateway skill from the Finance Butler bundle by Hankash.*
+*Free gateway skill from the Finance Butler bundle by GarphenGate.*
 
 Paste statements, get back the complete list of what recurs — including the ones hiding under odd billing names.
 
