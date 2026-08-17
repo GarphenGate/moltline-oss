@@ -196,6 +196,8 @@ free forever — the gateway is not a crippled demo.
   on the direct endpoints.
 - **Full persona bundles** (persona + focused skills each): on
   [Agensi](https://www.agensi.io) and ClawMart — search "GarphenGate" / "Moltline".
+- **Agent protocol reference:** how x402, AP2, ACP, UCP, MPP and A2A are
+  actually implemented on one live domain — [https://moltlinestudio.com/protocols.html](https://moltlinestudio.com/protocols.html).
 - **All-Access license** ($19/mo, unlocks premium tools on every server, crypto
   accepted): [moltlinestudio.com](https://moltlinestudio.com).
 
