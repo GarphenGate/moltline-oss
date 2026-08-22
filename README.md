@@ -194,7 +194,7 @@ free forever — the gateway is not a crippled demo.
   — 19 endpoints (code review, agent governance, date math, CSV analytics,
   humanizer, merchant math, shipping and dropship economics, Shopify prep,
   a portable memory graph, vision math, SKILL.md lint, and more) exposing
-  132 tools, 92 of them free. MCPize Verified **A** on the direct endpoints.
+  132 tools, 92 of them free with no signup.
 - **Full persona bundles** (persona + focused skills each): on
   [Agensi](https://www.agensi.io) and ClawMart — search "GarphenGate" / "Moltline".
 - **Agent protocol reference:** how x402, AP2, ACP, UCP, MPP and A2A are
