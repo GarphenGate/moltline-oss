@@ -43,4 +43,4 @@ If the user cannot answer environment or steps questions, ship the report with e
 
 ---
 
-*Like this? The full **Bug Hunter** bundle adds the persona plus Repro Builder, Hypothesis Tracker, Root-Cause Writer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Bug Hunter** by Moltline Studio. The paid listing: https://www.agensi.io/skills/bug-hunter-bundle*

@@ -41,4 +41,4 @@ With only an ICP and no offer, produce the frame with the offer lines as guided 
 
 ---
 
-*Like this? The full **Multi-Channel Sequencer** bundle adds the persona plus Sequence Designer, Step Copy Writer, Sequence Performance Reviewer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Multi-Channel Sequencer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/multi-channel-sequencer-bundle*

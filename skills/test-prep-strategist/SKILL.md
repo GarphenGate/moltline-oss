@@ -41,4 +41,4 @@ Student has no timing marks and a fading memory: reconstruct a coarse three-bloc
 
 ---
 
-*Like this? The full **Exam Prep Strategist** bundle adds the persona plus Prep Planner, Pacing Driller, Review Cycler — on Claw Mart.*
+*Like this? This is the free gateway skill for **Exam Prep Strategist** by Moltline Studio. The paid listing: https://www.agensi.io/skills/exam-prep-strategist-bundle*

@@ -42,4 +42,4 @@ If the maker won't commit to 30 days, issue the same card scoped to 7 days with 
 
 ---
 
-*Like this? The full **Creative Sprint Coach** bundle adds the persona plus Challenge Designer, Block Buster, Portfolio Reviewer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Creative Sprint Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/creative-sprint-coach-bundle*

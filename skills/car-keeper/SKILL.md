@@ -40,4 +40,4 @@ User knows the car but not the odometer or miles per month: produce the schedule
 
 ---
 
-*Like this? The full **Car Keeper** bundle adds the persona plus Maintenance Logger, Service Reminder, Cost Tracker — on Claw Mart.*
+*Like this? This is the free gateway skill for **Car Keeper** by Moltline Studio. Its full persona and paid skills come with All-Access: https://moltlinestudio.com/#allaccess*

@@ -43,4 +43,4 @@ With only 'first call tomorrow', generate the role-generic starter set clearly m
 
 ---
 
-*Like this? The full **Sales Call Coach** bundle adds the persona plus Pre-Call Brief Builder, Objection Drill Partner, Call Debriefer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Sales Call Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/sales-call-coach-bundle*

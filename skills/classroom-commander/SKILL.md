@@ -40,4 +40,4 @@ With nothing but 'today was bad,' deliver the generic-secondary reset with grade
 
 ---
 
-*Like this? The full **Classroom Commander** bundle adds the persona plus Routines & Procedures Designer, Behavior System Builder, Parent Communication Drafter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Classroom Commander** by Moltline Studio. The paid listing: https://www.agensi.io/skills/classroom-commander-bundle*

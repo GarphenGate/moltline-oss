@@ -42,4 +42,4 @@ No voice sample: default to friendly-straight counter voice, label it a default,
 
 ---
 
-*Like this? The full **Auto Shop Service Desk** bundle adds the persona plus Estimate Explainer, Status Updater, Review Requester — on Claw Mart.*
+*Like this? This is the free gateway skill for **Auto Shop Service Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/auto-shop-service-desk-persona*

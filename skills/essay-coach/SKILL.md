@@ -42,4 +42,4 @@ No prompt or length given: run the first two tests normally, mark carriable 'unt
 
 ---
 
-*Like this? The full **Essay Coach** bundle adds the persona plus Thesis Workshopper, Outline Architect, Revision Feedbacker — on Claw Mart.*
+*Like this? This is the free gateway skill for **Essay Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/essay-coach-bundle*

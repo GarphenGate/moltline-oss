@@ -40,4 +40,4 @@ With no answers to the setup questions, produce the individual-return baseline w
 
 ---
 
-*Like this? The full **Accounting Practice Pal** bundle adds the persona plus Client Onboarder, Doc Request Lister, Deadline Tracker — on Claw Mart.*
+*Like this? This is the free gateway skill for **Accounting Practice Pal** by Moltline Studio. The paid listing: https://www.agensi.io/skills/accounting-practice-pal-persona*

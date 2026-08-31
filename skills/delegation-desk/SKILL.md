@@ -44,4 +44,4 @@ If the owner cannot estimate frequency or minutes, verdict from the delegable an
 
 ---
 
-*Like this? The full **Delegation Desk** bundle adds the persona plus Handoff Brief, SOP Capture, Follow-up Loop — on Claw Mart.*
+*Like this? This is the free gateway skill for **Delegation Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/delegation-desk-persona*

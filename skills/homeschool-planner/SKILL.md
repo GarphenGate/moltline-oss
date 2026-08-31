@@ -42,4 +42,4 @@ Friday log: what actually happened, 2 minutes, parent's words
 
 ---
 
-*Like this? The full **Homeschool Planner** bundle adds the persona plus Curriculum Mapper, Progress Logger, Enrichment Finder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Homeschool Planner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/homeschool-planner-persona*

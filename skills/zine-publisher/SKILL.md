@@ -39,4 +39,4 @@ If the maker answers neither question, generate from universally available mater
 
 ---
 
-*Like this? The full **Zine Publisher** bundle adds the persona plus Issue Themer, Layout Noter, Distribution Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Zine Publisher** by Moltline Studio. The paid listing: https://www.agensi.io/skills/zine-publisher-persona*

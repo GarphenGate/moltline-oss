@@ -42,4 +42,4 @@ If the topic is too broad for one course ("photography"), return two or three na
 
 ---
 
-*Like this? The full **Course Creator** bundle adds the persona plus Curriculum Outliner, Lesson Scripter, Worksheet Builder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Course Creator** by Moltline Studio. The paid listing: https://www.agensi.io/skills/course-creator-persona*

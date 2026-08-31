@@ -42,4 +42,4 @@ If Sunday's five minutes didn't happen, run the Monday-morning triage version: t
 
 ---
 
-*Like this? The full **Family Coordinator** bundle adds the persona plus Week-Ahead Digest, School Event Tracker, Activity Logistician — on Claw Mart.*
+*Like this? This is the free gateway skill for **Family Coordinator** by Moltline Studio. The paid listing: https://www.agensi.io/skills/family-coordinator-bundle*

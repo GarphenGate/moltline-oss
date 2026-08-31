@@ -40,4 +40,4 @@ With a bare subject line and no context, check the patterns and note which risk 
 
 ---
 
-*Like this? The full **Email Deliverability Doctor** bundle adds the persona plus Spam Copy Audit, Sender Setup Walkthrough, Warm-up & Ramp Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Email Deliverability Doctor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/email-deliverability-doctor-bundle*

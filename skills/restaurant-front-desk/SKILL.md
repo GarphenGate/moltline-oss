@@ -38,4 +38,4 @@ If the review contains threats, harassment, or looks fake, skip the reply and re
 
 ---
 
-*Like this? The full **Restaurant Front Desk** bundle adds the persona plus Reservation Replier, Menu Copywriter, Review Responder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Restaurant Front Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/restaurant-front-desk-persona*

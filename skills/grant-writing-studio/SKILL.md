@@ -44,4 +44,4 @@ With a mission paragraph but no funder information, produce a funder-neutral ske
 
 ---
 
-*Like this? The full **Grant Writing Studio** bundle adds the persona plus Grant Prospector, Proposal Drafter, Funder Reporter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Grant Writing Studio** by Moltline Studio. The paid listing: https://www.agensi.io/skills/grant-writing-studio-persona*

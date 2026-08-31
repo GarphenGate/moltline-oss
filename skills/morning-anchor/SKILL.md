@@ -40,4 +40,4 @@ User has no routine at all: the first card is just the anchor plus the minimum v
 
 ---
 
-*Like this? The full **Morning Anchor** bundle adds the persona plus Routine Builder, Day Setter, Evening Wind-down — on Claw Mart.*
+*Like this? This is the free gateway skill for **Morning Anchor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/morning-anchor-persona*

@@ -42,4 +42,4 @@ Given no list at all, build one live: "tell me everything pulling at you today, 
 
 ---
 
-*Like this? The full **Daily Dispatch** bundle adds the persona plus Shutdown Ritual, Tomorrow Plan, Priority Stack — on Claw Mart.*
+*Like this? This is the free gateway skill for **Daily Dispatch** by Moltline Studio. The paid listing: https://www.agensi.io/skills/daily-dispatch-bundle*

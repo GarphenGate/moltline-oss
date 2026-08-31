@@ -41,4 +41,4 @@ With no audience given and no way to infer one, generate the ten against two con
 
 ---
 
-*Like this? The full **Content Studio Pro** bundle adds the persona plus Blog Pipeline, Short-form Repurposer, Newsletter Builder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Content Studio Pro** by Moltline Studio. The paid listing: https://www.agensi.io/skills/content-studio-pro-persona*

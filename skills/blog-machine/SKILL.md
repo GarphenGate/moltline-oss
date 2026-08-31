@@ -43,4 +43,4 @@ With a topic outside the user's stated niche, build the skeleton anyway and note
 
 ---
 
-*Like this? The full **Blog Machine** bundle adds the persona plus Outline Builder, Draft Pipeline, SEO Polisher — on Claw Mart.*
+*Like this? This is the free gateway skill for **Blog Machine** by Moltline Studio. The paid listing: https://www.agensi.io/skills/blog-machine-persona*

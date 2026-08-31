@@ -40,4 +40,4 @@ From a photo description alone with no bullets, deliver a sensory two-sentence d
 
 ---
 
-*Like this? The full **E-commerce Operator** bundle adds the persona plus Product Describer, Review Responder, Promo Calendarist — on Claw Mart.*
+*Like this? This is the free gateway skill for **E-commerce Operator** by Moltline Studio. The paid listing: https://www.agensi.io/skills/e-commerce-operator-persona*

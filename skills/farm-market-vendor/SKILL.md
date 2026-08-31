@@ -40,4 +40,4 @@ Given products with no facts: return the three-line skeletons with hook prompts 
 
 ---
 
-*Like this? The full **Farm & Market Vendor** bundle adds the persona plus Market Prepper, Signage Copywriter, CSA Newsletter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Farm & Market Vendor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/farm-market-vendor-persona*

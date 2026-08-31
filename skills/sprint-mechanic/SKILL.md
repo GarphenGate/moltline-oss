@@ -42,4 +42,4 @@ If the user cannot share a real past ticket for the test drive, run step 3 on a 
 
 ---
 
-*Like this? The full **Sprint Mechanic** bundle adds the persona plus Ticket Groomer, Estimation Coach, Standup Notes — on Claw Mart.*
+*Like this? This is the free gateway skill for **Sprint Mechanic** by Moltline Studio. The paid listing: https://www.agensi.io/skills/sprint-mechanic-persona*

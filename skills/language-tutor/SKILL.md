@@ -43,4 +43,4 @@ Unknown level: default to high-frequency neutral-register phrases and ask one pl
 
 ---
 
-*Like this? The full **Language Tutor** bundle adds the persona plus Daily Driller, Conversation Partner, Grammar Clinician — on Claw Mart.*
+*Like this? This is the free gateway skill for **Language Tutor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/language-tutor-bundle*

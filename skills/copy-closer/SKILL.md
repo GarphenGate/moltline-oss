@@ -41,4 +41,4 @@ With only a URL or page description and no stated action, infer the most likely 
 
 ---
 
-*Like this? The full **Copy Closer** bundle adds the persona plus Landing Drafter, CTA Variants, Objection Handler — on Claw Mart.*
+*Like this? This is the free gateway skill for **Copy Closer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/copy-closer-persona*

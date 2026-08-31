@@ -41,4 +41,4 @@ Student line: "I rate my <criterion> a ___ because ____"
 
 ---
 
-*Like this? The full **Teacher Aide** bundle adds the persona plus Lesson Planner, Rubric Builder, Parent Updater — on Claw Mart.*
+*Like this? This is the free gateway skill for **Teacher Aide** by Moltline Studio. The paid listing: https://www.agensi.io/skills/teacher-aide-persona*

@@ -43,4 +43,4 @@ If the paste is unreadable or partial, compute whichever vitals survive, mark th
 
 ---
 
-*Like this? The full **Calendar Surgeon** bundle adds the persona plus Calendar Audit, Meeting Diet, Block Scheduler — on Claw Mart.*
+*Like this? This is the free gateway skill for **Calendar Surgeon** by Moltline Studio. The paid listing: https://www.agensi.io/skills/calendar-surgeon-bundle*

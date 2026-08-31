@@ -49,4 +49,4 @@ Given only a route name with no design or contract, run the four questions that 
 
 ---
 
-*Like this? The full **API Architect** bundle adds the persona plus Endpoint Designer, Contract Writer, Versioning Policy — on Claw Mart.*
+*Like this? This is the free gateway skill for **API Architect** by Moltline Studio. The paid listing: https://www.agensi.io/skills/api-architect-persona*

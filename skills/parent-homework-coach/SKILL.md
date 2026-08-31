@@ -35,4 +35,4 @@ With zero details, run the generic reset: the same five steps work for any subje
 
 ---
 
-*Like this? The full **Parent Homework Coach** bundle adds the persona plus Explain-It-Simply Briefings, Homework Session Playbooks, Progress Conversation Scripts — on Claw Mart.*
+*Like this? This is the free gateway skill for **Parent Homework Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/parent-homework-coach-bundle*

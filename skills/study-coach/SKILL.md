@@ -42,4 +42,4 @@ Notes too thin for the requested deck size: make fewer, better cards and say the
 
 ---
 
-*Like this? The full **Study Coach** bundle adds the persona plus Spaced Drills, Quiz Generator, Curriculum Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Study Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/study-coach-persona*

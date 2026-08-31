@@ -40,4 +40,4 @@ If the user cannot recall what the last three occurrences produced, that fact is
 
 ---
 
-*Like this? The full **Meeting Master** bundle adds the persona plus Agenda Builder, Minutes Writer, Action Tracker — on Claw Mart.*
+*Like this? This is the free gateway skill for **Meeting Master** by Moltline Studio. The paid listing: https://www.agensi.io/skills/meeting-master-persona*

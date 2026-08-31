@@ -41,4 +41,4 @@ User is missing vet or vaccine details: produce the card with those fields marke
 
 ---
 
-*Like this? The full **Pet Assistant** bundle adds the persona plus Vet Scheduler, Care Routine, Sitter Briefer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Pet Assistant** by Moltline Studio. The paid listing: https://www.agensi.io/skills/pet-assistant-persona*

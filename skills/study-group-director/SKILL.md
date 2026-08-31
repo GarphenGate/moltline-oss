@@ -39,4 +39,4 @@ Given only 'we have a group meeting for chem,' ship the two most versatile forma
 
 ---
 
-*Like this? The full **Study Group Director** bundle adds the persona plus Study-Group Session Designer, Group Problem-Solving Protocols, Exam-Countdown Group Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Study Group Director** by Moltline Studio. The paid listing: https://www.agensi.io/skills/study-group-director-bundle*

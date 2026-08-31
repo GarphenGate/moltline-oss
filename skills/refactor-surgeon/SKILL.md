@@ -40,4 +40,4 @@ If the file is too large to read in full, grade the largest two functions plus t
 
 ---
 
-*Like this? The full **Refactor Surgeon** bundle adds the persona plus Refactor Planner, Smell Detector, Strangler Guide — on Claw Mart.*
+*Like this? This is the free gateway skill for **Refactor Surgeon** by Moltline Studio. The paid listing: https://www.agensi.io/skills/refactor-surgeon-persona*

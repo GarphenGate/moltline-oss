@@ -42,4 +42,4 @@ With nothing to sweep, build the list by interview: "walk me through each client
 
 ---
 
-*Like this? The full **Deadline Guardian** bundle adds the persona plus Commitment Tracker, Workload Forecaster, Renegotiation Drafter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Deadline Guardian** by Moltline Studio. The paid listing: https://www.agensi.io/skills/deadline-guardian-bundle*

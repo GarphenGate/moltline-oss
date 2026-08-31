@@ -40,4 +40,4 @@ Input too thin to identify the source (title fragment only): return a search str
 
 ---
 
-*Like this? The full **Research Navigator** bundle adds the persona plus Literature Mapper, Source Logger, Citation Hygienist — on Claw Mart.*
+*Like this? This is the free gateway skill for **Research Navigator** by Moltline Studio. The paid listing: https://www.agensi.io/skills/research-navigator-persona*

@@ -44,4 +44,4 @@ With zero episode details, produce the template fully in labeled example mode us
 
 ---
 
-*Like this? The full **Podcast Producer** bundle adds the persona plus Episode Prepper, Show-notes Writer, Guest Outreacher — on Claw Mart.*
+*Like this? This is the free gateway skill for **Podcast Producer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/podcast-producer-persona*

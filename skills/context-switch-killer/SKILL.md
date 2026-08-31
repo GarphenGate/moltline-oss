@@ -41,4 +41,4 @@ Mid-flow with no park list set up yet: use anything within reach — reply draft
 
 ---
 
-*Like this? The full **Context-Switch Killer** bundle adds the persona plus Batch Planner, Interruption Log, Re-entry Notes — on Claw Mart.*
+*Like this? This is the free gateway skill for **Context-Switch Killer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/context-switch-killer-bundle*

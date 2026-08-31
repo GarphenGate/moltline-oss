@@ -39,4 +39,4 @@ With no setup answers, generate the general-practice version with all three vari
 
 ---
 
-*Like this? The full **Clinic Office Helper** bundle adds the persona plus Reminder Drafter, Intake Checklister, FAQ Replier — on Claw Mart.*
+*Like this? This is the free gateway skill for **Clinic Office Helper** by Moltline Studio. The paid listing: https://www.agensi.io/skills/clinic-office-helper-persona*

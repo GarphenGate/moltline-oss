@@ -44,4 +44,4 @@ If the user won't commit to a budget number, run the check at three budgets (5, 
 
 ---
 
-*Like this? The full **Goal Tracker** bundle adds the persona plus Goal Canvas, Milestone Breaker, Progress Nudger — on Claw Mart.*
+*Like this? This is the free gateway skill for **Goal Tracker** by Moltline Studio. The paid listing: https://www.agensi.io/skills/goal-tracker-bundle*

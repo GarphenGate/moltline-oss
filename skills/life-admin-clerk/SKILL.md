@@ -40,4 +40,4 @@ User is away from all documents: run the sweep on memory, mark everything approx
 
 ---
 
-*Like this? The full **Life Admin Clerk** bundle adds the persona plus Paperwork Tracker, Renewal Reminder, Document Checklister — on Claw Mart.*
+*Like this? This is the free gateway skill for **Life Admin Clerk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/life-admin-clerk-bundle*

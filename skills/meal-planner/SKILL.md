@@ -43,4 +43,4 @@ If the user won't inventory, ask for just three things: a protein or can they ha
 
 ---
 
-*Like this? The full **Meal Planner** bundle adds the persona plus Weekly Menu, Grocery Consolidator, Batch-Cook Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Meal Planner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/meal-planner-persona*

@@ -42,4 +42,4 @@ With fewer than three samples, run on what's given, shrink the claims accordingl
 
 ---
 
-*Like this? The full **Ghostwriter Desk** bundle adds the persona plus Voice Profiler, Draft Ghoster, Revision Rounder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Ghostwriter Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/ghostwriter-desk-persona*

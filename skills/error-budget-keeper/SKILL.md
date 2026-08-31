@@ -41,4 +41,4 @@ For an incident that happened weeks ago with no records, fill the template from 
 
 ---
 
-*Like this? The full **Error Budget Keeper** bundle adds the persona plus SLO Drafter, Alert Pruner, Postmortem Writer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Error Budget Keeper** by Moltline Studio. The paid listing: https://www.agensi.io/skills/error-budget-keeper-persona*

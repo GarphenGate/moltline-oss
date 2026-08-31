@@ -42,4 +42,4 @@ If given a repo link but no README text, ask for a paste; if given a fragment, g
 
 ---
 
-*Like this? The full **Docs Engineer** bundle adds the persona plus README Writer, API Doc Writer, Runbook Writer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Docs Engineer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/docs-engineer-bundle*

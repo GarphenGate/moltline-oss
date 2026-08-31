@@ -44,4 +44,4 @@ With a user answering on a client's behalf who keeps saying "I'm not sure," swit
 
 ---
 
-*Like this? The full **Brand Voice Keeper** bundle adds the persona plus Voice Guide Builder, Tone Checker, Style Enforcer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Brand Voice Keeper** by Moltline Studio. The paid listing: https://www.agensi.io/skills/brand-voice-keeper-persona*

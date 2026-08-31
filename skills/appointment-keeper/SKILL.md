@@ -39,4 +39,4 @@ If the user has no dates at hand, produce the sweep checklist itself as the outp
 
 ---
 
-*Like this? The full **Appointment Keeper** bundle adds the persona plus Appointment Tracker, Recurring Planner, Prep Checklister — on Claw Mart.*
+*Like this? This is the free gateway skill for **Appointment Keeper** by Moltline Studio. The paid listing: https://www.agensi.io/skills/appointment-keeper-bundle*

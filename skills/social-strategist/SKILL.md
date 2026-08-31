@@ -41,4 +41,4 @@ With no platform set stated, produce three format-labeled versions (short text, 
 
 ---
 
-*Like this? The full **Social Strategist** bundle adds the persona plus Platform Calendar, Post Batcher, Engagement Replier — on Claw Mart.*
+*Like this? This is the free gateway skill for **Social Strategist** by Moltline Studio. The paid listing: https://www.agensi.io/skills/social-strategist-persona*

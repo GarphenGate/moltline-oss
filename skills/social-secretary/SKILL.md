@@ -44,4 +44,4 @@ Given only 'wedding, can't go', draft the short universal decline: prompt, warm,
 
 ---
 
-*Like this? The full **Social Secretary** bundle adds the persona plus RSVP Manager, Gathering Planner, Thank-You Writer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Social Secretary** by Moltline Studio. The paid listing: https://www.agensi.io/skills/social-secretary-persona*

@@ -43,4 +43,4 @@ If the user has no habits defined yet, build the card with one placeholder row a
 
 ---
 
-*Like this? The full **Habit Forge** bundle adds the persona plus Habit Designer, Streak Review, Friction Audit — on Claw Mart.*
+*Like this? This is the free gateway skill for **Habit Forge** by Moltline Studio. The paid listing: https://www.agensi.io/skills/habit-forge-bundle*

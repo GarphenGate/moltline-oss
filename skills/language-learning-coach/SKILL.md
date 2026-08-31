@@ -39,4 +39,4 @@ With only a language named, assume beginner at normal energy and label the assum
 
 ---
 
-*Like this? The full **Language Learning Coach** bundle adds the persona plus Study Plan Builder, Conversation Practice Roleplay, Vocabulary Drill Generator — on Claw Mart.*
+*Like this? This is the free gateway skill for **Language Learning Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/language-learning-coach-bundle*

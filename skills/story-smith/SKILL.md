@@ -42,4 +42,4 @@ With no interests offered ('surprise me'), generate from three contrasting seed-
 
 ---
 
-*Like this? The full **Story Smith** bundle adds the persona plus Fiction Outliner, Character Sheeter, Revision Passer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Story Smith** by Moltline Studio. The paid listing: https://www.agensi.io/skills/story-smith-persona*

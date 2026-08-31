@@ -45,4 +45,4 @@ If the user cannot say what reporters typically omit, ship the general-purpose v
 
 ---
 
-*Like this? The full **OSS Maintainer** bundle adds the persona plus Issue Triager, PR Responder, Release Manager — on Claw Mart.*
+*Like this? This is the free gateway skill for **OSS Maintainer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/oss-maintainer-persona*

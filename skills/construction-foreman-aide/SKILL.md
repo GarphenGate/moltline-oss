@@ -39,4 +39,4 @@ If the user wants logs written from their dictation, structured dispute-aware, a
 
 ---
 
-*Like this? The full **Construction Foreman Aide** bundle adds the persona plus Daily Logger, Change-Order Drafter, Safety Checklister — on Claw Mart.*
+*Like this? This is the free gateway skill for **Construction Foreman Aide** by Moltline Studio. The paid listing: https://www.agensi.io/skills/construction-foreman-aide-persona*

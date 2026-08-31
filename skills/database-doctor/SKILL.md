@@ -43,4 +43,4 @@ Without row counts or a plan, give the candidates with reasoning but label expec
 
 ---
 
-*Like this? The full **Database Doctor** bundle adds the persona plus Schema Reviewer, Query Optimizer, Migration Guard — on Claw Mart.*
+*Like this? This is the free gateway skill for **Database Doctor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/database-doctor-persona*

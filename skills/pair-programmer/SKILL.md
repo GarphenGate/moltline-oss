@@ -37,4 +37,4 @@ If the problem statement is a single vague sentence, the question becomes the sh
 
 ---
 
-*Like this? The full **Pair Programmer** bundle adds the persona plus Rubber Duck, Approach Comparer, Kata Coach — on Claw Mart.*
+*Like this? This is the free gateway skill for **Pair Programmer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/pair-programmer-persona*

@@ -41,4 +41,4 @@ With a topic too broad to hook ("fitness"), split it into three concrete video-s
 
 ---
 
-*Like this? The full **Script Doctor** bundle adds the persona plus Video Scripter, Hook Surgeon, Retention Editor — on Claw Mart.*
+*Like this? This is the free gateway skill for **Script Doctor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/script-doctor-persona*

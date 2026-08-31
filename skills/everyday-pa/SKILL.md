@@ -40,4 +40,4 @@ With nothing pasted, ask three questions — who is waiting on you, what is due 
 
 ---
 
-*Like this? The full **Everyday PA** bundle adds the persona plus Email Triage, Reminder Keeper, Follow-up Tracker — on Claw Mart.*
+*Like this? This is the free gateway skill for **Everyday PA** by Moltline Studio. The paid listing: https://www.agensi.io/skills/everyday-pa-bundle*

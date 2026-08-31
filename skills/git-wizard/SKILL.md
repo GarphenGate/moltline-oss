@@ -41,4 +41,4 @@ If the stack cannot be determined, produce a minimal OS-and-editor base file plu
 
 ---
 
-*Like this? The full **Git Wizard** bundle adds the persona plus Branch Strategist, Conflict Resolver, History Groomer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Git Wizard** by Moltline Studio. The paid listing: https://www.agensi.io/skills/git-wizard-bundle*

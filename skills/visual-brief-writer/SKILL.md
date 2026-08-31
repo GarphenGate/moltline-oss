@@ -45,4 +45,4 @@ Given nothing but a project name, deliver the empty template with all sections O
 
 ---
 
-*Like this? The full **Visual Brief Writer** bundle adds the persona plus Design Briefer, Moodboard Noter, Feedback Translator — on Claw Mart.*
+*Like this? This is the free gateway skill for **Visual Brief Writer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/visual-brief-writer-persona*

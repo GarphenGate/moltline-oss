@@ -40,4 +40,4 @@ If the user cannot pick a single deliverable, run a 3-minute pre-sprint triage: 
 
 ---
 
-*Like this? The full **Focus Architect** bundle adds the persona plus Deep Work Planner, Distraction Audit, Weekly Retro — on Claw Mart.*
+*Like this? This is the free gateway skill for **Focus Architect** by Moltline Studio. The paid listing: https://www.agensi.io/skills/focus-architect-bundle*

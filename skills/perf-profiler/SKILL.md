@@ -40,4 +40,4 @@ With no timing tooling at hand, fall back to the coarsest honest clock available
 
 ---
 
-*Like this? The full **Perf Profiler** bundle adds the persona plus Bottleneck Hypothesizer, Benchmark Designer, Optimization Log — on Claw Mart.*
+*Like this? This is the free gateway skill for **Perf Profiler** by Moltline Studio. The paid listing: https://www.agensi.io/skills/perf-profiler-persona*

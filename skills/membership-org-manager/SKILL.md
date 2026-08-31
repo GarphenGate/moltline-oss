@@ -41,4 +41,4 @@ With only the organization type, draft the general three-message series and mark
 
 ---
 
-*Like this? The full **Membership Org Manager** bundle adds the persona plus Renewal Nudger, Member Communicator, Event Signup Runner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Membership Org Manager** by Moltline Studio. The paid listing: https://www.agensi.io/skills/membership-org-manager-persona*

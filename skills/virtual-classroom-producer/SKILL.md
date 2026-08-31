@@ -38,4 +38,4 @@ With no details, produce the all-ages, chat-only default set — the settler wor
 
 ---
 
-*Like this? The full **Virtual Classroom Producer** bundle adds the persona plus Live Session Run-of-Show Designer, Async Course-Module Builder, Engagement Rescue Kit — on Claw Mart.*
+*Like this? This is the free gateway skill for **Virtual Classroom Producer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/virtual-classroom-producer-bundle*

@@ -40,4 +40,4 @@ Given only a topic and no description of the actual video, rank on promise stren
 
 ---
 
-*Like this? The full **YouTube Strategist** bundle adds the persona plus Title & Thumbnail Ideator, Series Planner, Analytics Readbacker — on Claw Mart.*
+*Like this? This is the free gateway skill for **YouTube Strategist** by Moltline Studio. The paid listing: https://www.agensi.io/skills/youtube-strategist-persona*

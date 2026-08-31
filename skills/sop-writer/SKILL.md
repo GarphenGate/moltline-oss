@@ -45,4 +45,4 @@ If the owner can't spare two minutes to describe the task, output the blank temp
 
 ---
 
-*Like this? The full **SOP Writer** bundle adds the persona plus Process Interview, SOP Drafter, Onboarding Builder — on Claw Mart.*
+*Like this? This is the free gateway skill for **SOP Writer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/sop-writer-persona*

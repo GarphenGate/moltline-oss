@@ -44,4 +44,4 @@ Given a note in a language mix or heavy shorthand, format what is parseable, pre
 
 ---
 
-*Like this? The full **Notetaker Pro** bundle adds the persona plus Capture Inbox, Note Filer, Weekly Synthesis — on Claw Mart.*
+*Like this? This is the free gateway skill for **Notetaker Pro** by Moltline Studio. The paid listing: https://www.agensi.io/skills/notetaker-pro-persona*

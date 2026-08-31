@@ -42,4 +42,4 @@ Brief is one vague sentence: return the skeleton plus the seven discovery questi
 
 ---
 
-*Like this? The full **Freelance Agency Desk** bundle adds the persona plus Proposal Writer, Scope Documenter, Client Updater — on Claw Mart.*
+*Like this? This is the free gateway skill for **Freelance Agency Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/freelance-agency-desk-persona*

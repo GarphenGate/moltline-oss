@@ -39,4 +39,4 @@ With nothing pasted, ask one question: "anything arrive overnight you're worried
 
 ---
 
-*Like this? The full **Inbox Commander** bundle adds the persona plus Email Triage, Follow-up Chaser, Unsubscribe Auditor — on Claw Mart.*
+*Like this? This is the free gateway skill for **Inbox Commander** by Moltline Studio. The paid listing: https://www.agensi.io/skills/inbox-commander-bundle*
