@@ -42,4 +42,4 @@ Given only one hour total, issue the single-session version: Desktop & Downloads
 
 ---
 
-*Like this? The full **Digital Declutter** bundle adds the persona plus File Organizer, Account Pruner, Backup Routineer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Digital Declutter** by Moltline Studio. The paid listing: https://www.agensi.io/skills/digital-declutter-bundle*

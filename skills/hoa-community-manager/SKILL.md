@@ -41,4 +41,4 @@ No payment history: draft the neutral upcoming-dues version and mark the stage "
 
 ---
 
-*Like this? The full **HOA Community Manager** bundle adds the persona plus Notice Drafter, Request Tracker, Minutes Writer — on Claw Mart.*
+*Like this? This is the free gateway skill for **HOA Community Manager** by Moltline Studio. The paid listing: https://www.agensi.io/skills/hoa-community-manager-persona*

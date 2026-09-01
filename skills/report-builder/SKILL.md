@@ -43,4 +43,4 @@ If the user can't say who reads the update, default the example to a mixed exec-
 
 ---
 
-*Like this? The full **Report Builder** bundle adds the persona plus Update Compiler, KPI Narrator, Stakeholder Tuner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Report Builder** by Moltline Studio. The paid listing: https://www.agensi.io/skills/report-builder-persona*

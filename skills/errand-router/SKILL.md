@@ -40,4 +40,4 @@ User skips several sweeps: run one catch-up sweep treating it as a single sweep 
 
 ---
 
-*Like this? The full **Errand Router** bundle adds the persona plus Errand Batcher, To-do Capturer, Weekend Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Errand Router** by Moltline Studio. The paid listing: https://www.agensi.io/skills/errand-router-bundle*

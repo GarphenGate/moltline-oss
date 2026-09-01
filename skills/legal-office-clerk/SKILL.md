@@ -40,4 +40,4 @@ With no setup answers, generate the general small-firm version with matter-type 
 
 ---
 
-*Like this? The full **Legal Office Clerk** bundle adds the persona plus Intake Summarizer, Deadline Docketer, Letter Drafter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Legal Office Clerk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/legal-office-clerk-persona*

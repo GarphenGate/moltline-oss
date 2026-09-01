@@ -39,4 +39,4 @@ Given only a name and amount, produce the honest minimal version — thanks, the
 
 ---
 
-*Like this? The full **Nonprofit Organizer** bundle adds the persona plus Grant Boilerplater, Donor Thanker, Volunteer Coordinator — on Claw Mart.*
+*Like this? This is the free gateway skill for **Nonprofit Organizer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/nonprofit-organizer-persona*

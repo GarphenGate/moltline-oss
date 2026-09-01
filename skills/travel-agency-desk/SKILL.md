@@ -41,4 +41,4 @@ Given only a destination and dates, produce the empty day-by-day skeleton with m
 
 ---
 
-*Like this? The full **Travel Agency Desk** bundle adds the persona plus Itinerary Drafter, Supplier Communicator, Trip Doc Packager — on Claw Mart.*
+*Like this? This is the free gateway skill for **Travel Agency Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/travel-agency-desk-persona*

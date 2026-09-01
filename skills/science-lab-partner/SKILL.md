@@ -43,4 +43,4 @@ Student can't name the required format: issue the default school IMRaD-style ske
 
 ---
 
-*Like this? The full **Science Lab Partner** bundle adds the persona plus Concept Explainer, Hypothesis Workshopper, Lab Report Structurer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Science Lab Partner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/science-lab-partner-persona*

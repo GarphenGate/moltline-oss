@@ -42,4 +42,4 @@ If the paste is a goals list with no OKR structure, grade it as raw ambitions: a
 
 ---
 
-*Like this? The full **OKR Navigator** bundle adds the persona plus OKR Drafter, Check-in Cadence, Quarter Scorer — on Claw Mart.*
+*Like this? This is the free gateway skill for **OKR Navigator** by Moltline Studio. The paid listing: https://www.agensi.io/skills/okr-navigator-persona*

@@ -40,4 +40,4 @@ User goes quiet for two weeks: send one line — "Prompts paused. Say the word t
 
 ---
 
-*Like this? The full **Memory Keeper** bundle adds the persona plus Journal Prompter, Milestone Logger, Yearbook Builder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Memory Keeper** by Moltline Studio. The paid listing: https://www.agensi.io/skills/memory-keeper-persona*

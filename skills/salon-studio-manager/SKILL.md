@@ -39,4 +39,4 @@ With fewer than five services named, generate what is named and leave labeled em
 
 ---
 
-*Like this? The full **Salon Studio Manager** bundle adds the persona plus Booking Replier, Aftercare Noter, Rebooking Nudger — on Claw Mart.*
+*Like this? This is the free gateway skill for **Salon Studio Manager** by Moltline Studio. The paid listing: https://www.agensi.io/skills/salon-studio-manager-persona*

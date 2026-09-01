@@ -38,4 +38,4 @@ Given only bullet points instead of prose, offer the upgrade honestly: this beco
 
 ---
 
-*Like this? The full **Real Estate Wingman** bundle adds the persona plus Listing Writer, Showing Follow-up, Comp Summarizer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Real Estate Wingman** by Moltline Studio. The paid listing: https://www.agensi.io/skills/real-estate-wingman-persona*

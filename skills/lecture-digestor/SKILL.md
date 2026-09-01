@@ -40,4 +40,4 @@ Built only from your notes — gaps are marked, not filled.
 
 ---
 
-*Like this? The full **Lecture Digestor** bundle adds the persona plus Notes Structurer, Concept Mapper, Review Sheeter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Lecture Digestor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/lecture-digestor-bundle*

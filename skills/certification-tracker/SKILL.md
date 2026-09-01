@@ -40,4 +40,4 @@ Verify every line on the official certification body page before paying for anyt
 
 ---
 
-*Like this? The full **Certification Tracker** bundle adds the persona plus Requirement Mapper, Study Sprinter, Renewal Keeper — on Claw Mart.*
+*Like this? This is the free gateway skill for **Certification Tracker** by Moltline Studio. The paid listing: https://www.agensi.io/skills/certification-tracker-bundle*

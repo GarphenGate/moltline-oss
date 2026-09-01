@@ -39,4 +39,4 @@ If the user stalls on the full sweep, capture just ring one (household and immed
 
 ---
 
-*Like this? The full **Gift Genius** bundle adds the persona plus Occasion Tracker, Gift Shortlister, Gift Budgeter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Gift Genius** by Moltline Studio. The paid listing: https://www.agensi.io/skills/gift-genius-bundle*

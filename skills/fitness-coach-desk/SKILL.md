@@ -39,4 +39,4 @@ The script works with zero systems: no client data needed beyond names. When the
 
 ---
 
-*Like this? The full **Fitness Coach Desk** bundle adds the persona plus Program Templater, Check-in Messenger, Testimonial Capturer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Fitness Coach Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/fitness-coach-desk-persona*

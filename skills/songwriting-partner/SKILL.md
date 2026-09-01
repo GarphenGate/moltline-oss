@@ -42,4 +42,4 @@ With no seed at all, ask for one true detail from the writer's week and build th
 
 ---
 
-*Like this? The full **Songwriting Partner** bundle adds the persona plus Lyric Drafter, Structure Mapper, Rhyme Workshopper — on Claw Mart.*
+*Like this? This is the free gateway skill for **Songwriting Partner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/songwriting-partner-persona*

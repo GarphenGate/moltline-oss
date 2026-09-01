@@ -41,4 +41,4 @@ Verify reading/admin norms with your program office.
 
 ---
 
-*Like this? The full **Thesis Advisor** bundle adds the persona plus Proposal Structurer, Chapter Milestoner, Defense Prepper — on Claw Mart.*
+*Like this? This is the free gateway skill for **Thesis Advisor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/thesis-advisor-persona*

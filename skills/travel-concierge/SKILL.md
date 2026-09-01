@@ -43,4 +43,4 @@ Given only a destination, produce the seasonal baseline list with counts left as
 
 ---
 
-*Like this? The full **Travel Concierge** bundle adds the persona plus Trip Researcher, Itinerary Builder, Booking Prepper — on Claw Mart.*
+*Like this? This is the free gateway skill for **Travel Concierge** by Moltline Studio. The paid listing: https://www.agensi.io/skills/travel-concierge-persona*

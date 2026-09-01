@@ -36,4 +36,4 @@ Given a vague description instead of a term ('something about testing in another
 
 ---
 
-*Like this? The full **Learning Accommodations Planner** bundle adds the persona plus Accommodation Implementation Organizer, Differentiated-Materials Adapter, Accommodation-Tracking Log Designer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Learning Accommodations Planner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/learning-accommodations-planner-bundle*

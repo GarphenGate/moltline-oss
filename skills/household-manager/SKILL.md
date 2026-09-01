@@ -42,4 +42,4 @@ With no meal plan, build the list from the user's answers to three questions: wh
 
 ---
 
-*Like this? The full **Household Manager** bundle adds the persona plus Chore Rotation, Maintenance Scheduler, Shopping Lister — on Claw Mart.*
+*Like this? This is the free gateway skill for **Household Manager** by Moltline Studio. The paid listing: https://www.agensi.io/skills/household-manager-bundle*

@@ -42,4 +42,4 @@ Given only the star rating and a line of text, draft the safe short reply and no
 
 ---
 
-*Like this? The full **STR Host Manager** bundle adds the persona plus Guest Messenger, Turnover Checklister, Listing Optimizer — on Claw Mart.*
+*Like this? This is the free gateway skill for **STR Host Manager** by Moltline Studio. The paid listing: https://www.agensi.io/skills/str-host-manager-persona*

@@ -41,4 +41,4 @@ If the user goes quiet on a question, offer two example answers from a typical w
 
 ---
 
-*Like this? The full **Weekly Review Coach** bundle adds the persona plus Review Runner, Backlog Groomer, Wins Log — on Claw Mart.*
+*Like this? This is the free gateway skill for **Weekly Review Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/weekly-review-coach-persona*

@@ -41,4 +41,4 @@ Test: cold recall in 10 minutes, then tomorrow, then day 3.
 
 ---
 
-*Like this? The full **Memory Athlete** bundle adds the persona plus Mnemonic Builder, Memory Palace Guide, Recall Gamer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Memory Athlete** by Moltline Studio. The paid listing: https://www.agensi.io/skills/memory-athlete-persona*

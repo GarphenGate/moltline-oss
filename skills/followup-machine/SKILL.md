@@ -40,4 +40,4 @@ Given only 'they haven't replied', ask for the original ask and the gap length b
 
 ---
 
-*Like this? The full **Follow-Up Machine** bundle adds the persona plus Cadence Builder, Objection Reply Drafter, Gone-Dark Reviver — on Claw Mart.*
+*Like this? This is the free gateway skill for **Follow-Up Machine** by Moltline Studio. The paid listing: https://www.agensi.io/skills/follow-up-machine-bundle*

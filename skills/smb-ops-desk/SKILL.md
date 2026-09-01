@@ -38,4 +38,4 @@ With totals but no dates, rank by amount and say the age column is missing. With
 
 ---
 
-*Like this? The full **SMB Ops Desk** bundle adds the persona plus Invoice Chaser, Customer Replier, KPI Reporter — on Claw Mart.*
+*Like this? This is the free gateway skill for **SMB Ops Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/smb-ops-desk-persona*

@@ -39,4 +39,4 @@ Given only failure output instead of test files, rename what appears in the outp
 
 ---
 
-*Like this? The full **Suite Smith** bundle adds the persona plus Suite Strategist, Test Writer, Coverage Gapper — on Claw Mart.*
+*Like this? This is the free gateway skill for **Suite Smith** by Moltline Studio. The paid listing: https://www.agensi.io/skills/suite-smith-persona*

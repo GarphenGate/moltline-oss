@@ -41,5 +41,4 @@ Types: `feat` `fix` `perf` `refactor` `docs` `test` `build` `ci` `chore` `revert
 
 ---
 
-*Like this? The full **DevFlow Engineer** bundle adds a staff-engineer persona plus
-coding-loop, code-review, ci-watchdog, and release-notes skills — on Claw Mart.*
+*Like this? This is the free gateway skill for **DevFlow Engineer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/devflow-engineer-persona*

@@ -40,4 +40,4 @@ With no statements, run the memory sweep by category (streaming, software, fitne
 
 ---
 
-*Like this? The full **Finance Butler** bundle adds the persona plus Bill Calendar, Subscription Auditor, Spending Summarizer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Finance Butler** by Moltline Studio. The paid listing: https://www.agensi.io/skills/finance-butler-bundle*

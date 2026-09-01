@@ -44,4 +44,4 @@ If the user resists per-entry logging entirely, fall back to the end-of-day thre
 
 ---
 
-*Like this? The full **Time Audit Analyst** bundle adds the persona plus Timesheet Analyst, Billable Leak Finder, Utilization Report — on Claw Mart.*
+*Like this? This is the free gateway skill for **Time Audit Analyst** by Moltline Studio. The paid listing: https://www.agensi.io/skills/time-audit-analyst-persona*

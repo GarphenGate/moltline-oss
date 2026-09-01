@@ -38,4 +38,4 @@ Given only a date and headcount, produce the generic skeleton for that event siz
 
 ---
 
-*Like this? The full **Event Planner Pro** bundle adds the persona plus Vendor Communicator, Run-of-Show Builder, Event Budgeter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Event Planner Pro** by Moltline Studio. The paid listing: https://www.agensi.io/skills/event-planner-pro-persona*

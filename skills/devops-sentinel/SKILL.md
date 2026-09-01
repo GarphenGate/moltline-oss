@@ -47,4 +47,4 @@ If the user cannot answer three or more checks, the result is NO-GO by ignorance
 
 ---
 
-*Like this? The full **DevOps Sentinel** bundle adds the persona plus Deploy Checklister, Rollback Planner, Incident Scribe — on Claw Mart.*
+*Like this? This is the free gateway skill for **DevOps Sentinel** by Moltline Studio. The paid listing: https://www.agensi.io/skills/devops-sentinel-persona*

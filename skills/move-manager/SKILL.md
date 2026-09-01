@@ -41,4 +41,4 @@ User answers neither question: emit the renter-to-renter local version, the most
 
 ---
 
-*Like this? The full **Move Manager** bundle adds the persona plus Moving Timeline, Utility Switcher, Address Changer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Move Manager** by Moltline Studio. The paid listing: https://www.agensi.io/skills/move-manager-persona*

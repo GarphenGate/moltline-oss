@@ -40,4 +40,4 @@ With only "help me caption this" and no description, ask for the one-line descri
 
 ---
 
-*Like this? The full **Photo Curator** bundle adds the persona plus Shoot Planner, Culling Coach, Caption Writer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Photo Curator** by Moltline Studio. The paid listing: https://www.agensi.io/skills/photo-curator-persona*

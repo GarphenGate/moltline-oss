@@ -46,4 +46,4 @@ If the artist can't view the piece while answering, run the checklist from memor
 
 ---
 
-*Like this? The full **Art Critique Partner** bundle adds the persona plus Work Critiquer, Reference Researcher, Growth Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Art Critique Partner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/art-critique-partner-bundle*

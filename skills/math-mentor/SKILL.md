@@ -43,4 +43,4 @@ No stated level: open day one with one easy and one medium problem, set the leve
 
 ---
 
-*Like this? The full **Math Mentor** bundle adds the persona plus Problem Walkthrough, Error Analyst, Practice Setter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Math Mentor** by Moltline Studio. The paid listing: https://www.agensi.io/skills/math-mentor-persona*

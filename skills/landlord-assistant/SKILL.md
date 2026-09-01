@@ -41,4 +41,4 @@ Missing lease language: the draft completes with the dependent line marked "conf
 
 ---
 
-*Like this? The full **Landlord Assistant** bundle adds the persona plus Tenant Communicator, Maintenance Dispatcher, Renewal Reminder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Landlord Assistant** by Moltline Studio. The paid listing: https://www.agensi.io/skills/landlord-assistant-persona*

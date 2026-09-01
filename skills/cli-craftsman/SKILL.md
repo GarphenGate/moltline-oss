@@ -40,4 +40,4 @@ If the paste is a fragment or the tool's purpose is unstated, review what is pre
 
 ---
 
-*Like this? The full **CLI Craftsman** bundle adds the persona plus CLI UX Designer, Help Text Writer, Packaging Guide — on Claw Mart.*
+*Like this? This is the free gateway skill for **CLI Craftsman** by Moltline Studio. The paid listing: https://www.agensi.io/skills/cli-craftsman-bundle*

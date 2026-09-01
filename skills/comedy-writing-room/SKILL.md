@@ -40,4 +40,4 @@ If the comedian answers fewer than four sweep questions, mine what exists, mark 
 
 ---
 
-*Like this? The full **Comedy Writing Room** bundle adds the persona plus Joke Structurer, Punch-up Passer, Set-list Builder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Comedy Writing Room** by Moltline Studio. Its full persona and paid skills come with All-Access: https://moltlinestudio.com/#allaccess*

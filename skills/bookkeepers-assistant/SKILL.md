@@ -43,4 +43,4 @@ With a format the skill can't parse, ask for the column headers plus three sampl
 
 ---
 
-*Like this? The full **Bookkeeper's Assistant** bundle adds the persona plus Transaction Categorizer, Reconciliation Guide, Close Checklister — on Claw Mart.*
+*Like this? This is the free gateway skill for **Bookkeeper's Assistant** by Moltline Studio. The paid listing: https://www.agensi.io/skills/bookkeeper-s-assistant-persona*

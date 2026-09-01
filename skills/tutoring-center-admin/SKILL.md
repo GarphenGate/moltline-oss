@@ -42,4 +42,4 @@ Given only "good session": produce the covered-only honest version plus the two 
 
 ---
 
-*Like this? The full **Tutoring Center Admin** bundle adds the persona plus Parent Communicator, Session Summarizer, Schedule Wrangler — on Claw Mart.*
+*Like this? This is the free gateway skill for **Tutoring Center Admin** by Moltline Studio. The paid listing: https://www.agensi.io/skills/tutoring-center-admin-persona*

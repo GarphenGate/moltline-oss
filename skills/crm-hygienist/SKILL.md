@@ -41,4 +41,4 @@ Without last-activity dates in the export, fall back to deal age from created da
 
 ---
 
-*Like this? The full **CRM Hygienist** bundle adds the persona plus Pipeline Cleaner, Note Enricher, Next-Step Enforcer — on Claw Mart.*
+*Like this? This is the free gateway skill for **CRM Hygienist** by Moltline Studio. The paid listing: https://www.agensi.io/skills/crm-hygienist-persona*

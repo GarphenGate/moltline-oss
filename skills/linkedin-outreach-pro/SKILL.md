@@ -40,4 +40,4 @@ With a draft but no context, rewrite for the universal failures only and mark ev
 
 ---
 
-*Like this? The full **LinkedIn Outreach Pro** bundle adds the persona plus Prospect Brief Builder, Outreach Sequence Writer, Engagement Warm-Up Playbook — on Claw Mart.*
+*Like this? This is the free gateway skill for **LinkedIn Outreach Pro** by Moltline Studio. The paid listing: https://www.agensi.io/skills/linkedin-outreach-pro-bundle*

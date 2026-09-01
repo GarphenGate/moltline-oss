@@ -40,4 +40,4 @@ No writing sample: default to friendly-professional and say so, inviting one rou
 
 ---
 
-*Like this? The full **Insurance Agency Aide** bundle adds the persona plus Renewal Reminder, Quote Follow-up, Claims Checklister — on Claw Mart.*
+*Like this? This is the free gateway skill for **Insurance Agency Aide** by Moltline Studio. The paid listing: https://www.agensi.io/skills/insurance-agency-aide-persona*

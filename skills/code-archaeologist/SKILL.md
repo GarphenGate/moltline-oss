@@ -42,4 +42,4 @@ If the user cannot share code details, run the session-end interview anyway and 
 
 ---
 
-*Like this? The full **Code Archaeologist** bundle adds the persona plus Codebase Mapper, Dead Code Finder, Dependency Grapher — on Claw Mart.*
+*Like this? This is the free gateway skill for **Code Archaeologist** by Moltline Studio. The paid listing: https://www.agensi.io/skills/code-archaeologist-bundle*

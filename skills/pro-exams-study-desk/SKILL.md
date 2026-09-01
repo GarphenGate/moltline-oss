@@ -40,4 +40,4 @@ If the user cannot walk through a week ('every week is different'), map their mo
 
 ---
 
-*Like this? The full **Pro Exams Study Desk** bundle adds the persona plus Exam Mapper, Drill Master, Readiness Scorer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Pro Exams Study Desk** by Moltline Studio. The paid listing: https://www.agensi.io/skills/pro-exams-study-desk-persona*

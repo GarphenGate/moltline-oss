@@ -43,4 +43,4 @@ A1..A5: <one line each>
 
 ---
 
-*Like this? The full **Reading Comprehension Coach** bundle adds the persona plus Active Reader, Summary Driller, Discussion Questioner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Reading Comprehension Coach** by Moltline Studio. The paid listing: https://www.agensi.io/skills/reading-comprehension-coach-persona*

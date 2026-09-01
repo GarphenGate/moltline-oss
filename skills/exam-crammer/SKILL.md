@@ -40,4 +40,4 @@ No syllabus: build from the student's from-memory topic list, flagged 'reconstru
 
 ---
 
-*Like this? The full **Exam Crammer** bundle adds the persona plus Study Scheduler, Practice Tester, Weak-Spot Driller — on Claw Mart.*
+*Like this? This is the free gateway skill for **Exam Crammer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/exam-crammer-bundle*

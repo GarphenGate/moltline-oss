@@ -40,4 +40,4 @@ Occasion or count unknown: emit the birthday-at-home version for 15 guests, the 
 
 ---
 
-*Like this? The full **Celebration Planner** bundle adds the persona plus Party Planner, Guest Lister, Event Timeliner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Celebration Planner** by Moltline Studio. The paid listing: https://www.agensi.io/skills/celebration-planner-bundle*

@@ -45,4 +45,4 @@ If the user won't name a storage location, default the example to a single plain
 
 ---
 
-*Like this? The full **Decision Log** bundle adds the persona plus Decision Recorder, Trade-off Matrix, Revisit Reminder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Decision Log** by Moltline Studio. The paid listing: https://www.agensi.io/skills/decision-log-bundle*

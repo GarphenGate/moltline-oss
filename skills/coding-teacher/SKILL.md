@@ -44,4 +44,4 @@ No stated level or language: ask for the language, serve one easy and one medium
 
 ---
 
-*Like this? The full **Coding Teacher** bundle adds the persona plus Concept Ladder, Exercise Generator, Learner Code Reviewer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Coding Teacher** by Moltline Studio. The paid listing: https://www.agensi.io/skills/coding-teacher-bundle*

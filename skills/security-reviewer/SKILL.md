@@ -51,4 +51,4 @@ If the user can only answer some checks, score what is answerable, list the rest
 
 ---
 
-*Like this? The full **Security Reviewer** bundle adds the persona plus Dependency Auditor, Secret Hygienist, Threat Sketcher — on Claw Mart.*
+*Like this? This is the free gateway skill for **Security Reviewer** by Moltline Studio. The paid listing: https://www.agensi.io/skills/security-reviewer-persona*

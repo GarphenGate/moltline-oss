@@ -41,4 +41,4 @@ With no issue text provided, ask for a two-line summary of the lead item and gen
 
 ---
 
-*Like this? The full **Newsletter Chief** bundle adds the persona plus Issue Planner, Curation Digester, Growth Prompter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Newsletter Chief** by Moltline Studio. The paid listing: https://www.agensi.io/skills/newsletter-chief-persona*

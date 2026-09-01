@@ -40,4 +40,4 @@ The pile is too big for one session: sort in batches of 15, keep running totals 
 
 ---
 
-*Like this? The full **Reading Butler** bundle adds the persona plus Reading Queue, Highlights Digest, Book Noter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Reading Butler** by Moltline Studio. The paid listing: https://www.agensi.io/skills/reading-butler-persona*

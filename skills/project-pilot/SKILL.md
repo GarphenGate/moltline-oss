@@ -48,4 +48,4 @@ If the owner has five minutes, not fifteen, run checks 1, 2, and 4 only and mark
 
 ---
 
-*Like this? The full **Project Pilot** bundle adds the persona plus Plan Builder, Status Reporter, Risk Radar — on Claw Mart.*
+*Like this? This is the free gateway skill for **Project Pilot** by Moltline Studio. The paid listing: https://www.agensi.io/skills/project-pilot-persona*

@@ -44,4 +44,4 @@ Student names no topic: issue the generic template with a well-known worked exam
 
 ---
 
-*Like this? The full **History Guide** bundle adds the persona plus Timeline Builder, Source Analyzer, Essay Prepper — on Claw Mart.*
+*Like this? This is the free gateway skill for **History Guide** by Moltline Studio. The paid listing: https://www.agensi.io/skills/history-guide-bundle*

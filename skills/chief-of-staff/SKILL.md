@@ -38,4 +38,4 @@ Given no notes at all, ask three questions (what shipped? what is next? what is 
 
 ---
 
-*Like this? The full **Chief of Staff** bundle adds the persona plus Morning Briefing, Task Triage, Meeting Prep — on Claw Mart.*
+*Like this? This is the free gateway skill for **Chief of Staff** by Moltline Studio. The paid listing: https://www.agensi.io/skills/chief-of-staff-persona*

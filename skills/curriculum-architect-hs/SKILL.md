@@ -42,4 +42,4 @@ With only a topic, assume a 50-minute period and mid-year prior knowledge, label
 
 ---
 
-*Like this? The full **Curriculum Architect HS** bundle adds the persona plus Unit Planner, Assessment Builder, Differentiation Planner — on Claw Mart.*
+*Like this? This is the free gateway skill for **Curriculum Architect HS** by Moltline Studio. The paid listing: https://www.agensi.io/skills/curriculum-architect-hs-bundle*

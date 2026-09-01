@@ -41,4 +41,4 @@ User won't go stand at the closet: run the memory version — list every piece t
 
 ---
 
-*Like this? The full **Wardrobe Valet** bundle adds the persona plus Capsule Planner, Outfit Logger, Donation Passer — on Claw Mart.*
+*Like this? This is the free gateway skill for **Wardrobe Valet** by Moltline Studio. The paid listing: https://www.agensi.io/skills/wardrobe-valet-persona*

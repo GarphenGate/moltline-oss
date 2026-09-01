@@ -40,4 +40,4 @@ User has only a name and title: produce the honest template — role, one hard p
 
 ---
 
-*Like this? The full **Recruiter Copilot** bundle adds the persona plus Job Poster, Candidate Outreacher, Interview Kit Builder — on Claw Mart.*
+*Like this? This is the free gateway skill for **Recruiter Copilot** by Moltline Studio. The paid listing: https://www.agensi.io/skills/recruiter-copilot-persona*

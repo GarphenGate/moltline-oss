@@ -41,4 +41,4 @@ Patterns, not promises: verify against live postings.
 
 ---
 
-*Like this? The full **Career Upskiller** bundle adds the persona plus Gap Analyzer, Learning Pather, Portfolio Projecter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Career Upskiller** by Moltline Studio. The paid listing: https://www.agensi.io/skills/career-upskiller-bundle*

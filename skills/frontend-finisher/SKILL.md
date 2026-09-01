@@ -47,4 +47,4 @@ Given markup only and no live page, run checks 2, 3, 5, and 6 statically, mark 1
 
 ---
 
-*Like this? The full **Frontend Finisher** bundle adds the persona plus Accessibility Passer, Responsive Auditor, Performance Budgeter — on Claw Mart.*
+*Like this? This is the free gateway skill for **Frontend Finisher** by Moltline Studio. The paid listing: https://www.agensi.io/skills/frontend-finisher-bundle*
