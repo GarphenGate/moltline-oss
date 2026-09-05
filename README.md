@@ -188,19 +188,64 @@ free forever — the gateway is not a crippled demo.
 
 </details>
 
+## Hosted MCP servers (no signup, no API key)
+
+The same studio runs **19 hosted MCP servers** at `https://mcp.moltlinestudio.com/<server>`.
+Every endpoint is MCP Streamable HTTP, every one answers anonymous calls on its
+free tools, and each tool description says `FREE.` or `PREMIUM (...)` so an
+agent knows before it calls. **132 tools, 92 free.** Add one to Claude Code:
+
+```bash
+claude mcp add --transport http moltline-lint --scope user \
+  https://mcp.moltlinestudio.com/skillmd-lint
+claude mcp list   # shows "✓ Connected"
+```
+
+Cursor, Codex CLI and any other Streamable HTTP client take the same URL
+unchanged. Check what a server contains before you add it — no session needed:
+
+```bash
+curl -s https://mcp.moltlinestudio.com/skillmd-lint/.well-known/mcp/server-card.json
+```
+
+| Server | What it does | Tools | Free |
+|---|---|---:|---:|
+| [`skillmd-lint`](https://mcp.moltlinestudio.com/skillmd-lint) | Lint a SKILL.md for frontmatter, structure, secrets and size | 6 | 6 |
+| [`catalog`](https://mcp.moltlinestudio.com/catalog) | Search the 138 skills and personas by plain-language job | 10 | 6 |
+| [`codereview`](https://mcp.moltlinestudio.com/codereview) | Risk-scan diffs, flag AI-generated-code tells, find secrets | 7 | 5 |
+| [`govern`](https://mcp.moltlinestudio.com/govern) | Audit MCP configs and skill files for scope and injection risk | 8 | 6 |
+| [`timeops`](https://mcp.moltlinestudio.com/timeops) | Deterministic business-day, overlap and recurrence math | 5 | 3 |
+| [`data`](https://mcp.moltlinestudio.com/data) | Paste-your-data analytics: profiling, A/B, correlation, growth | 7 | 4 |
+| [`humanizer`](https://mcp.moltlinestudio.com/humanizer) | Find AI-isms with evidence and fingerprint a writing voice | 5 | 3 |
+| [`business`](https://mcp.moltlinestudio.com/business) | 30 finance, bookkeeping, legal-ops and SMB operations products | 8 | 6 |
+| [`creator`](https://mcp.moltlinestudio.com/creator) | 20 blogging, brand-voice, copywriting and social products | 8 | 6 |
+| [`educator`](https://mcp.moltlinestudio.com/educator) | 8 curriculum, classroom and exam-prep teaching products | 7 | 5 |
+| [`outbound`](https://mcp.moltlinestudio.com/outbound) | 7 outreach, sequencing, deliverability and CRM products | 8 | 6 |
+| [`personal`](https://mcp.moltlinestudio.com/personal) | 20 inbox, calendar, travel, meals and family-logistics products | 9 | 7 |
+| [`research`](https://mcp.moltlinestudio.com/research) | 7 research navigation, thesis, note-taking and citation products | 8 | 6 |
+| [`merchant`](https://mcp.moltlinestudio.com/merchant) | Processor fees, charge-to-net and invoice totals | 6 | 3 |
+| [`shipping`](https://mcp.moltlinestudio.com/shipping) | Dimensional weight, parcel fit, landed cost, freight class | 6 | 4 |
+| [`shopify`](https://mcp.moltlinestudio.com/shopify) | Product CSV validation, handles, variant matrices, metafields | 6 | 4 |
+| [`dropship`](https://mcp.moltlinestudio.com/dropship) | Margin, lead time, SKU mapping and price-ladder math | 6 | 4 |
+| [`recall`](https://mcp.moltlinestudio.com/recall) | A portable knowledge-graph memory you pass in and get back | 6 | 4 |
+| [`vision`](https://mcp.moltlinestudio.com/vision) | Image header probing, bbox conversion, resize and color math | 6 | 4 |
+
+The directory of all endpoints is machine-readable at
+[`https://mcp.moltlinestudio.com/`](https://mcp.moltlinestudio.com/). A walkthrough with
+the verification steps is at
+[moltlinestudio.com/connect.html](https://moltlinestudio.com/connect.html); which
+*other* hosted servers answer without an account is tested in
+[Hosted MCP Servers That Work With No Account and No API Key](https://community.moltlinestudio.com/post/mcp-servers-no-api-key).
+
 ## Also from Moltline
 
-- **Live MCP servers (free tiers, no signup):** `https://mcp.moltlinestudio.com/`
-  — 19 endpoints (code review, agent governance, date math, CSV analytics,
-  humanizer, merchant math, shipping and dropship economics, Shopify prep,
-  a portable memory graph, vision math, SKILL.md lint, and more) exposing
-  132 tools, 92 of them free with no signup.
 - **Full persona bundles** (persona + focused skills each): on
   [Agensi](https://www.agensi.io) and ClawMart — search "GarphenGate" / "Moltline".
 - **Agent protocol reference:** how x402, AP2, ACP, UCP, MPP and A2A are
   actually implemented on one live domain — [https://moltlinestudio.com/protocols.html](https://moltlinestudio.com/protocols.html).
-- **All-Access license** ($19/mo, unlocks premium tools on every server, crypto
-  accepted): [moltlinestudio.com](https://moltlinestudio.com).
+- **All-Access license** ($19/month, unlocks the 40 premium tools on every
+  server; settled in cryptocurrency through NOWPayments, no card option):
+  [moltlinestudio.com](https://moltlinestudio.com).
 
 ## Support
 
