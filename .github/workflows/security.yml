@@ -1,0 +1,50 @@
+# Security scanning → SARIF (public repo: uploads straight to the Security tab).
+#
+# This repo is skill content (Markdown), not code, so there is no CodeQL job —
+# CodeQL has no supported language to analyse here. Trivy's filesystem scan
+# still earns its place: it runs the secret scanner across every file, so a
+# credential accidentally pasted into a SKILL.md is caught. If code is added
+# later, add a codeql job to match.
+#
+# Defensive only: scans this repo's own contents; nothing probes an external
+# system.
+name: Security
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '53 6 * * 0'   # Sun 06:53 UTC, staggered
+permissions:
+  contents: read
+jobs:
+  trivy-fs:
+    name: Trivy filesystem
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      security-events: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Trivy filesystem scan → SARIF
+        uses: aquasecurity/trivy-action@v0.36.0
+        with:
+          scan-type: fs
+          scanners: vuln,secret,misconfig
+          format: sarif
+          output: trivy-fs.sarif
+          severity: CRITICAL,HIGH,MEDIUM
+          ignore-unfixed: true
+      - name: Upload Trivy SARIF to code scanning
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: trivy-fs.sarif
+          category: trivy-fs
+      - name: Upload Trivy SARIF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sarif-trivy-fs
+          path: trivy-fs.sarif
+          retention-days: 14
+          if-no-files-found: warn
