@@ -190,10 +190,10 @@ free forever — the gateway is not a crippled demo.
 
 ## Hosted MCP servers (no signup, no API key)
 
-The same studio runs **19 hosted MCP servers** at `https://mcp.moltlinestudio.com/<server>`.
+The same studio runs **22 hosted MCP servers** at `https://mcp.moltlinestudio.com/<server>`.
 Every endpoint is MCP Streamable HTTP, every one answers anonymous calls on its
 free tools, and each tool description says `FREE.` or `PREMIUM (...)` so an
-agent knows before it calls. **132 tools, 92 free.** Add one to Claude Code:
+agent knows before it calls. **160 tools, 110 free.** Add one to Claude Code:
 
 ```bash
 claude mcp add --transport http moltline-lint --scope user \
@@ -229,6 +229,9 @@ curl -s https://mcp.moltlinestudio.com/skillmd-lint/.well-known/mcp/server-card.
 | [`dropship`](https://mcp.moltlinestudio.com/dropship) | Margin, lead time, SKU mapping and price-ladder math | 6 | 4 |
 | [`recall`](https://mcp.moltlinestudio.com/recall) | A portable knowledge-graph memory you pass in and get back | 6 | 4 |
 | [`vision`](https://mcp.moltlinestudio.com/vision) | Image header probing, bbox conversion, resize and color math | 6 | 4 |
+| [`regclock`](https://mcp.moltlinestudio.com/regclock) | Incident-reporting deadlines from the legal text: EU CRA, NIS2, DORA, GDPR, HIPAA, SEC 8-K, cited | 9 | 6 |
+| [`taxlots`](https://mcp.moltlinestudio.com/taxlots) | Crypto cost basis: CSV parsing, lot matching, Form 8949 rows, 1099-DA diff | 8 | 5 |
+| [`optimize`](https://mcp.moltlinestudio.com/optimize) | OR-Tools routing, packing, cutting, knapsack and rostering with stated limits | 11 | 7 |
 
 The directory of all endpoints is machine-readable at
 [`https://mcp.moltlinestudio.com/`](https://mcp.moltlinestudio.com/). A walkthrough with
@@ -243,7 +246,7 @@ the verification steps is at
   [Agensi](https://www.agensi.io) and ClawMart — search "GarphenGate" / "Moltline".
 - **Agent protocol reference:** how x402, AP2, ACP, UCP, MPP and A2A are
   actually implemented on one live domain — [https://moltlinestudio.com/protocols.html](https://moltlinestudio.com/protocols.html).
-- **All-Access license** ($19/month, unlocks the 40 premium tools on every
+- **All-Access license** ($19/month, unlocks the 50 premium tools on every
   server; settled in cryptocurrency through NOWPayments, no card option):
   [moltlinestudio.com](https://moltlinestudio.com).
 
