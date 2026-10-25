@@ -27,7 +27,7 @@ Leanings:
 1. <leaning>, evidence: <which picks>
 Tension: <conflict between picks, if any>
 Starter rules:
-DO <rule>: e.g. "<sentence>" / DON'T <rule>, e.g. "<sentence>"
+DO <rule>, e.g. "<sentence>" / DON'T <rule>, e.g. "<sentence>"
 Next: <what a full guide would add>
 ```
 

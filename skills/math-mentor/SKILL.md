@@ -23,7 +23,7 @@ One problem a day at the student's level, with hints available on a ladder and t
 ```
 PROBLEM OF THE DAY: day <n> (level <level>)
 <problem statement>
-Hints available: 3 (ask when stuck: attempt first)
+Hints available: 3 (ask when stuck, attempt first)
 
 DAY RESULT
 Solved: <yes/no> · Hints used: <0-3>
