@@ -21,13 +21,13 @@ The lab report skeleton on demand: every standard section, what belongs in it, w
 ## Output contract
 
 ```
-LAB REPORT SKELETON — <experiment> (<format>)
+LAB REPORT SKELETON: <experiment> (<format>)
 Title: claim or question, not 'Lab 4'
-Introduction — job: <line> · include: <bullets> · keep out: <classic misplacement>
-Method — job: ... · include: ... · keep out: ...
-Results — job: ... · include: ... · keep out: ...
-Discussion — job: ... · include: ... · keep out: ...
-Conclusion — job: one claim-sized paragraph · keep out: <misplacement>
+Introduction, job: <line> · include: <bullets> · keep out: <classic misplacement>
+Method, job: ... · include: ... · keep out: ...
+Results, job: ... · include: ... · keep out: ...
+Discussion, job: ... · include: ... · keep out: ...
+Conclusion, job: one claim-sized paragraph · keep out: <misplacement>
 Self-checks before submitting: <3 per key section>
 ```
 

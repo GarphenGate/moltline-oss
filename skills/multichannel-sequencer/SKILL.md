@@ -1,6 +1,6 @@
 ---
 name: multichannel-sequencer
-description: "Generate a ready-to-adapt 3-touch starter sequence \u2014 email, LinkedIn, email \u2014 for one ICP in minutes. Use to get a first coordinated motion running today."
+description: "Generate a ready-to-adapt 3-touch starter sequence (email, LinkedIn, email) for one ICP in minutes. Use to get a first coordinated motion running today."
 version: 1.0.0
 ---
 
@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Multi-Channel Sequencer bundle by GarphenGate.*
 
-A three-touch starter — email, LinkedIn note, follow-up email — that carries one story across two channels and takes an afternoon, not a quarter, to launch.
+A three-touch starter (email, LinkedIn note, follow-up email) that carries one story across two channels and takes an afternoon, not a quarter, to launch.
 
 ## Procedure
 
@@ -18,15 +18,15 @@ A three-touch starter — email, LinkedIn note, follow-up email — that carries
 4. Deliver in this format:
 
 ```
-STARTER SEQUENCE — <ICP>, goal: <outcome>
-Day 1 — Email (<words>): <full copy>
-Day 4 — LinkedIn (<words>): <full copy>
-Day 8 — Email (<words>): <full copy>
+STARTER SEQUENCE: <ICP>, goal: <outcome>
+Day 1, Email (<words>): <full copy>
+Day 4, LinkedIn (<words>): <full copy>
+Day 8, Email (<words>): <full copy>
 Placeholders to fill: <list>
 Exits: any reply = stop and respond; any opt-out = stop everywhere
 ```
 
-5. Close with the honest scope note: three touches is a start, not a motion — full channel mix, timing design, and call steps are the paid Sequence Designer's job.
+5. Close with the honest scope note: three touches is a start, not a motion. Full channel mix, timing design, and call steps are the paid Sequence Designer's job.
 
 ## Rules
 

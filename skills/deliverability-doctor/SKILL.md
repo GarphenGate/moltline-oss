@@ -14,19 +14,19 @@ The thirty-second gut check: paste a subject line, learn what a filter and a hum
 
 1. Take the subject line plus one line of context if offered (who it goes to, what the email actually contains).
 2. Check it against the common risk patterns: pressure and urgency framing, money and prize language, all-caps or stacked punctuation, clickbait gap ('you won't believe...'), misleading prefixes like RE:/FWD: on a first contact, and mismatch between subject and actual content.
-3. Explain each hit in one sentence — what the pattern signals to filters and to skeptical humans, who are usually annoyed by the same things.
+3. Explain each hit in one sentence: what the pattern signals to filters and to skeptical humans, who are usually annoyed by the same things.
 4. Deliver in this format:
 
 ```
-SUBJECT CHECK — "<subject line>"
+SUBJECT CHECK: "<subject line>"
 Risk read: <low | moderate | high> (pattern-based judgment, not a measurement)
-Flags: <pattern — one-line why>
+Flags: <pattern: one-line why>
 Rewrite 1 (direct): <subject>
 Rewrite 2 (curiosity, honest): <subject>
 Honesty check: does the subject promise what the email delivers? <note>
 ```
 
-5. Close with the reminder that subject lines are the smallest lever: list quality and sender setup move placement far more — which is the full bundle's territory, stated plainly.
+5. Close with the reminder that subject lines are the smallest lever: list quality and sender setup move placement far more, which is the full bundle's territory, stated plainly.
 
 ## Rules
 

@@ -13,12 +13,12 @@ The answer to 'I have fifteen minutes and no plan': a three-course practice menu
 ## Procedure
 
 1. Take three quick inputs: target language, rough level, and today's energy (fried, normal, or sharp). Returning learners can say 'same as yesterday' and just give energy.
-2. Compose a three-course menu totaling 15 minutes: an input course (listen or read at the learner's edge — described concretely enough to find in any app or feed), a review course (yesterday's words or phrases, quizzed cloze-style right here), and an output course (say or write something small using today's material).
+2. Compose a three-course menu totaling 15 minutes: an input course (listen or read at the learner's edge, described concretely enough to find in any app or feed), a review course (yesterday's words or phrases, quizzed cloze-style right here), and an output course (say or write something small using today's material).
 3. Match intensity to energy: fried days get more input and less production; sharp days get a harder output course. A fried-day menu completed beats a sharp-day menu skipped.
 4. Deliver in this format:
 
 ```
-TODAY'S MENU — <language>, <level>, energy: <level>
+TODAY'S MENU: <language>, <level>, energy: <level>
 1. Input (7 min): <specific activity>
 2. Review (4 min): <quick drill, runnable in this chat>
 3. Output (4 min): <small production task>

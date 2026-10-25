@@ -13,7 +13,7 @@ The lightest tracking format that still produces usable weekly data.
 ## Procedure
 
 1. **List active habits.** Cap the scorecard at three; if more are offered, ask which three matter this month and park the rest on a bench list.
-2. **Define done per habit** in binary terms the user can verify in two seconds ("one page read" — not "made progress").
+2. **Define done per habit** in binary terms the user can verify in two seconds ("one page read", not "made progress").
 3. **Pick the medium the user already touches daily**: paper on the fridge, a pinned note, one spreadsheet row. Never propose a new app.
 4. **Generate the card** in the contract below, pre-filled with the user's habits and anchors.
 5. **Set the fill-in moment**: attach marking the card to an existing anchor (same trigger as the evening routine, or the habit itself).
@@ -26,13 +26,13 @@ Habit (2-min version)      M T W T F S S
 1. ____ (after ____)       . . . . . . .
 2. ____ (after ____)       . . . . . . .
 3. ____ (after ____)       . . . . . . .
-Mark: X done · O missed · — not planned
+Mark: X done · O missed · - not planned
 Week note (one line): ____
 ```
 
 ## Rules
 
-- Never add metrics beyond the X/O/— marks and one note line; measurement burden kills tracking faster than missed habits do.
+- Never add metrics beyond the X/O/- marks and one note line; measurement burden kills tracking faster than missed habits do.
 - Never treat an O as needing an excuse; the card records, the weekly review interprets.
 - Days the habit was never planned get a dash, so rest days don't read as failures.
 - If the card itself goes unfilled for a week, shrink it to one habit before changing anything else.

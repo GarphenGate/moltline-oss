@@ -21,7 +21,7 @@ Paste the invitation, say yes, no, or maybe; get back the reply you'd write with
 4. Output:
 
 ```
-RSVP — to <host>, re: <occasion>
+RSVP: to <host>, re: <occasion>
 Verdict: <yes | no | answer by <date>>
 ---
 <the reply, ready to send>

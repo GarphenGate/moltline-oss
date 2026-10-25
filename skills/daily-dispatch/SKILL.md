@@ -21,10 +21,10 @@ Twelve items, one day. This picks the three that count and says out loud what ha
 ## Output
 
 ```
-TOP 3 — <date>
-1. <item> — because: <one line>
-2. <item> — because: <one line>
-3. <item> — because: <one line>
+TOP 3: <date>
+1. <item>, because: <one line>
+2. <item>, because: <one line>
+3. <item>, because: <one line>
 LATER: <item> → <day>
 DELEGATE/ASK: <item> → <who>
 NOT HAPPENING (honestly): <items>

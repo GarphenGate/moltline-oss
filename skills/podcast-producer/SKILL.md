@@ -8,25 +8,25 @@ version: 1.0.0
 
 *Free gateway skill from the Podcast Producer bundle by GarphenGate.*
 
-The episode page structure that serves a real listener's three questions — should I listen, where's the part about X, what was that link — delivered as a template pre-filled with the user's episode.
+The episode page structure that serves a real listener's three questions (should I listen, where's the part about X, what was that link), delivered as a template pre-filled with the user's episode.
 
 ## Procedure
 
 1. **Take whatever episode details exist**: title, guest, a summary, or nothing but the show's premise. The template fills with real content where possible and labeled example content elsewhere.
 2. **Lay down the structure in listener-priority order**: hook paragraph (why press play), chapter list with payoff-phrased labels, verbatim pull quotes, links block, credits, single CTA.
-3. **Fill each section** from provided material; where material is missing, insert a clearly labeled example ("EXAMPLE — replace") showing the standard, never fake episode content that could ship by accident.
+3. **Fill each section** from provided material; where material is missing, insert a clearly labeled example ("EXAMPLE: replace") showing the standard, never fake episode content that could ship by accident.
 4. **Annotate each section** with a one-line why (what listener question it answers), so the user can defend or adapt the format.
 5. **Offer the reuse step**: save this as the show's standing format, so every future episode's notes start at 80 percent done.
 
 ## Output
 
 ```
-EPISODE PAGE TEMPLATE — <show name>
-[Hook — answers "should I listen?"] <filled or EXAMPLE>
-[Chapters — answers "where's the part about X?"]
-<time> — <payoff label>
-[Quotes] "<verbatim>" — <speaker, time>
-[Links — answers "what was that thing?"] <item — why>
+EPISODE PAGE TEMPLATE: <show name>
+[Hook: answers "should I listen?"] <filled or EXAMPLE>
+[Chapters: answers "where's the part about X?"]
+<time>: <payoff label>
+[Quotes] "<verbatim>" (<speaker, time>)
+[Links: answers "what was that thing?"] <item: why>
 [Credits] <roles>
 [CTA] <one ask>
 ```

@@ -21,13 +21,13 @@ A reusable format that turns any period into a causal timeline: the entry templa
 ## Output contract
 
 ```
-TIMELINE TEMPLATE — <period> (question: <why-question>)
+TIMELINE TEMPLATE: <period> (question: <why-question>)
 Entry format:
   <date> · <event, one line>
     ← fed by: <earlier entries / underlying conditions>  [debated?]
     → led to: <later entries>
 Wiring rules: 1) no entry without an arrow  2) trigger vs condition  3) tag disputed links
-Inclusion test: remove it — does the chain break?
+Inclusion test: remove it. Does the chain break?
 Worked entry (yours): <the filled example from step 3>
 Slots to fill: 8-15 · Review offer: paste your draft wiring for a check
 ```

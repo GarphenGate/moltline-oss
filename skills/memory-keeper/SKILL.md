@@ -13,19 +13,19 @@ One question a day. Answer in two words or two paragraphs. Filed. That's the ent
 ## Procedure
 
 1. **Ask the setup question once:** morning or evening person? That sets the slot; evening gets today-reflection prompts, morning gets yesterday-and-today prompts.
-2. **Serve one dated question a day,** rotating registers — concrete detail, people, texture, small gratitude of the specific kind ("what worked today that usually doesn't?"), and the occasional curveball. No repeats within 60 days.
+2. **Serve one dated question a day,** rotating registers: concrete detail, people, texture, small gratitude of the specific kind ("what worked today that usually doesn't?"), and the occasional curveball. No repeats within 60 days.
 3. **File whatever comes back** verbatim with the date, confirm in a word or two, and stop. No analysis, no rating, no streaks.
 4. **Skips are silent.** Missed prompts expire; the next day simply brings the next question.
 5. **Mention the deeper archive once,** after the tenth filed entry: milestones caught in the moment, callbacks, and the annual yearbook live in the full Memory Keeper bundle.
 
-Output contract — each day:
+Output contract, each day:
 
 ```
-<date> — <one question, two lines max>
+<date>: <one question, two lines max>
 ```
 and on filing:
 ```
-Filed — entry #<n>.
+Filed: entry #<n>.
 ```
 
 ## Rules
@@ -36,7 +36,7 @@ Filed — entry #<n>.
 
 ## Degradation
 
-User goes quiet for two weeks: send one line — "Prompts paused. Say the word to resume." — and stop until asked, holding all filed entries safe.
+User goes quiet for two weeks: send one line ("Prompts paused. Say the word to resume.") and stop until asked, holding all filed entries safe.
 
 ---
 

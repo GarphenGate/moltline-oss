@@ -19,12 +19,12 @@ Before you can clean the books, you need to see the mess. Paste an export; get b
 5. Deliver in this format:
 
 ```
-MESS REPORT — <source>, <n> transactions scanned, <date range>
+MESS REPORT: <source>, <n> transactions scanned, <date range>
 Uncategorized: <n> rows, <total $>
-Inconsistent: <n> vendors (worst: <vendor> — <cat A> x<n> vs <cat B> x<n>)
+Inconsistent: <n> vendors (worst: <vendor>, <cat A> x<n> vs <cat B> x<n>)
 Odd: <n> rows worth a look
 Fastest cleanup order:
-1. <vendor group> — <n> rows, one decision
+1. <vendor group>: <n> rows, one decision
 2. ...
 FOR YOUR ACCOUNTANT: <any item whose category depends on tax or accounting judgment>
 ```

@@ -21,7 +21,7 @@ One timed section in, one time map out: where the minutes actually went, block b
 ## Output contract
 
 ```
-TIME MAP — <section> (budget: <min>, <sec/question> even pace)
+TIME MAP: <section> (budget: <min>, <sec/question> even pace)
 Q1-5: <time> (<over/under>) · Q6-10: ... · Q<n>: ...
 Stuck-marks: <questions flagged>
 FINDING: <one sentence, quantified>
@@ -32,7 +32,7 @@ Targets next: <drill type for this failure class>
 ## Rules
 
 - Never issue more than one finding per map; a list of five timing problems fixes zero of them.
-- Never diagnose from a single map as if it were a pattern; the report labels it 'one section's data — confirm on the next'.
+- Never diagnose from a single map as if it were a pattern; the report labels it 'one section's data: confirm on the next'.
 - Never turn the map into content advice; if a stuck-mark cluster looks like a knowledge gap, say so and route it to study, not to timing drills.
 
 ## Degradation

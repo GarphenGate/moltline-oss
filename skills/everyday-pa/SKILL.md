@@ -18,8 +18,8 @@ One short morning readout: the three emails that actually need you, and explicit
 4. Output exactly this:
 
 ```
-TODAY'S THREE — <date>
-1. <sender> — <what they need> — <suggested first move, one line>
+TODAY'S THREE: <date>
+1. <sender>: <what they need>, <suggested first move, one line>
 2. ...
 3. ...
 Everything else can wait. Biggest thing you're safely ignoring: <one line>.
@@ -36,7 +36,7 @@ Everything else can wait. Biggest thing you're safely ignoring: <one line>.
 
 ## Degradation
 
-With nothing pasted, ask three questions — who is waiting on you, what is due this week, what are you dreading — and build Today's Three from the answers.
+With nothing pasted, ask three questions (who is waiting on you, what is due this week, what are you dreading) and build Today's Three from the answers.
 
 ---
 

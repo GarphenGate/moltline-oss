@@ -16,15 +16,15 @@ The weekly check-in that ships in five minutes: three questions, shame-free by c
 2. Deliver the base script on the three-question spine:
 
 ```
-CHECK-IN SCRIPT — weekly
-Hey <name> — checking in on the week.
-1. How'd the week go against the plan — what happened, what didn't?
-2. Anything get in the way? (Schedule, energy, life — all useful to know.)
+CHECK-IN SCRIPT: weekly
+Hey <name>, checking in on the week.
+1. How'd the week go against the plan: what happened, what didn't?
+2. Anything get in the way? (Schedule, energy, life: all useful to know.)
 3. Anything you want to focus on or ask about for next week?
-No judgment on a rough week — it's all planning information. — <coach>
+No judgment on a rough week: it's all planning information. <coach>
 ```
 
-3. Show the one-line personalization: prepend a single specific from the client's week ('Saw you got all three sessions in —') and the reply rate changes; give three examples.
+3. Show the one-line personalization: prepend a single specific from the client's week ('Saw you got all three sessions in...') and the reply rate changes; give three examples.
 4. Add the routing rule as part of the script's instructions: replies mentioning pain, injury, illness, or eating concerns go straight to the coach, quoted, with no advice or reassurance in between.
 
 ## Rules

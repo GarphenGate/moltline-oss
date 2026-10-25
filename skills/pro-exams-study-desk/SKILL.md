@@ -19,10 +19,10 @@ version: 1.0.0
 5. Deliver in this format:
 
 ```
-WEEKLY STUDY MAP — <name/week>
+WEEKLY STUDY MAP: <name/week>
 | Day | Slot | Length | Type (deep/scrap) | Survival rating |
 Countable hours/week: <n> (after 15% buffer)
-Best deep block: <slot> — guard this one first
+Best deep block: <slot> (guard this one first)
 What this supports: <the honest prep pace this number allows>
 ```
 

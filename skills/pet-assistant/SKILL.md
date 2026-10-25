@@ -17,12 +17,12 @@ One page per pet: the facts everyone asks for, written once, updated in seconds.
 3. **Stamp it.** Every card carries a last-updated date and a review-me nudge every six months or after any vet visit.
 4. **Offer the upgrade path:** the full bundle turns this card into tracked vet schedules, a household routine, and complete sitter briefs.
 
-Output contract — always produce this format:
+Output contract: always produce this format:
 
 ```
-PET CARE CARD — <name> · updated <date>
+PET CARE CARD: <name> · updated <date>
 IDENTITY: <species/breed> · <age> · <sex> · <weight> · chip: <y/n>
-FEEDING: <food> — <amount> at <times>
+FEEDING: <food> (<amount> at <times>)
 MEDS: <as written by vet, or "none">
 HEALTH ADMIN: vet <name, phone> · last visit <date> · vaccines: <name: date, ...>
 TEMPERAMENT: <one line> · fears: <one line>

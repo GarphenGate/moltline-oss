@@ -21,10 +21,10 @@ Paste a slow query and its schema; get ranked index candidates with the reasonin
 Advice format:
 
 ```
-INDEX ADVICE: <query purpose> — engine: <name>
+INDEX ADVICE: <query purpose>, engine: <name>
 Access pattern: eq(<cols>) range(<col>) join(<cols>) sort(<cols>)
 Candidates:
-  1. <index definition> — why this column order — expected effect
+  1. <index definition>: why this column order, expected effect
   2. ...
 Redundancy: <existing index affected | none>
 Write cost note: <what this index taxes>

@@ -16,12 +16,12 @@ The weekend cleanup, pre-decided: five bounded sessions, safe order, nothing del
 2. Issue the checklist, one session at a time, each 30 to 60 minutes with a hard stopping point:
 
 ```
-WEEKEND DECLUTTER — <hours> available
-Session 1 — Desktop & Downloads: everything into keep-pile folders or /_Review; delete nothing yet
-Session 2 — Phone: camera-roll screenshots and duplicates to a review album; unused apps offloaded, not erased
-Session 3 — Storage check: what's actually eating space, biggest first — findings, not deletions
-Session 4 — The safety net: one full copy of the irreplaceable stuff to a drive or cloud, started and verified running
-Session 5 — The reviewed delete: empty /_Review and the review album, item by item, only for what session 4 covered
+WEEKEND DECLUTTER: <hours> available
+Session 1 (Desktop & Downloads): everything into keep-pile folders or /_Review; delete nothing yet
+Session 2 (Phone): camera-roll screenshots and duplicates to a review album; unused apps offloaded, not erased
+Session 3 (Storage check): what's actually eating space, biggest first (findings, not deletions)
+Session 4 (The safety net): one full copy of the irreplaceable stuff to a drive or cloud, started and verified running
+Session 5 (The reviewed delete): empty /_Review and the review album, item by item, only for what session 4 covered
 Stop rule: end of timebox = end of session, mid-pile is fine
 ```
 

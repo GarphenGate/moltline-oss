@@ -18,8 +18,8 @@ A fill-in rubric skeleton with the level language already calibrated, so criteri
 4. Remind: student-facing language throughout, so the rubric doubles as a revision checklist.
 
 ```
-RUBRIC — <assignment> | Grade <n>
-Criterion 1: <skill> — why it matters: ____
+RUBRIC: <assignment> | Grade <n>
+Criterion 1: <skill>, why it matters: ____
   4: Work does everything in level 3, plus <named extra feature>
   3: <the bar, described so a student can point to it in their work>
   2: <present but incomplete: what's there, what's missing>

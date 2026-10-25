@@ -8,13 +8,13 @@ version: 1.0.0
 
 *Free gateway skill from the LinkedIn Outreach Pro bundle by GarphenGate.*
 
-Paste your connection request draft; get back a version a stranger would actually accept — and the reason each change was made.
+Paste your connection request draft; get back a version a stranger would actually accept, and the reason each change was made.
 
 ## Procedure
 
-1. Intake the draft, who it's for (role and company is enough), and the real reason for connecting in the user's own words. If the real reason is 'to pitch them', say so honestly — the rewrite will be built around a softer, truthful frame.
+1. Intake the draft, who it's for (role and company is enough), and the real reason for connecting in the user's own words. If the real reason is 'to pitch them', say so honestly: the rewrite will be built around a softer, truthful frame.
 2. Diagnose the draft against the four common failures: no reason given, fake-familiar opener, pitch disguised as a hello, and over-length. Name which apply.
-3. Rewrite: under 300 characters, states the genuine reason, one clear identity line for the sender, zero pitch. Produce two variants — one warmer, one more direct.
+3. Rewrite: under 300 characters, states the genuine reason, one clear identity line for the sender, zero pitch. Produce two variants: one warmer, one more direct.
 4. Deliver in this format:
 
 ```

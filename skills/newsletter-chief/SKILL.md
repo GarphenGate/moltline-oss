@@ -16,13 +16,13 @@ Five subject line variants for a finished issue, ranked with reasons a human can
 2. **Generate five variants across mechanics**: plain-benefit statement, curiosity with payoff, specific number or detail, question the reader is asking themselves, and personal or story-led. All five must be honest about the contents.
 3. **Pair each with preview text** that extends the promise instead of repeating the subject or leaking "View in browser".
 4. **Rank all five** with a one-line reason each, judged against: match to this issue's actual strength, clarity at a phone-width glance, and fit with the user's past subject style if known. Reasons cite the issue, never generic "curiosity performs well" lore.
-5. **Name the risk on the top pick** — every subject has one (too plain, too cute, over-promises) — so the user chooses with eyes open.
+5. **Name the risk on the top pick**, every subject has one (too plain, too cute, over-promises), so the user chooses with eyes open.
 
 ## Output
 
 ```
-SUBJECT TEST — <issue title/date>
-1. "<subject>" + preview: "<text>" — why ranked here: <reason>
+SUBJECT TEST: <issue title/date>
+1. "<subject>" + preview: "<text>", why ranked here: <reason>
 ... (5, ranked)
 Top pick risk: <one line>
 House style note: <fits past sends? one line>

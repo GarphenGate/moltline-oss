@@ -21,10 +21,10 @@ Grade a README the way a stranger experiences it, then name the three fixes that
 Grade card:
 
 ```
-README GRADE: <A-F> — a stranger's first stall: <step/section>
+README GRADE: <A-F> (a stranger's first stall: <step/section>)
 Dimensions: what-is-this <p|f> | quickstart <p|f> | prereqs <p|f> | success signal <p|f> | troubleshooting <p|f>
 Top 3 fixes:
-  1. <fix — time it saves>
+  1. <fix: time it saves>
   2. ...
   3. ...
 Rewrite sample: <worst passage, before -> after>

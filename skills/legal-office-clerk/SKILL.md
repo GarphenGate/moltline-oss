@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Legal Office Clerk bundle by GarphenGate.*
 
-The intake form that catches what matters on day one: identities for the conflict check, dates for the docket, documents for the file — built for the firm to adapt.
+The intake form that catches what matters on day one: identities for the conflict check, dates for the docket, documents for the file (built for the firm to adapt).
 
 ## Procedure
 
@@ -18,12 +18,12 @@ The intake form that catches what matters on day one: identities for the conflic
 4. Deliver in this format:
 
 ```
-CLIENT INTAKE — <firm name> (template, adapt before use)
+CLIENT INTAKE: <firm name> (template, adapt before use)
 ### <section>
 <numbered questions>
 (staff note: <why this section matters>)
 ...
-Reminder: dates and party names route to attorney review — this form collects, it does not conclude.
+Reminder: dates and party names route to attorney review. This form collects, it does not conclude.
 ```
 
 5. Close with the two-step usage note: staff complete it, then it feeds the matter summary and conflict check before any engagement.

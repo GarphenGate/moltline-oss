@@ -27,7 +27,7 @@ SPEECH: 5-8
 TWIST: 9-12
 PLACE/TIME: 13-16
 ADDRESS: 17-20
-STRONGEST: #<n> — <the song it implies> (three picks)
+STRONGEST: #<n>, <the song it implies> (three picks)
 ```
 
 ## Rules

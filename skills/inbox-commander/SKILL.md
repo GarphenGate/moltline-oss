@@ -21,8 +21,8 @@ Answer one question before the inbox gets a chance to shout: what in there needs
 ## Output
 
 ```
-DIGEST — <date>
-1. <sender>: <what they need> — by <when>
+DIGEST: <date>
+1. <sender>: <what they need> (by <when>)
 2. ...
 3. ... (+<n> more can wait)
 ```

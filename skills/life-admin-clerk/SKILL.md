@@ -12,17 +12,17 @@ One guided sweep, one list: every expiry you're currently trusting to luck, sort
 
 ## Procedure
 
-1. **Run the sweep as a quick interview,** category by category: passports (everyone in the household), driving licenses, vehicle registration/inspection, insurance policy end dates, payment cards, professional certifications, and the subscriptions that auto-renew for real money. For each: expiry date if known, or 'unknown' — which is the finding.
+1. **Run the sweep as a quick interview,** category by category: passports (everyone in the household), driving licenses, vehicle registration/inspection, insurance policy end dates, payment cards, professional certifications, and the subscriptions that auto-renew for real money. For each: expiry date if known, or 'unknown', which is the finding.
 2. **Sort the results into three bands:** RED (inside 6 months, or unknown for a critical document), YELLOW (6-18 months), GREEN (18+ months).
-3. **Attach the honest note to each RED item:** typical processing time for that document type, marked 'typical — verify with the issuing office,' so the user sees why 'five months away' can mean 'start now.'
+3. **Attach the honest note to each RED item:** typical processing time for that document type, marked 'typical: verify with the issuing office,' so the user sees why 'five months away' can mean 'start now.'
 4. **End with the two-step exit:** tonight, find the unknowns in the documents drawer; this week, start the reddest item. Ongoing lead-time alerts, in-flight tracking, and application checklists are the paid Life Admin Clerk bundle.
 
-Output contract — always produce this format:
+Output contract: always produce this format:
 
 ```
-RENEWALS — household sweep · <date>
-RED: <item> — expires <date or UNKNOWN> — typical processing ~<time> [verify]
-YELLOW: <item> — <date>
+RENEWALS: household sweep · <date>
+RED: <item>, expires <date or UNKNOWN>, typical processing ~<time> [verify]
+YELLOW: <item> (<date>)
 GREEN: <n> items, nearest <date>
 UNKNOWNS TO FIND TONIGHT: <list>
 THIS WEEK: start <reddest item>

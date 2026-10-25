@@ -8,12 +8,12 @@ version: 1.0.0
 
 *Free gateway skill from the Decision Log bundle by GarphenGate.*
 
-The record format that makes re-litigation optional — filled in once as a demonstration.
+The record format that makes re-litigation optional, filled in once as a demonstration.
 
 ## Procedure
 
 1. **Ask two questions only**: what kind of decisions keep coming back (product, money, people, tools), and where the user will keep the log (notes app, repo, doc).
-2. **Issue the template** in the contract below, unchanged in structure — the fields are the point.
+2. **Issue the template** in the contract below, unchanged in structure: the fields are the point.
 3. **Fill a worked example** using a real recent decision the user names, or a realistic one from their domain if they'd rather not share. Keep it to half a page.
 4. **Explain the two fields people skip** in one line each: rejected options preserve the debate; the falsifier is what lets the decision stay closed with a clear conscience.
 5. **Set the habit hook**: recommend logging at the moment of decision, and offer the storage-appropriate convention (one file per decision, or one running file, newest on top).
@@ -21,15 +21,15 @@ The record format that makes re-litigation optional — filled in once as a demo
 Output contract:
 
 ```
-DECISION <yyyy-mm-dd> — <one sentence, active voice>
+DECISION <yyyy-mm-dd>: <one sentence, active voice>
 Type: one-way | reversible
 Context: what forced this now (3 lines max)
 Options considered:
   A) <chosen>
-  B) <rejected> — strongest point: ...
+  B) <rejected>, strongest point: ...
 Rationale: why A won, in one short paragraph
 Would reopen if: <specific evidence or metric>
-Review: <date / metric / none — closed>
+Review: <date / metric / none: closed>
 ```
 
 ## Rules

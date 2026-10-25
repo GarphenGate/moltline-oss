@@ -21,10 +21,10 @@ Paste any list; get three ways to never forget it, and a ten-minute test to see 
 Deliver in this format:
 
 ```
-THREE WAYS — <list> (order matters: y/n)
-1 ACRONYM: <the build> — best if: <one line>
-2 STORY CHAIN: <the chain, images spelled out> — best if: <one line>
-3 KEYWORD IMAGES: <item: image> — best if: <one line>
+THREE WAYS: <list> (order matters: y/n)
+1 ACRONYM: <the build>, best if: <one line>
+2 STORY CHAIN: <the chain, images spelled out>, best if: <one line>
+3 KEYWORD IMAGES: <item: image>, best if: <one line>
 Coach's pick for this list: <which and why>
 Test: cold recall in 10 minutes, then tomorrow, then day 3.
 ```

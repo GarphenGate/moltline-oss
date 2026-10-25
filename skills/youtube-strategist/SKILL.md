@@ -22,7 +22,7 @@ Five titles for the next video, ranked with reasons, so the working title never 
 
 ```
 VIDEO: <two sentences> / PROMISE: <one sentence>
-1. "<title>" [<logic>] — <why it ranks here>
+1. "<title>" [<logic>]: <why it ranks here>
 2. ...
 (working title ranked at #<n>)
 TOP PICK THUMB NOTE: <what the thumbnail adds>

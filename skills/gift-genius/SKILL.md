@@ -14,13 +14,13 @@ The one-time sweep that turns 'I'm bad with dates' into a list that does the rem
 
 1. Sweep in rings, inside out: household, immediate family, closest friends, extended family that expects a call, colleagues and mentors, then annual occasions that aren't people (anniversaries, memorials the user observes).
 2. For each entry capture: name, occasion, date, and the gesture tier the user assigns (gift / card / call / message).
-3. Catch the traps explicitly: ask about the dates people feel worst about missing — anniversaries of loss where the user prefers to reach out, kids' birthdays where the gift really goes to the household, and occasions that moved (rescheduled weddings, adopted-day celebrations).
+3. Catch the traps explicitly: ask about the dates people feel worst about missing, anniversaries of loss where the user prefers to reach out, kids' birthdays where the gift really goes to the household, and occasions that moved (rescheduled weddings, adopted-day celebrations).
 4. Output the master calendar:
 
 ```
-OCCASION CALENDAR — <n> entries, built <date>
+OCCASION CALENDAR: <n> entries, built <date>
 <Month>
-- <day> — <person> — <occasion> — tier: <gift|card|call|message>
+- <day>: <person>, <occasion>, tier: <gift|card|call|message>
 Unknown dates to hunt down: <people the user wants listed but can't date yet>
 ```
 

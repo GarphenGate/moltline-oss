@@ -21,12 +21,12 @@ A ready 30-day challenge for the maker's medium: one card, floor versions includ
 ## Output
 
 ```
-CHALLENGE CARD: <name> — <medium>, 30 days
+CHALLENGE CARD: <name> (<medium>, 30 days)
 BODY OF WORK: <one sentence>
 DAILY: standard <min> min: <spec> / floor: <10-min version>
 WEEKS: w1 <pattern> / w2-3 <pattern + vary> / w4 <push + finish>
 DAY 12 SHAKE-UP: <the twist>
-TWO-MISS RULE: on — floor version, no make-up, no guilt
+TWO-MISS RULE: on (floor version, no make-up, no guilt)
 DAY 30: <finishing ritual>
 ```
 

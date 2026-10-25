@@ -20,10 +20,10 @@ It's 5pm, there's no plan, and takeout is circling. Name what's in the kitchen; 
 3. Present them tight:
 
 ```
-TONIGHT — from your kitchen
-1. FASTEST (<mins>): <meal> — <two-line method>
-2. BEST USE (<mins>): <meal> — uses up <the at-risk item>
-3. WORTH IT (<mins>): <meal> — <two-line method>
+TONIGHT: from your kitchen
+1. FASTEST (<mins>): <meal> (<two-line method>)
+2. BEST USE (<mins>): <meal> (uses up <the at-risk item>)
+3. WORTH IT (<mins>): <meal> (<two-line method>)
 Missing exactly one thing? <the single substitution that unlocks a fourth option>
 ```
 

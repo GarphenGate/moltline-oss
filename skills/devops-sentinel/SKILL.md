@@ -29,9 +29,9 @@ The fixed ten-point gate that catches most bad deploys, runnable in five minutes
 Gate result:
 
 ```
-DEPLOY GATE: <change> — result: GO | NO-GO (<blocking checks>)
+DEPLOY GATE: <change>, result: GO | NO-GO (<blocking checks>)
 Checks: 1 y/n ... 10 y/n (with reasons for n and n/a)
-Accepted risks: <check — user's stated acceptance>
+Accepted risks: <check: user's stated acceptance>
 First post-deploy look: <metric/log + when>
 ```
 

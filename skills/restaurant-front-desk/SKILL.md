@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Restaurant Front Desk bundle by GarphenGate.*
 
-One review in, one gracious reply out — the fastest way to stop dreading the notifications tab.
+One review in, one gracious reply out: the fastest way to stop dreading the notifications tab.
 
 ## Procedure
 
@@ -18,7 +18,7 @@ One review in, one gracious reply out — the fastest way to stop dreading the n
 4. Deliver in this format:
 
 ```
-REPLY DRAFT — <stars if stated>★
+REPLY DRAFT: <stars if stated>★
 Their point: <one line>
 <draft>
 Before sending, confirm: <any fact the draft assumes>

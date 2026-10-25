@@ -18,10 +18,10 @@ One list that answers the question every owner asks on a bad cash day: who owes 
 4. Deliver in this format:
 
 ```
-OVERDUE — as of <date>
+OVERDUE: as of <date>
 | # | Customer | Amount | Days late | Confidence |
 Total outstanding: $<sum>  ·  Oldest: <days> days
-Chase first: <top entry> — <one-line reason>
+Chase first: <top entry> (<one-line reason>)
 ```
 
 5. Close with the offer: pick any line and a tailored reminder can be drafted next.

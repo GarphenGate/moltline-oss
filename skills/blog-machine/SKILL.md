@@ -12,19 +12,19 @@ A filled-in skeleton for any post topic in one pass: reader, promise, sections w
 
 ## Procedure
 
-1. **Take the topic in whatever shape it arrives** — a keyword, a client one-liner, a vague "something about onboarding emails." Restate it as a reader plus their question in one line.
+1. **Take the topic in whatever shape it arrives**: a keyword, a client one-liner, a vague "something about onboarding emails." Restate it as a reader plus their question in one line.
 2. **Fill the skeleton immediately**, best-guess, no interviewing first: promise sentence, 4-5 section headings each with a one-line payoff, one working title.
 3. **Mark the soft spots.** Any skeleton line that is a guess gets a (guess) tag so the user knows where to push back.
-4. **Write the first sentence of the post** — a real one, in plain voice — because a skeleton plus a first sentence is a started draft, and started drafts get finished.
+4. **Write the first sentence of the post** (a real one, in plain voice), because a skeleton plus a first sentence is a started draft, and started drafts get finished.
 5. **Offer the next step**: tighten this skeleton into a full outline, or fill a different topic.
 
 ## Output
 
 ```
-SKELETON — <working title>
+SKELETON: <working title>
 Reader asking: <question>
 Promise: <one sentence>
-1. <heading> — pays off with <content> (guess?)
+1. <heading>: pays off with <content> (guess?)
 ... (4-5)
 First sentence: "<actual opening line>"
 Soft spots to confirm: <list>

@@ -21,11 +21,11 @@ One exercise a day, sized for one sitting, pitched at the learner's level, with 
 ## Output contract
 
 ```
-EXERCISE OF THE DAY — day <n> (<language>, level <level>)
+EXERCISE OF THE DAY: day <n> (<language>, level <level>)
 Build: <behavior>
 Cases: <input → output> x3
 Edge to consider: <one case>
-Hints: 3 available — attempt first.
+Hints: 3 available (attempt first).
 
 DAY RESULT: <clean / hints used: n / walkthrough>
 Your lesson: "<learner's one sentence>"

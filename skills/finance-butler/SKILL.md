@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Finance Butler bundle by GarphenGate.*
 
-Paste statements, get back the complete list of what recurs — including the ones hiding under odd billing names.
+Paste statements, get back the complete list of what recurs, including the ones hiding under odd billing names.
 
 ## Procedure
 
@@ -18,7 +18,7 @@ Paste statements, get back the complete list of what recurs — including the on
 4. Output the list:
 
 ```
-RECURRING CHARGES — from <date range>
+RECURRING CHARGES: from <date range>
 | Charge (as printed) | Likely service | /mo | /yr | Cycle |
 Monthly total: <sum> | Annualized: <sum>
 Unidentified (check these): <raw lines kept verbatim>
@@ -36,7 +36,7 @@ Possibly annual (need 12 months to confirm): <lines>
 
 ## Degradation
 
-With no statements, run the memory sweep by category (streaming, software, fitness, news, storage, boxes, apps) and label the result 'memory-based — expect this list to be incomplete.'
+With no statements, run the memory sweep by category (streaming, software, fitness, news, storage, boxes, apps) and label the result 'memory-based: expect this list to be incomplete.'
 
 ---
 

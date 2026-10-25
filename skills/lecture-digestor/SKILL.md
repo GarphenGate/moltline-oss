@@ -21,11 +21,11 @@ Paste what you scribbled; get one page back that says what the lecture argued an
 Deliver in this format:
 
 ```
-ONE-PAGE SUMMARY — <course>: <topic>
-SPINE: 1. <claim> — support: <line> — example: <one>  [2-4 total]
+ONE-PAGE SUMMARY (<course>): <topic>
+SPINE: 1. <claim>, support: <line>, example: <one>  [2-4 total]
 Flags: [gap] <what's missing> | [?] <what's confused>
 ASK BEFORE NEXT LECTURE: 1. <question> 2. <question>
-Built only from your notes — gaps are marked, not filled.
+Built only from your notes: gaps are marked, not filled.
 ```
 
 ## Rules

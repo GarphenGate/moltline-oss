@@ -21,7 +21,7 @@ Paste a passage, get questions that check understanding rather than memory of th
 Deliver in this format:
 
 ```
-COMPREHENSION CHECK — <passage>
+COMPREHENSION CHECK: <passage>
 Q1 [literal] <question> (ans: para <n>)
 Q2 [literal] <question> (ans: para <n>)
 Q3 [inference] <question> (ans: paras <n>-<m>)
