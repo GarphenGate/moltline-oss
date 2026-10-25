@@ -21,11 +21,11 @@ Fourteen days of obligations on one screen, sorted by which ones can actually hu
 ## Output
 
 ```
-NEXT 14 DAYS — <date>
+NEXT 14 DAYS: <date>
 DANGER:
-- <deliverable> — <for whom> — due <date> (<n>d) — not started
+- <deliverable>: <for whom>, due <date> (<n>d), not started
 WATCH: <same shape>
-FINE: <deliverable> — <date>
+FINE: <deliverable> (<date>)
 ASSUMED DATES: <items needing confirmation>
 START TODAY: <the one item>
 ```

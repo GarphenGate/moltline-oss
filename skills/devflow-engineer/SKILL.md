@@ -15,7 +15,7 @@ One job: turn "what I changed" into a commit message a stranger can trust in two
 ```
 <type>(<scope>): <imperative summary, ≤65 chars, no period>
 
-<body: WHY the change, not what — the diff shows what. Wrap at 72.>
+<body: WHY the change, not what (the diff shows what). Wrap at 72.>
 
 <footer: BREAKING CHANGE: ..., Fixes #123, Refs #456>
 ```
@@ -25,7 +25,7 @@ Types: `feat` `fix` `perf` `refactor` `docs` `test` `build` `ci` `chore` `revert
 ## Procedure
 
 1. Read the diff (preferred) or the user's description of the change.
-2. Determine ONE type. A diff that is honestly two types should be two commits — say so
+2. Determine ONE type. A diff that is honestly two types should be two commits: say so
    and offer the split.
 3. Choose the narrowest true scope from the paths touched (`auth`, `api`, `parser`).
 4. Summary line: imperative mood ("add", not "added"/"adds"), specific ("fix null deref
@@ -35,9 +35,9 @@ Types: `feat` `fix` `perf` `refactor` `docs` `test` `build` `ci` `chore` `revert
 
 ## Rules
 
-- Never write "update", "misc", "wip", or "various fixes" as a summary — name the actual change or ask.
+- Never write "update", "misc", "wip", or "various fixes" as a summary: name the actual change or ask.
 - Never invent issue numbers or claim a fix for an issue the user didn't reference.
-- Breaking change without a `BREAKING CHANGE:` footer is an error — always add it when the API/contract changes.
+- Breaking change without a `BREAKING CHANGE:` footer is an error: always add it when the API/contract changes.
 
 ---
 

@@ -24,7 +24,7 @@ Sixty seconds, four questions, one verdict: hand it off, keep it, or systematize
 ## Output
 
 ```
-VERDICT — <task>
+VERDICT: <task>
 Recurring: <n>x/year x <m> min = <hours>/year
 Delegable: <yes | with training | no> | Owner-only: <yes/no>
 → <DELEGATE | SYSTEMATIZE FIRST | KEEP | JUST DO IT>

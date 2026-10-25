@@ -17,10 +17,10 @@ A packing list built from this trip, not from a generic template with 90 items y
 3. Produce the list grouped and counted:
 
 ```
-PACKING — <destination>, <n> days
+PACKING: <destination>, <n> days
 Clothing (laundry every <n> days): <item x count>
 Footwear: ...
-Toiletries & meds: your usual prescriptions and toiletries — count the days
+Toiletries & meds: your usual prescriptions and toiletries (count the days)
 Documents & money: <what to carry, what to photograph>
 Tech & chargers: ...
 Activity-specific: <per planned activity>

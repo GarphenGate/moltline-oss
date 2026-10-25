@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Social Strategist bundle by GarphenGate.*
 
-One idea in, three platform-native posts out — each with its own hook, its own format, and no copy-paste smell.
+One idea in, three platform-native posts out: each with its own hook, its own format, and no copy-paste smell.
 
 ## Procedure
 
@@ -21,10 +21,10 @@ One idea in, three platform-native posts out — each with its own hook, its own
 ## Output
 
 ```
-REPURPOSE — core: <claim in one line>
-1. [<platform> — <format>] <full draft> — needs: <asset or none>
-2. [<platform> — <format>] <full draft> — needs: ...
-3. [<platform> — <format>] <full draft> — needs: ...
+REPURPOSE, core: <claim in one line>
+1. [<platform>: <format>] <full draft>, needs: <asset or none>
+2. [<platform>: <format>] <full draft>, needs: ...
+3. [<platform>: <format>] <full draft>, needs: ...
 Angle map: <which version takes which entry point>
 ```
 

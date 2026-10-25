@@ -8,12 +8,12 @@ version: 1.0.0
 
 *Free gateway skill from the Frontend Finisher bundle by GarphenGate.*
 
-The fifteen-minute check for the eight accessibility issues most UIs ship with — hands-on, evidence required.
+The fifteen-minute check for the eight accessibility issues most UIs ship with: hands-on, evidence required.
 
 ## Procedure
 
 1. Take one page or flow, and run the eight checks in order, each with its concrete test:
-   1. Keyboard path: tab through the whole flow — everything reachable, focus visible, no traps.
+   1. Keyboard path: tab through the whole flow (everything reachable, focus visible, no traps).
    2. Image meaning: informative images have alt text that carries the meaning; decorative ones are marked decorative.
    3. Form labels: every input has a programmatic label, not just placeholder text.
    4. Contrast: body text and controls meet AA ratios, measured, not eyeballed.
@@ -27,10 +27,10 @@ The fifteen-minute check for the eight accessibility issues most UIs ship with �
 Check card:
 
 ```
-A11Y QUICK CHECK: <page> — <n>/8 passed (engineering check, not certification)
-1. Keyboard  pass|fail — <evidence>
+A11Y QUICK CHECK: <page>, <n>/8 passed (engineering check, not certification)
+1. Keyboard  pass|fail: <evidence>
 ...
-8. Motion    pass|fail — <evidence>
+8. Motion    pass|fail: <evidence>
 Top fix: <the failure blocking the most users, with the smallest change>
 Full pass recommended if: <2+ fails, or any keyboard fail>
 ```

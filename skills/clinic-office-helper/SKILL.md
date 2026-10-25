@@ -18,11 +18,11 @@ The FAQ page that cuts phone volume: the questions patients actually ask, struct
 4. Deliver in this format:
 
 ```
-PRACTICE FAQ — <practice name>
+PRACTICE FAQ: <practice name>
 ### <question as a patient would ask it>
 <answer frame with (practice fills in: ...) markers>
 ...
-Note: the 'clinical questions' entry must route to the provider — no FAQ answers symptoms.
+Note: the 'clinical questions' entry must route to the provider (no FAQ answers symptoms).
 ```
 
 5. Close with ordering advice: put the three highest-volume questions first, and keep the page under one screen where possible.

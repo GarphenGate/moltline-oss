@@ -21,10 +21,10 @@ Ten questions, one verdict: which kind of gap actually stands between you and th
 Deliver the result in this format:
 
 ```
-GAP QUIZ — target: <role>
+GAP QUIZ, target: <role>
 Evidence: <e/p/c per question> | Exposure: <...> | Market: <...> | Signal: <...>
 Tally: evidence <n> | partial <n> | claim <n>
-VERDICT: <proof | learning | targeting | visibility> gap — because: <two lines>
+VERDICT: <proof | learning | targeting | visibility> gap, because: <two lines>
 THIS WEEK: <one concrete action matched to the verdict>
 Patterns, not promises: verify against live postings.
 ```

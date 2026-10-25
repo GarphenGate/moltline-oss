@@ -14,14 +14,14 @@ One paste, one ranked list of the deals going quietly cold.
 
 1. **Take any export or paste** containing deal name, value, stage, and last activity date. Ask for nothing else; this is the two-minute version.
 2. **Compute days silent** per open deal from last activity to today. If the data distinguishes inbound from outbound touches, use days since last inbound and say so; if not, note that true silence is probably longer than shown.
-3. **Filter to 14+ days silent** and rank by deal value, descending — the expensive silence first.
+3. **Filter to 14+ days silent** and rank by deal value, descending: the expensive silence first.
 4. **Annotate each entry** with one factual line: days silent, stage, and close date status (upcoming, this week, or already past).
 5. **Total the cold value** and hand over the list with one closing question per top-three deal: 'what would reactivate this, and is it worth doing this week?'
 
 Output contract:
 
 ```
-STALE DEALS — <date> · threshold: 14 days
+STALE DEALS: <date> · threshold: 14 days
 | # | Deal | Value | Stage | Days silent | Close date |
 Cold pipeline total: $X across N deals (X% of open pipeline)
 Top 3 worth a decision this week: ...

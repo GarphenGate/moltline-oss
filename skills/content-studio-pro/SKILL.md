@@ -21,11 +21,11 @@ Ten real openings for one topic, each built on a different mechanic, so the user
 ## Output
 
 ```
-HOOKS — <topic> for <audience>
+HOOKS: <topic> for <audience>
 1. [claim] <hook>
 2. [number] <hook>
 ... (10 total, mechanic labeled)
-Top 3: #<n> — <why it fits this audience>, #<n> — <why>, #<n> — <why>
+Top 3: #<n> (<why it fits this audience>), #<n> (<why>), #<n> (<why>)
 ```
 
 ## Rules

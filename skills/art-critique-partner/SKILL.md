@@ -27,7 +27,7 @@ Seven questions that let any artist critique their own piece with borrowed dista
 ## Output
 
 ```
-SELF-CRITIQUE: <piece> — intent: <one sentence>
+SELF-CRITIQUE: <piece>, intent: <one sentence>
 Q1-Q7: <the artist's pointed-at answers>
 KEEP: <strength, located>
 NOTE: <break, located>

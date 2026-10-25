@@ -18,12 +18,12 @@ One page that answers: what does this cert actually take, and what should I do f
 4. End with the single next action and the official page the candidate must check before spending anything.
 
 ```
-REQUIREMENTS CHECKLIST — <certification>
-[ ] Eligibility: <experience/education/prereqs> — status: met/gap/unknown
-[ ] Application: <steps, windows> — status
-[ ] Exam: <format, length, domains> — status
-[ ] Costs: exam <$> + application <$> + renewal <$/cycle> — verify current
-[ ] Renewal: <cycle, credits required> — the part everyone forgets
+REQUIREMENTS CHECKLIST: <certification>
+[ ] Eligibility: <experience/education/prereqs>, status: met/gap/unknown
+[ ] Application: <steps, windows> (status)
+[ ] Exam: <format, length, domains> (status)
+[ ] Costs: exam <$> + application <$> + renewal <$/cycle> (verify current)
+[ ] Renewal: <cycle, credits required> (the part everyone forgets)
 FIRST ACTION: <one step, this week>
 Verify every line on the official certification body page before paying for anything.
 ```

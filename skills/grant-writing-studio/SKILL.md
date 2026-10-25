@@ -19,7 +19,7 @@ The LOI is the audition. Build a tailored skeleton from one mission paragraph an
 5. Deliver in this format:
 
 ```
-LOI SKELETON — <org> to <funder>
+LOI SKELETON: <org> to <funder>
 Fit notes: <priority-to-program matches, and any priority with no match>
 1. Opening: <guiding line> [have | NEED: <question>]
 2. Need: ...

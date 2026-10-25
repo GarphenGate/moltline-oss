@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the STR Host Manager bundle by GarphenGate.*
 
-Your review reply is written for one guest and read by the next hundred. This skill drafts the gracious, specific public response — warm for praise, composed and non-defensive for criticism.
+Your review reply is written for one guest and read by the next hundred. This skill drafts the gracious, specific public response: warm for praise, composed and non-defensive for criticism.
 
 ## Procedure
 
@@ -21,7 +21,7 @@ Your review reply is written for one guest and read by the next hundred. This sk
 Output contract:
 
 ```
-REVIEW REPLY — <property>
+REVIEW REPLY: <property>
 REVIEW SENTIMENT: <positive | mixed | negative> | FLAGS: <legal/refund-sensitive | none>
 ---
 <public reply, under 80 words>

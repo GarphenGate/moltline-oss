@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Script Doctor bundle by GarphenGate.*
 
-Twenty hook patterns that keep working, each adapted into an actual sayable line for the user's topic — a bank to draw from, not a lecture about hooks.
+Twenty hook patterns that keep working, each adapted into an actual sayable line for the user's topic: a bank to draw from, not a lecture about hooks.
 
 ## Procedure
 
@@ -21,11 +21,11 @@ Twenty hook patterns that keep working, each adapted into an actual sayable line
 ## Output
 
 ```
-HOOK BANK — <topic> for <audience>
+HOOK BANK: <topic> for <audience>
 PROMISE-DIRECT
 1. "<line>" (needs: <payoff requirement, if any>)
 ... (20 total, grouped)
-Starred: #<n> — <why>, ... (5)
+Starred: #<n> (<why>), ... (5)
 ```
 
 ## Rules

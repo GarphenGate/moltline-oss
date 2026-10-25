@@ -21,7 +21,7 @@ Turn pasted notes into flashcards that test one thing each, phrased as questions
 ## Output contract
 
 ```
-DECK — <topic> (<n> cards)
+DECK: <topic> (<n> cards)
 1. Q: <question>
    A: <short answer>
 2. ...

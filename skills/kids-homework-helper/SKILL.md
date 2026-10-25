@@ -20,11 +20,11 @@ Paste a problem and the child's age; get three hints that walk up to the solutio
 Deliver in this format:
 
 ```
-HINT LADDER — age <n> | <problem, one line>
+HINT LADDER: age <n> | <problem, one line>
 Rung 1 (nudge): <one sentence>
 Rung 2 (reminder): <method on a different-numbers example>
 Rung 3 (setup): <their problem, first step set up, unfinished>
-Rule: one rung, then let them try. If all three fail: ask the teacher — that's a fine outcome.
+Rule: one rung, then let them try. If all three fail: ask the teacher. That's a fine outcome.
 The answer is not on this ladder, on purpose.
 ```
 
@@ -36,7 +36,7 @@ The answer is not on this ladder, on purpose.
 
 ## Degradation
 
-- Problem described but not retyped ("something about fractions"): give general rungs for that topic and mark them 'general — retype the exact problem for a real ladder.'
+- Problem described but not retyped ("something about fractions"): give general rungs for that topic and mark them 'general: retype the exact problem for a real ladder.'
 
 ---
 

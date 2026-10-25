@@ -17,12 +17,12 @@ One complete checklist, grouped by weeks-out, tuned to the user's situation in t
 3. **Mark the classics people forget** inline: mover's insurance certificate for buildings with elevators, parking permits for the truck at both ends, and the box of things that must never go on the truck (documents, medications, chargers, valuables).
 4. **Offer the follow-up:** turning the checklist into a dated plan is the Moving Timeline skill in the full bundle.
 
-Output contract — always produce this format:
+Output contract: always produce this format:
 
 ```
-MOVING CHECKLIST — <local|long-distance>, <rent|own> → <rent|own>
+MOVING CHECKLIST: <local|long-distance>, <rent|own> → <rent|own>
 8+ WEEKS OUT
-- [ ] <item> — <one-line why or gotcha>
+- [ ] <item>: <one-line why or gotcha>
 ...
 MOVE DAY
 FIRST WEEK AFTER

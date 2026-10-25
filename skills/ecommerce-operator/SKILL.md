@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the E-commerce Operator bundle by GarphenGate.*
 
-One product in, one honest, publishable description out — the fast version of a product page that still converts.
+One product in, one honest, publishable description out: the fast version of a product page that still converts.
 
 ## Procedure
 
@@ -18,10 +18,10 @@ One product in, one honest, publishable description out — the fast version of 
 4. Deliver in this format:
 
 ```
-DESCRIPTION — <product>
+DESCRIPTION: <product>
 Headline: <line>
 <hook>
-- <fact — benefit>
+- <fact: benefit>
 Based on: <the facts provided>
 Not claimed (no source): <anything the copy deliberately left out>
 ```

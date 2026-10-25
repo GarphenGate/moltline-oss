@@ -22,10 +22,10 @@ The week that just happened is full of material. Mine it with questions, not pro
 
 ```
 PREMISE MINE: <date>
-1. <premise: observation + opinion> — assumption to load: <...> — first line: "<...>"
+1. <premise: observation + opinion>, assumption to load: <...>, first line: "<...>"
 ... (ten total)
 FLAT BUT SAVED: <premises kept honest about their odds>
-WRITE TONIGHT: #<n> and #<n> — <why these have heat>
+WRITE TONIGHT: #<n> and #<n> (<why these have heat>)
 ```
 
 ## Rules

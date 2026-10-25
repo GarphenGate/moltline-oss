@@ -18,13 +18,13 @@ The 90-minute session skeleton that turns "let's review chapter 5" into a sessio
 4. Remind the user to name an owner per block before sharing; an agenda without owners is a suggestion, not a plan.
 
 ```
-STUDY SESSION — <subject> | <date> | <k> members
-0:00 Warm-up: 5 closed-book recall questions (10m) — owner: ____
-0:10 Block 1: <topic> — <format> (25m) — owner: ____ — output: ____
-0:35 Block 2: <topic> — <format> (25m) — owner: ____ — output: ____
-1:00 Block 3: <topic> — <format> (20m) — owner: ____ — output: ____
+STUDY SESSION: <subject> | <date> | <k> members
+0:00 Warm-up: 5 closed-book recall questions (10m), owner: ____
+0:10 Block 1: <topic>, <format> (25m), owner: ____, output: ____
+0:35 Block 2: <topic>, <format> (25m), owner: ____, output: ____
+1:00 Block 3: <topic>, <format> (20m), owner: ____, output: ____
 1:20 Recap: what stuck, what didn't, next-session prep (10m)
-1:30 Social buffer — earned, on purpose
+1:30 Social buffer: earned, on purpose
 ```
 
 ## Rules

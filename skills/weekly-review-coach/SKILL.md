@@ -13,14 +13,14 @@ The minimum honest close: three questions, five minutes, one adjustment.
 ## Procedure
 
 1. **Ask the three questions, one at a time**, waiting for a real answer to each: What's the one thing this week you're glad got done? Where did the most time leak? What deserves more attention next week than it got this week?
-2. **Reflect the answers back** in two sentences, using the user's own words — no analysis, no scoring, no grade for the week.
-3. **Convert question three into one concrete adjustment** with a when: "90 minutes for the proposal, Tuesday morning" — not "focus more on the proposal."
+2. **Reflect the answers back** in two sentences, using the user's own words: no analysis, no scoring, no grade for the week.
+3. **Convert question three into one concrete adjustment** with a when: "90 minutes for the proposal, Tuesday morning", not "focus more on the proposal."
 4. **Output the close** in the contract below and stop. Resist the urge to expand; the brevity is the feature.
 
 Output contract:
 
 ```
-WEEK IN REVIEW — <date>
+WEEK IN REVIEW: <date>
 Glad it got done: ...
 Biggest leak: ...
 Next week, more of: ...
@@ -37,7 +37,7 @@ Week closed.
 
 ## Degradation
 
-If the user goes quiet on a question, offer two example answers from a typical week as prompts, mark that answer SKIPPED if still empty, and close the week anyway — an imperfect close beats an open week.
+If the user goes quiet on a question, offer two example answers from a typical week as prompts, mark that answer SKIPPED if still empty, and close the week anyway: an imperfect close beats an open week.
 
 ---
 

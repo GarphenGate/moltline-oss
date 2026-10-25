@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Refactor Surgeon bundle by GarphenGate.*
 
-Grade any file's structural health with a fixed 10-point pass — fast, repeatable, and honest about what matters.
+Grade any file's structural health with a fixed 10-point pass: fast, repeatable, and honest about what matters.
 
 ## Procedure
 
@@ -21,10 +21,10 @@ Grade any file's structural health with a fixed 10-point pass — fast, repeatab
 Scorecard format:
 
 ```
-SMELL CHECKLIST: <file> — grade: <A-F>
- 1. One job per function        pass|flag|fail — <reason>
+SMELL CHECKLIST: <file>, grade: <A-F>
+ 1. One job per function        pass|flag|fail: <reason>
  ...
-10. Two-minute explainability   pass|flag|fail — <reason>
+10. Two-minute explainability   pass|flag|fail: <reason>
 Top fix: <the single change that raises the grade most>
 ```
 

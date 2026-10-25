@@ -16,12 +16,12 @@ The two-minute triage: paste a week, get a diagnosis and the single most urgent 
 2. **Compute four vitals**: meeting hours as % of working hours; longest unbroken focus stretch; number of context switches per day (distinct meeting topics); % of meetings with no stated purpose visible.
 3. **Grade each vital** green / yellow / red against honest thresholds (meetings >60% of hours: red; longest focus stretch <90 min: red; >6 switches/day: yellow at best).
 4. **Name the primary ailment** in one plain sentence ("Your week has no stretch long enough to think in").
-5. **Prescribe exactly one next step** — the highest-leverage single move, not a program.
+5. **Prescribe exactly one next step**: the highest-leverage single move, not a program.
 
 Output contract:
 
 ```
-CALENDAR HEALTH CHECK — week of <date>
+CALENDAR HEALTH CHECK: week of <date>
 Meeting load: X% [G/Y/R]
 Longest focus stretch: Xh [G/Y/R]
 Context switches/day: X [G/Y/R]

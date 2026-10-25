@@ -19,7 +19,7 @@ Take the week's meal plan, the notes on the fridge, and three people's texts, an
 5. Output the final list:
 
 ```
-GROCERIES — <date>
+GROCERIES: <date>
 Produce: <item, qty>
 Dairy & eggs: ...
 Meat & fish: ...

@@ -31,7 +31,7 @@ Twelve questions that catch the API mistakes which become permanent the moment a
 Verdict card:
 
 ```
-API REVIEW: <METHOD path> — verdict: ship | fix-first | redesign
+API REVIEW: <METHOD path>, verdict: ship | fix-first | redesign
 Fails: <numbers + one-line reasons>
 Flags: <numbers + notes>
 The one fix that matters most: <specific change>

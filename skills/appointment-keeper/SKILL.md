@@ -17,7 +17,7 @@ Ninety days of expirations on one page: documents, memberships, registrations, a
 3. Sort by act-by date (expiry minus lead), not expiry date, and output:
 
 ```
-RENEWAL RADAR — next 90 days, as of <date>
+RENEWAL RADAR: next 90 days, as of <date>
 | Act by | Item | Expires | Renew via | Status |
 Overdue to start: <items past act-by>
 Beyond 90 days but slow to renew: <long-lead items worth starting>
@@ -35,7 +35,7 @@ Beyond 90 days but slow to renew: <long-lead items worth starting>
 
 ## Degradation
 
-If the user has no dates at hand, produce the sweep checklist itself as the output — the drawer-by-drawer list of what to check — and build the radar in a second pass when dates come back.
+If the user has no dates at hand, produce the sweep checklist itself as the output (the drawer-by-drawer list of what to check) and build the radar in a second pass when dates come back.
 
 ---
 

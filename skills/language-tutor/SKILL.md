@@ -21,11 +21,11 @@ One phrase a day, chosen for real-life usefulness, delivered with pronunciation,
 ## Output contract
 
 ```
-PHRASE OF THE DAY — day <n> (<language>)
+PHRASE OF THE DAY: day <n> (<language>)
 Phrase: <target-language phrase>
 Means: <natural translation>
 Sounds like: <rough pronunciation>
-Register: <formal / neutral / casual-only> — <when to use, one line>
+Register: <formal / neutral / casual-only> (<when to use, one line>)
 Hook: <one memory hook>
 Challenge: <one concrete use-it task>
 Yesterday's callback: can you still say "<meaning>"?

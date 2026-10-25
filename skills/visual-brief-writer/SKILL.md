@@ -22,11 +22,11 @@ The one-page brief skeleton, pre-filled with whatever the user already knows and
 
 ```
 BRIEF (v0): <project>
-AUDIENCE: <filled | OPEN — ask: ...>
-ACTION: <filled | OPEN — ask: ...>
-MESSAGE: <filled | OPEN — ask: ...>
-DELIVERABLES: <filled | OPEN — ask: ...>
-CONSTRAINTS: <filled | OPEN — ask: ...>
+AUDIENCE: <filled | OPEN, ask: ...>
+ACTION: <filled | OPEN, ask: ...>
+MESSAGE: <filled | OPEN, ask: ...>
+DELIVERABLES: <filled | OPEN, ask: ...>
+CONSTRAINTS: <filled | OPEN, ask: ...>
 SUCCESS CRITERIA: <filled | DRAFT: ...>
 ANTI-GOAL: <filled | DRAFT: ...>
 REFERENCES: <filled | OPEN>

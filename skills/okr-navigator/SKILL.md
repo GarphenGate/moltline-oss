@@ -22,8 +22,8 @@ Paste the OKRs you have. Get back the ones a tough friend would let you keep, an
 
 ```
 OKR CRITIQUE
-O1: <verdict> — <one line>
-  KR1.1: <KEEP|REWRITE|CUT> — fails: <checks> 
+O1: <verdict> (<one line>)
+  KR1.1: <KEEP|REWRITE|CUT>, fails: <checks> 
     rewrite: "<new KR with number, baseline, source>"
 STRUCTURAL: <orphan KRs, KR-less objectives>
 PATTERN: <dominant failure mode>

@@ -19,12 +19,12 @@ One page, back-planned from the date that binds, so the distance between today a
 5. Hand off with the rule: this map is re-penciled monthly from today forward, never chased.
 
 ```
-MILESTONE MAP — binding deadline: <date>
+MILESTONE MAP, binding deadline: <date>
 <-- back-planned -->
 <month>: <chapter/phase> -> deliverable: <artifact>
 <month>: <chapter/phase> -> deliverable: <artifact>
 Reserved: committee reads <n> wks | revisions <n> wks | admin <n> wks
-Riskiest interval: <which> — warning sign: <observable>
+Riskiest interval: <which>, warning sign: <observable>
 Rule: re-pencil monthly from today; the old map is archived, not chased.
 Verify reading/admin norms with your program office.
 ```

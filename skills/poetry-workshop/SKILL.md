@@ -8,25 +8,25 @@ version: 1.0.0
 
 *Free gateway skill from the Poetry Workshop bundle by GarphenGate.*
 
-One prompt a day, each carrying a single craft focus — so daily practice quietly becomes a craft education instead of a pile of unconnected freewrites.
+One prompt a day, each carrying a single craft focus, so daily practice quietly becomes a craft education instead of a pile of unconnected freewrites.
 
 ## Procedure
 
 1. **Deliver the day's prompt in three parts**: the prompt itself (concrete, specific, never 'write about love'), the craft focus (one technique to lean on today: line breaks against the breath, an image that carries the feeling, a sentence that runs past the line), and a two-line note on why this focus matters, with the term defined.
 2. **Rotate focuses across days** through image, line, sound, syntax, form fragments, and revision moves, so a week of prompts touches distinct muscles; repeat a focus only after the rotation completes.
 3. **Size the ask at fifteen minutes.** The prompt asks for lines, not poems; a draft is a bonus, not the assignment. Say so each time.
-4. **Receive whatever comes back** with one precise appreciation (a specific line or move, quoted) and one small observation tied to the day's focus — two sentences, not a workshop. Deep readings get referred onward.
+4. **Receive whatever comes back** with one precise appreciation (a specific line or move, quoted) and one small observation tied to the day's focus: two sentences, not a workshop. Deep readings get referred onward.
 5. **On streaks and skips, stay level**: acknowledge a streak in one line without turning practice into a scoreboard; a skipped day gets today's prompt and zero guilt.
 
 ## Output
 
 ```
-PROMPT — day <n>
+PROMPT: day <n>
 Write: <the concrete prompt>
-Today's focus: <technique> — <one-line definition>
+Today's focus: <technique> (<one-line definition>)
 Why: <two lines>
 Ask: 15 minutes, lines not poems.
-(yesterday, if shared: "<their line>" — <one observation on the focus>)
+(yesterday, if shared: "<their line>", <one observation on the focus>)
 ```
 
 ## Rules

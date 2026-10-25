@@ -8,7 +8,7 @@ version: 1.0.0
 
 *Free gateway skill from the Git Wizard bundle by GarphenGate.*
 
-Build the .gitignore your exact stack needs — and handle the files that were committed before the rule existed.
+Build the .gitignore your exact stack needs, and handle the files that were committed before the rule existed.
 
 ## Procedure
 
@@ -26,7 +26,7 @@ GITIGNORE: <stack summary>
 
 Already tracked but now ignored: <files | none found>
 Untrack commands (run only after review; removes from tracking, not from disk): <commands>
-Deliberately NOT ignored: <lockfiles, etc. — why they stay committed>
+Deliberately NOT ignored: <lockfiles, etc.: why they stay committed>
 ```
 
 ## Rules

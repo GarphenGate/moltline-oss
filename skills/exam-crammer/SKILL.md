@@ -21,10 +21,10 @@ One pass from syllabus plus exam date to a two-week plan: weighted topics, daily
 ## Output contract
 
 ```
-TWO-WEEK PLAN — <exam> (<h> hrs/day)
+TWO-WEEK PLAN: <exam> (<h> hrs/day)
 Weights: <topic: hours> ... | Sacrificed: <topics or 'none'>
 Days 1-11: <per-day blocks + recall sweep topic>
-Days 12-14: retrieval only — <what to drill>
+Days 12-14: retrieval only (<what to drill>)
 Slip rule: lose a day → cut <pre-agreed item>
 ```
 

@@ -28,12 +28,12 @@ The fifteen-minute check that catches the misunderstanding while it still costs 
 ## Output
 
 ```
-KICKOFF CHECK — <project>
+KICKOFF CHECK: <project>
 1. Done = ... [OK/OPEN]
 ... (all 8)
 VERDICT: READY | READY-WITH-RISKS | NOT READY
-OPEN ITEMS: <item> — close by asking <who> <what> by <date>
-FIRST ACTION: <what> — <owner> — <date>
+OPEN ITEMS: <item>, close by asking <who> <what> by <date>
+FIRST ACTION: <what>, <owner>, <date>
 ```
 
 ## Rules

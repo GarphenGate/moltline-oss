@@ -18,11 +18,11 @@ The pile becomes three lists in fifteen minutes, and one of the lists is permiss
 4. **Frame ADMIT-IT-NEVER as release, not failure:** these go to donate/gift/return, and the list records the title so it can be retrieved if the itch returns.
 5. **Hand off the result** and note that keeping it ranked week to week, matched to mood and deadlines, is the Reading Queue skill in the full bundle.
 
-Output contract — always produce this format:
+Output contract: always produce this format:
 
 ```
-TBR SORT — <n> books processed
-NEXT (max 5): 1. <title> — <one-line why>
+TBR SORT: <n> books processed
+NEXT (max 5): 1. <title>: <one-line why>
 SOMEDAY (<n>): <titles, grouped by loose theme>
 ADMIT IT: NEVER (<n>): <titles> → suggested exit: donate / gift / return
 FIRST MOVE: start <NEXT #1> tonight; box the never-list this week

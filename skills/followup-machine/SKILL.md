@@ -22,10 +22,10 @@ NUDGE (<gap length>, <word count>):
 <full draft>
 The new thing in it: <one line>
 The easier ask: <one line>
-If this one also gets silence: <wait interval, then what — one line>
+If this one also gets silence: <wait interval, then what (one line)>
 ```
 
-5. Close with the honest note when it applies: if the user has nothing new to add, the draft waits — a contentless nudge spends trust to buy nothing.
+5. Close with the honest note when it applies: if the user has nothing new to add, the draft waits. A contentless nudge spends trust to buy nothing.
 
 ## Rules
 

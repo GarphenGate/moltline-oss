@@ -21,10 +21,10 @@ Paste any reference in any state (a URL, a messy citation, half a memory of a pa
 ## Output contract
 
 ```
-FORMATTED CITATION — <style>
+FORMATTED CITATION: <style>
 <the citation, with [MISSING: field] markers where data is absent>
 In-text: <the matching in-text/note form>
-Missing fields: <field — where to find it> (or 'complete')
+Missing fields: <field, where to find it> (or 'complete')
 Confidence: <parsed cleanly / check the fields marked ?>
 ```
 

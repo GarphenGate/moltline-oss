@@ -23,7 +23,7 @@ From messy notes to a standup update that sounds like someone in control, in und
 ```
 YESTERDAY: <done items, one line each>
 TODAY: <max 3 intents>
-BLOCKERS: <item — who/what it waits on, or "none">
+BLOCKERS: <item, who/what it waits on, or "none">
 ```
 
 ## Rules

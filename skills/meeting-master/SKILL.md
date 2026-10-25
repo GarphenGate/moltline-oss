@@ -21,7 +21,7 @@ Put a price tag on the recurring meeting and then ask the only question that mat
 ## Output
 
 ```
-MEETING COST — <meeting>
+MEETING COST: <meeting>
 BILL: <n> people x <m> min x <freq> = <hours>/yr (~$<x>/yr if cost given)
 RETURN (last 3): <what it produced, or "nothing concrete">
 VERDICT: EARNS IT | RESTRUCTURE (<change>) | KILL (replace with <alternative>)

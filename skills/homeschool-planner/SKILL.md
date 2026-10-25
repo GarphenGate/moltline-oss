@@ -25,7 +25,7 @@ Fixed: <co-op Tue AM, dentist Thu 2pm>
 <child> A:<math>   A:<math>   A:<math>   A:<math>   catch-up
         A:<read>   co-op      A:<read>   A:<read>   + finish
         F:<loop>              F:<loop>   F:<loop>   week log
-Open afternoon: <day> — protected
+Open afternoon: <day>, protected
 A = anchor (happens even on a bad day) | F = flex (moves without guilt)
 Friday log: what actually happened, 2 minutes, parent's words
 ```

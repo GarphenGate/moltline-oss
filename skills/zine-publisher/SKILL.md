@@ -22,9 +22,9 @@ Ten themes with enough tension to fill pages, each with a first-page idea so sta
 
 ```
 ZINE THEMES:
-1. <name> — tension: <one line> — first page: <concrete piece to start tonight>
+1. <name>, tension: <one line>, first page: <concrete piece to start tonight>
 ... (ten total)
-STRONGEST FOR YOU: #<n> and #<n> — <reasons>
+STRONGEST FOR YOU: #<n> and #<n> (<reasons>)
 ```
 
 ## Rules

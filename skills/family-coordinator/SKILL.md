@@ -17,13 +17,13 @@ Five minutes on Sunday, one fridge-door page, and Monday stops ambushing the fam
 3. Produce the one-pager, formatted to be read from across a kitchen:
 
 ```
-THE WEEK — <dates>
+THE WEEK: <dates>
 MON: <the day's one line per person who has something>
 TUE: ...
 ...
 DON'T FORGET: <the 2-3 items most likely to be missed>
 NEEDS AN ANSWER: <open questions with who decides>
-NOBODY HAS: <any coverage gap spotted — in caps because it matters>
+NOBODY HAS: <any coverage gap spotted (in caps because it matters)>
 ```
 
 4. Keep each day to the exceptions; standing items appear only when they change. A digest that lists everything gets read by no one.

@@ -21,10 +21,10 @@ One task, fifty minutes, a scope line you may not cross, and a parking lot for e
 ## Output
 
 ```
-SPRINT — <deliverable>
+SPRINT: <deliverable>
 SCOPE LINE: in: <the task> / out: <named exclusions>
 PARKED: <intrusions captured mid-sprint>
-RESULT: <done / partial — what exists now>
+RESULT: <done / partial: what exists now>
 RESUME POINT: <the one next step>
 ```
 

@@ -23,7 +23,7 @@ One topic prompt in, a credible module map out: enough structure to see the cour
 ```
 COURSE IDEA: <topic> / STUDENT: <who (ASSUMED?)>
 EXIT: <capability sentence>
-1. <capability module> — <2-3 lesson bullets> — check: <artifact>
+1. <capability module>: <2-3 lesson bullets>, check: <artifact>
 ...
 ARC: early win <...> / midpoint <...> / finale <...>
 RISKS: <assumption flags + too-big flags>

@@ -1,6 +1,6 @@
 ---
 name: classroom-commander
-description: "Get a quick, dignified playbook to reset a class period that's going sideways \u2014 right now or for tomorrow. Use in the planning minutes before or after the rough one."
+description: "Get a quick, dignified playbook to reset a class period that's going sideways, right now or for tomorrow. Use in the planning minutes before or after the rough one."
 version: 1.0.0
 ---
 
@@ -13,12 +13,12 @@ The five-minute playbook for the period that got away from you: reset today with
 ## Procedure
 
 1. Take the sixty-second picture: grade, what's happening (noise floor rising, transitions dissolving, one ringleader, whole-room drift), and whether the reset is for right now or for tomorrow's period.
-2. For a mid-period reset, give the in-the-moment sequence: the pause (stop talking, stand still, wait — scripted silence beats scripted shouting), the reset statement (calm, two sentences, verbatim), one immediate structural change (seat move, activity switch to low-interaction work, lights/signal), and the note-to-self on what to log.
-3. For tomorrow's re-entry, give the fresh-start plan: the two-minute re-entry script that names yesterday without relitigating it, the one routine to re-teach first, and the two students to positively connect with in the first five minutes — usually including yesterday's hardest.
+2. For a mid-period reset, give the in-the-moment sequence: the pause (stop talking, stand still, wait; scripted silence beats scripted shouting), the reset statement (calm, two sentences, verbatim), one immediate structural change (seat move, activity switch to low-interaction work, lights/signal), and the note-to-self on what to log.
+3. For tomorrow's re-entry, give the fresh-start plan: the two-minute re-entry script that names yesterday without relitigating it, the one routine to re-teach first, and the two students to positively connect with in the first five minutes, usually including yesterday's hardest.
 4. Deliver in this format:
 
 ```
-RESET — <now | tomorrow>, <grade>
+RESET: <now | tomorrow>, <grade>
 Say this: <verbatim script>
 Do this: <one structural change>
 Don't: <the tempting move that makes it worse>
@@ -26,13 +26,13 @@ Log: <one line for the teacher's records>
 Tomorrow's first 5 minutes: <re-entry moves>
 ```
 
-5. Close plainly: resets patch the period, systems fix the pattern — and the full bundle's routines and behavior-system builders are where the pattern gets fixed.
+5. Close plainly: resets patch the period, systems fix the pattern, and the full bundle's routines and behavior-system builders are where the pattern gets fixed.
 
 ## Rules
 
 - Never scripts yelling, sarcasm, group punishment, or public humiliation; a reset that costs the teacher the relationship is a loss dressed as control.
 - Never handles safety situations; anything involving harm, threats, or a student in crisis routes to admin and school protocols immediately, stated first.
-- Never pretends one reset fixes a pattern; the playbook says what it is — a patch.
+- Never pretends one reset fixes a pattern; the playbook says what it is: a patch.
 
 ## Degradation
 

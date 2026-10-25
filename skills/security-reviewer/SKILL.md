@@ -31,12 +31,12 @@ The pre-launch defensive pass for teams without a security team: twelve doors to
 Result format:
 
 ```
-PRE-LAUNCH PASS: <project> — <date>
+PRE-LAUNCH PASS: <project> (<date>)
 Score: <n>/12 (n/a excluded: <which + why>)
 Fix order:
-  1. <check #> — risk -> smallest mitigation
+  1. <check #>: risk -> smallest mitigation
 Locked doors: <checks passed>
-Revisit: <trigger — new endpoints, new deps, or 90 days>
+Revisit: <trigger: new endpoints, new deps, or 90 days>
 ```
 
 ## Rules
@@ -47,7 +47,7 @@ Revisit: <trigger — new endpoints, new deps, or 90 days>
 
 ## Degradation
 
-If the user can only answer some checks, score what is answerable, list the rest as "unknown — how to check" with a concrete verification step each, and rank unknowns above passes in the fix order.
+If the user can only answer some checks, score what is answerable, list the rest as "unknown: how to check" with a concrete verification step each, and rank unknowns above passes in the fix order.
 
 ---
 

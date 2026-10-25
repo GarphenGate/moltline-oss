@@ -8,21 +8,21 @@ version: 1.0.0
 
 *Free gateway skill from the Salon Studio Manager bundle by GarphenGate.*
 
-Five services, five aftercare card skeletons, one pass — the structure ready for the practitioner's own instructions, printable or textable.
+Five services, five aftercare card skeletons, one pass: the structure ready for the practitioner's own instructions, printable or textable.
 
 ## Procedure
 
 1. Ask for the studio's top five services by name, and whether cards ship as print-ready text blocks or message templates.
-2. For each service, generate the card structure: title line, 'first days: what to expect' slot, do/avoid columns with duration slots, product-note slot, and the fixed closing line — 'Anything feel off? Contact us at <number> — we'd rather hear early.'
+2. For each service, generate the card structure: title line, 'first days: what to expect' slot, do/avoid columns with duration slots, product-note slot, and the fixed closing line: 'Anything feel off? Contact us at <number>: we'd rather hear early.'
 3. Mark every content slot explicitly as practitioner-fill: the card carries the structure and the contact habit; the practitioner supplies every care instruction.
 4. Deliver in this format:
 
 ```
-AFTERCARE CARD — <service>            (practitioner completes before use)
+AFTERCARE CARD: <service>            (practitioner completes before use)
 What to expect, first <duration slot>: <practitioner fills>
 Do: <practitioner fills>        Avoid (for <duration slot>): <practitioner fills>
 Product note: <practitioner fills>
-Anything feel off? Contact us at <number> — we'd rather hear early.
+Anything feel off? Contact us at <number>: we'd rather hear early.
 ```
 
 5. Close with the usage note: once the practitioner fills and approves the cards, turning them into personal post-visit messages with sign-off tracking is the paid Aftercare Noter's job.
